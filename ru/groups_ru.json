@@ -1,42 +1,42 @@
 [
   {
-    "groupId": 1,
+    "id": 1,
     "transl": "Общение",
     "transcr": null,
     "ntranscr": null
   },
   {
-    "groupId": 2,
+    "id": 2,
     "transl": "Действия и время",
     "transcr": null,
     "ntranscr": null
   },
   {
-    "groupId": 3,
+    "id": 3,
     "transl": "Повседневная жизнь",
     "transcr": null,
     "ntranscr": null
   },
   {
-    "groupId": 4,
+    "id": 4,
     "transl": "Еда и покупки",
     "transcr": null,
     "ntranscr": null
   },
   {
-    "groupId": 5,
+    "id": 5,
     "transl": "Место и движение",
     "transcr": null,
     "ntranscr": null
   },
   {
-    "groupId": 6,
+    "id": 6,
     "transl": "Работа и учёба",
     "transcr": null,
     "ntranscr": null
   },
   {
-    "groupId": 7,
+    "id": 7,
     "transl": "Досуг и чувства",
     "transcr": null,
     "ntranscr": null
