@@ -1,494 +1,2247 @@
 [
-  { "id": 10101, "transl": "я", "transcr": "ɪç", "ntranscr": "іх" },
-  { "id": 10102, "transl": "ти", "transcr": "duː", "ntranscr": "ду" },
-  { "id": 10103, "transl": "він", "transcr": "eːɐ̯", "ntranscr": "ер" },
-  { "id": 10104, "transl": "вона", "transcr": "ziː", "ntranscr": "зі" },
-  { "id": 10105, "transl": "воно", "transcr": "ɛs", "ntranscr": "ес" },
-  { "id": 10106, "transl": "ми", "transcr": "viːɐ̯", "ntranscr": "вір" },
-  { "id": 10107, "transl": "ви (мн.ч.)", "transcr": "iːɐ̯", "ntranscr": "ір" },
-  { "id": 10108, "transl": "вони", "transcr": "ziː", "ntranscr": "зі" },
-  { "id": 10109, "transl": "Ви (ввічливо)", "transcr": "ziː", "ntranscr": "зі" },
-  { "id": 10110, "transl": "мій / моя", "transcr": "maɪ̯n", "ntranscr": "майн" },
-  { "id": 10111, "transl": "твій / твоя", "transcr": "daɪ̯n", "ntranscr": "дайн" },
-  { "id": 10112, "transl": "чоловік", "transcr": "deːɐ̯ man", "ntranscr": "дер ман" },
-  { "id": 10113, "transl": "жінка", "transcr": "diː fʁaʊ̯", "ntranscr": "ді фрау" },
-  { "id": 10114, "transl": "дитина", "transcr": "das kɪnt", "ntranscr": "дас кінд" },
-  { "id": 10115, "transl": "люди", "transcr": "diː ˈlɔʏ̯tə", "ntranscr": "ді лойте" },
-  { "id": 10116, "transl": "друг", "transcr": "deːɐ̯ fʁɔʏ̯nt", "ntranscr": "дер фройнд" },
-  { "id": 10117, "transl": "подруга", "transcr": "diː ˈfʁɔʏ̯ndɪn", "ntranscr": "ді фройндін" },
-  { "id": 10118, "transl": "ім'я", "transcr": "deːɐ̯ ˈnaːmə", "ntranscr": "дер наме" },
-
-  { "id": 10201, "transl": "Привіт", "transcr": "haˈloː", "ntranscr": "хало" },
-  { "id": 10202, "transl": "Добрий ранок", "transcr": "ˈɡuːtn̩ ˈmɔʁɡn̩", "ntranscr": "ґутн морґн" },
-  { "id": 10203, "transl": "Добрий день", "transcr": "ˈɡuːtn̩ ˈtaːk", "ntranscr": "ґутн так" },
-  { "id": 10204, "transl": "Добрий вечір", "transcr": "ˈɡuːtn̩ ˈaːbn̩t", "ntranscr": "ґутн абнт" },
-  { "id": 10205, "transl": "На добраніч", "transcr": "ˈɡuːtə naxt", "ntranscr": "ґуте нахт" },
-  { "id": 10206, "transl": "Бувай / До побачення", "transcr": "tʃyːs", "ntranscr": "чюс" },
-  { "id": 10207, "transl": "До побачення (офіц.)", "transcr": "aʊ̯f ˈviːdɐˌzeːən", "ntranscr": "ауф відерзеен" },
-  { "id": 10208, "transl": "Як справи?", "transcr": "viː ɡeːts", "ntranscr": "ві ґейтс" },
-  { "id": 10209, "transl": "Добре", "transcr": "ɡuːt", "ntranscr": "ґут" },
-  { "id": 10210, "transl": "Дуже добре", "transcr": "zeːɐ̯ ɡuːt", "ntranscr": "зер ґут" },
-
-  { "id": 10301, "transl": "називатися / зватися", "transcr": "ˈhaɪ̯sn̩", "ntranscr": "хайзен" },
-  { "id": 10302, "transl": "жити", "transcr": "ˈleːbn̩", "ntranscr": "лебен" },
-  { "id": 10303, "transl": "приходити / прибувати", "transcr": "ˈkɔmən", "ntranscr": "комен" },
-  { "id": 10304, "transl": "із (звідкись)", "transcr": "aʊ̯s", "ntranscr": "аус" },
-  { "id": 10305, "transl": "жити (проживати)", "transcr": "ˈvoːnən", "ntranscr": "вонен" },
-  { "id": 10306, "transl": "тут", "transcr": "hiːɐ̯", "ntranscr": "хір" },
-  { "id": 10307, "transl": "там", "transcr": "dɔʁt", "ntranscr": "дорт" },
-  { "id": 10308, "transl": "розмовляти", "transcr": "ˈʃpʁɛçən", "ntranscr": "шпрехен" },
-  { "id": 10309, "transl": "німецька", "transcr": "dɔʏ̯tʃ", "ntranscr": "дойч" },
-  { "id": 10310, "transl": "англійська", "transcr": "ˈɛŋlɪʃ", "ntranscr": "енгліш" },
-  { "id": 10311, "transl": "країна", "transcr": "lant", "ntranscr": "лянт" },
-  { "id": 10312, "transl": "місто", "transcr": "ʃtat", "ntranscr": "штат" },
-  { "id": 10313, "transl": "професія", "transcr": "bəˈʁuːf", "ntranscr": "беруф" },
-  { "id": 10314, "transl": "студент", "transcr": "deːɐ̯ ʃtuˈdɛnt", "ntranscr": "дер студент" },
-
-  { "id": 10401, "transl": "запитання", "transcr": "diː ˈfʁaːɡə", "ntranscr": "ді фраґе" },
-  { "id": 10402, "transl": "хто", "transcr": "veːɐ̯", "ntranscr": "вер" },
-  { "id": 10403, "transl": "що", "transcr": "vas", "ntranscr": "вас" },
-  { "id": 10404, "transl": "як", "transcr": "viː", "ntranscr": "ві" },
-  { "id": 10405, "transl": "де", "transcr": "voː", "ntranscr": "во" },
-  { "id": 10406, "transl": "звідки", "transcr": "voːˈheːɐ̯", "ntranscr": "вохер" },
-  { "id": 10407, "transl": "куди", "transcr": "voːˈhɪn", "ntranscr": "вохін" },
-  { "id": 10408, "transl": "коли", "transcr": "van", "ntranscr": "ван" },
-  { "id": 10409, "transl": "чому", "transcr": "vaˈʁʊm", "ntranscr": "варум" },
-  { "id": 10410, "transl": "так", "transcr": "jaː", "ntranscr": "я" },
-  { "id": 10411, "transl": "ні", "transcr": "naɪ̯n", "ntranscr": "найн" },
-  { "id": 10412, "transl": "не / ні", "transcr": "nɪçt", "ntranscr": "ніхт" },
-  { "id": 10413, "transl": "дякую", "transcr": "ˈdaŋkə", "ntranscr": "данке" },
-  { "id": 10414, "transl": "будь ласка", "transcr": "ˈbɪtə", "ntranscr": "бітте" },
-
-  { "id": 10501, "transl": "відповідати", "transcr": "ˈantˌvɔʁtn̩", "ntranscr": "антвортен" },
-  { "id": 10502, "transl": "розуміти", "transcr": "fɛɐ̯ˈʃteːən", "ntranscr": "ферштеен" },
-  { "id": 10503, "transl": "знати", "transcr": "ˈvɪsn̩", "ntranscr": "віссен" },
-  { "id": 10504, "transl": "думати", "transcr": "ˈdɛŋkn̩", "ntranscr": "денкен" },
-  { "id": 10505, "transl": "може бути / можливо", "transcr": "vɪˈlaɪ̯çt", "ntranscr": "віляйхт" },
-  { "id": 10506, "transl": "зараз", "transcr": "jɛtst", "ntranscr": "єтцт" },
-  { "id": 10507, "transl": "пізніше", "transcr": "ˈʃpɛːtɐ", "ntranscr": "шпетер" },
-  { "id": 10508, "transl": "звичайно / звісно", "transcr": "naˈtyːɐ̯lɪç", "ntranscr": "нацюрліх" },
-  { "id": 10509, "transl": "правильно", "transcr": "ˈʁɪçtɪç", "ntranscr": "ріхтіх" },
-  { "id": 10510, "transl": "з радістю", "transcr": "ɡɛʁnə", "ntranscr": "ґерне" },
-  { "id": 10511, "transl": "мені шкода", "transcr": "ɛs tuːt miːɐ̯ laɪ̯t", "ntranscr": "ес тут мір лайд" },
-  { "id": 10512, "transl": "нема за що", "transcr": "ˈkaɪ̯nə ˈuːɐ̯ˌzaxə", "ntranscr": "кайне урзахе" },
-  { "id": 10513, "transl": "чудово / клас", "transcr": "tɔl", "ntranscr": "толь" },
-  
-  { "id": 20101, "transl": "мати", "transcr": "ˈhaːbn̩", "ntranscr": "хабен" },
-  { "id": 20102, "transl": "бути", "transcr": "zaɪ̯n", "ntranscr": "зайн" },
-  { "id": 20103, "transl": "робити", "transcr": "ˈmaxn̩", "ntranscr": "махен" },
-  { "id": 20104, "transl": "йти / ходити", "transcr": "ˈɡeːən", "ntranscr": "ґеен" },
-  { "id": 20105, "transl": "бачити", "transcr": "ˈzeːən", "ntranscr": "зеен" },
-  { "id": 20106, "transl": "чути", "transcr": "ˈhøːʁən", "ntranscr": "хьорен" },
-  { "id": 20107, "transl": "брати", "transcr": "ˈneːmən", "ntranscr": "немен" },
-  { "id": 20108, "transl": "давати", "transcr": "ˈɡeːbn̩", "ntranscr": "ґебен" },
-  { "id": 20109, "transl": "хотіти", "transcr": "ˈvɔlən", "ntranscr": "воллен" },
-  { "id": 20110, "transl": "могти", "transcr": "ˈkœnən", "ntranscr": "кьоннен" },
-  { "id": 20111, "transl": "потрібно / мусити", "transcr": "ˈmʏsn̩", "ntranscr": "мюссен" },
-  { "id": 20112, "transl": "подобатися", "transcr": "ˈmøːɡn̩", "ntranscr": "мьоґен" },
-  { "id": 20113, "transl": "шукати", "transcr": "ˈzuːxn̩", "ntranscr": "зухен" },
-  { "id": 20114, "transl": "знаходити", "transcr": "ˈfɪndn̩", "ntranscr": "фінден" },
-  { "id": 20115, "transl": "давати", "transcr": "ˈɡeːbn̩", "ntranscr": "ґебен" },
-  
-  { "id": 20201, "transl": "зараз", "transcr": "jɛtst", "ntranscr": "єтст" },
-  { "id": 20202, "transl": "сьогодні", "transcr": "ˈhɔʏ̯tə", "ntranscr": "хо́йте" },
-  { "id": 20203, "transl": "вчора", "transcr": "ˈɡɛstɐn", "ntranscr": "ґе́стерн" },
-  { "id": 20204, "transl": "завтра", "transcr": "ˈmɔʁɡn̩", "ntranscr": "мо́рґен" },
-  { "id": 20205, "transl": "раніше", "transcr": "ˈfʁyːɐ", "ntranscr": "фрю́ер" },
-  { "id": 20206, "transl": "пізніше", "transcr": "ˈʃpɛːtɐ", "ntranscr": "шпе́тер" },
-  { "id": 20207, "transl": "день", "transcr": "deːɐ̯ ˈtaːk", "ntranscr": "дер та́к" },
-  { "id": 20208, "transl": "тиждень", "transcr": "diː ˈvɔxə", "ntranscr": "ді во́хе" },
-    
-  { "id": 20301, "transl": "завжди", "transcr": "ˈɪmɐ", "ntranscr": "і́ммер" },
-  { "id": 20302, "transl": "часто", "transcr": "ˈhɔʏ̯fɪç", "ntranscr": "хо́йфих" },
-  { "id": 20303, "transl": "іноді", "transcr": "ˈmançmaːl", "ntranscr": "ма́нхмаль" },
-  { "id": 20304, "transl": "рідко", "transcr": "ˈzɛltn̩", "ntranscr": "зе́льтен" },
-  { "id": 20305, "transl": "ніколи", "transcr": "niː", "ntranscr": "ні" },
-  { "id": 20306, "transl": "зазвичай", "transcr": "meistens", "ntranscr": "майстенс" },
-  { "id": 20307, "transl": "майже ніколи", "transcr": "fast nie", "ntranscr": "фаст ні" },
-  { "id": 20308, "transl": "щодня", "transcr": "jeden Tag", "ntranscr": "єден так" },
-  { "id": 20309, "transl": "час від часу", "transcr": "ab und zu", "ntranscr": "ап унд цу" },
-  
-  { "id": 20401, "transl": "вставати", "transcr": "ˈaʊ̯fˌʃteːən", "ntranscr": "ауфштеен" },
-  { "id": 20402, "transl": "снідати", "transcr": "ˈfʁyːˌʃtʏkn̩", "ntranscr": "фрюштюккен" },
-  { "id": 20403, "transl": "працювати", "transcr": "ˈaʁbaɪ̯tn̩", "ntranscr": "арбайтен" },
-  { "id": 20404, "transl": "вчитися", "transcr": "ˈlɛʁnən", "ntranscr": "лернен" },
-  { "id": 20405, "transl": "обідати", "transcr": "tsuː ˈmɪtaːk ˈɛsn̩", "ntranscr": "цу міттаґ ессен" },
-  { "id": 20406, "transl": "вечеряти", "transcr": "tsuː ˈaːbn̩t ˈɛsn̩", "ntranscr": "цу абент ессен" },
-  { "id": 20407, "transl": "йти додому", "transcr": "nax ˈhaʊ̯zə ˈɡeːən", "ntranscr": "нах хаузе ґеен" },
-  { "id": 20408, "transl": "дивитися телевізор", "transcr": "ˈfɛʁnˌzeːən", "ntranscr": "фернзеен" },
-  { "id": 20409, "transl": "читати", "transcr": "ˈleːzn̩", "ntranscr": "лезен" },
-  { "id": 20410, "transl": "спати", "transcr": "ˈʃlaːfn̩", "ntranscr": "шлафен" },
-  { "id": 20411, "transl": "йти за покупками", "transcr": "ˈaɪ̯nˌkaʊ̯fn̩", "ntranscr": "айнкауфен" },
-  { "id": 20412, "transl": "прибирати", "transcr": "ˈaʊ̯fˌʁɔʏ̯mən", "ntranscr": "ауфроймен" },
-  
-  { "id": 20501, "transl": "могти (вміти)", "transcr": "können", "ntranscr": "кённен" },
-  { "id": 20502, "transl": "мусити", "transcr": "müssen", "ntranscr": "мюссен" },
-  { "id": 20503, "transl": "хотіти", "transcr": "wollen", "ntranscr": "воллен" },
-  { "id": 20504, "transl": "могти (мати дозвіл)", "transcr": "dürfen", "ntranscr": "дюрфен" },
-  { "id": 20505, "transl": "повинно бути", "transcr": "sollen", "ntranscr": "золлен" },
-  { "id": 20506, "transl": "любити (подобатися)", "transcr": "mögen", "ntranscr": "мёґен" },
-  { "id": 20507, "transl": "хотілося б", "transcr": "möchten", "ntranscr": "мёхтен" },
-  
-  { "id": 20601, "transl": "нуль", "transcr": "nʊl", "ntranscr": "нуль" },
-  { "id": 20602, "transl": "один", "transcr": "aɪ̯ns", "ntranscr": "айнс" },
-  { "id": 20603, "transl": "два", "transcr": "tsvaɪ̯", "ntranscr": "цвай" },
-  { "id": 20604, "transl": "три", "transcr": "dʁaɪ̯", "ntranscr": "драй" },
-  { "id": 20605, "transl": "чотири", "transcr": "ˈfiːɐ̯", "ntranscr": "фір" },
-  { "id": 20606, "transl": "п'ять", "transcr": "fʏnf", "ntranscr": "фюнф" },
-  { "id": 20607, "transl": "шість", "transcr": "zɛks", "ntranscr": "зекс" },
-  { "id": 20608, "transl": "сім", "transcr": "ˈziːbn̩", "ntranscr": "зібен" },
-  { "id": 20609, "transl": "вісім", "transcr": "axt", "ntranscr": "ахт" },
-  { "id": 20610, "transl": "дев'ять", "transcr": "nɔʏ̯n", "ntranscr": "нойн" },
-    
-  { "id": 20701, "transl": "з / із", "transcr": "mɪt", "ntranscr": "міт" },
-  { "id": 20702, "transl": "без", "transcr": "ˈoːnə", "ntranscr": "оне" },
-  { "id": 20703, "transl": "для", "transcr": "fyːɐ̯", "ntranscr": "фюр" },
-  { "id": 20704, "transl": "в / у", "transcr": "ɪn", "ntranscr": "ін" },
-  { "id": 20705, "transl": "на", "transcr": "aʊ̯f", "ntranscr": "ауф" },
-  { "id": 20706, "transl": "під", "transcr": "ˈʊntɐ", "ntranscr": "унтер" },
-  { "id": 20707, "transl": "над", "transcr": "ˈyːbɐ", "ntranscr": "юбер" },
-  { "id": 20708, "transl": "перед", "transcr": "foːɐ̯", "ntranscr": "фор" },
-  { "id": 20709, "transl": "після / в", "transcr": "nax", "ntranscr": "нах" },
-  { "id": 20710, "transl": "і / та", "transcr": "ʊnt", "ntranscr": "унд" },
-  { "id": 20711, "transl": "але", "transcr": "ˈaːbɐ", "ntranscr": "абер" },
-  { "id": 20712, "transl": "або", "transcr": "ˈoːdɐ", "ntranscr": "одер" },
-  { "id": 20713, "transl": "тому що", "transcr": "weil", "ntranscr": "вайль" },
-  { "id": 20714, "transl": "тільки", "transcr": "nur", "ntranscr": "нур" },
-  { "id": 20715, "transl": "вже", "transcr": "schon", "ntranscr": "шон" },
-  { "id": 20716, "transl": "ще", "transcr": "noch", "ntranscr": "нох" },
-  { "id": 20717, "transl": "дуже", "transcr": "sehr", "ntranscr": "зер" },
-  
-  { "id": 20801, "transl": "великий", "transcr": "ɡʁoːs", "ntranscr": "ґрос" },
-  { "id": 20802, "transl": "маленький", "transcr": "klaɪ̯n", "ntranscr": "клайн" },
-  { "id": 20803, "transl": "новий", "transcr": "nɔʏ̯", "ntranscr": "ной" },
-  { "id": 20804, "transl": "старий", "transcr": "alt", "ntranscr": "альт" },
-  { "id": 20805, "transl": "гарний", "transcr": "ʃøːn", "ntranscr": "шён" },
-  { "id": 20806, "transl": "швидкий", "transcr": "ʃnɛl", "ntranscr": "шнель" },
-  { "id": 20807, "transl": "повільний", "transcr": "ˈlaŋˌzaːm", "ntranscr": "лангзам" },
-  { "id": 20808, "transl": "важкий", "transcr": "ʃveːɐ̯", "ntranscr": "швер" },
-  { "id": 20809, "transl": "легкий", "transcr": "laɪ̯çt", "ntranscr": "лайхт" },
-  { "id": 20810, "transl": "дорогий", "transcr": "ˈtɔʏ̯ɐ", "ntranscr": "тойер" },
-    
-  { "id": 30101, "transl": "сім'я", "transcr": "faˈmiːli̯ə", "ntranscr": "фаміліє" },
-  { "id": 30102, "transl": "батьки", "transcr": "ˈɛltɐn", "ntranscr": "ельтерн" },
-  { "id": 30103, "transl": "мати", "transcr": "ˈmʊtɐ", "ntranscr": "муттер" },
-  { "id": 30104, "transl": "батько", "transcr": "ˈfaːtɐ", "ntranscr": "фатер" },
-  { "id": 30105, "transl": "син", "transcr": "zoːn", "ntranscr": "зон" },
-  { "id": 30106, "transl": "донька", "transcr": "ˈtɔxtɐ", "ntranscr": "тохтер" },
-  { "id": 30107, "transl": "брат", "transcr": "ˈbʁuːdɐ", "ntranscr": "брудер" },
-  { "id": 30108, "transl": "сестра", "transcr": "ˈʃvɛstɐ", "ntranscr": "швестер" },
-  { "id": 30109, "transl": "бабуся", "transcr": "ˈoːma", "ntranscr": "ома" },
-  { "id": 30110, "transl": "дідусь", "transcr": "ˈoːpa", "ntranscr": "опа" },
-  { "id": 30111, "transl": "дитина", "transcr": "das kɪnt", "ntranscr": "дас кінд" },
-    
-  { "id": 30201, "transl": "будинок", "transcr": "das haʊ̯s", "ntranscr": "дас хаус" },
-  { "id": 30202, "transl": "квартира", "transcr": "diː ˈvoːnʊŋ", "ntranscr": "ді во́нунґ" },
-  { "id": 30203, "transl": "кімната", "transcr": "das ˈtsɪmɐ", "ntranscr": "дас ці́ммер" },
-  { "id": 30204, "transl": "кухня", "transcr": "diː ˈkʏçə", "ntranscr": "ді кю́хе" },
-  { "id": 30205, "transl": "ванна кімната", "transcr": "das baːt", "ntranscr": "дас бат" },
-  { "id": 30206, "transl": "двері", "transcr": "diː ˈtyːɐ̯", "ntranscr": "ді тюр" },
-  { "id": 30207, "transl": "вікно", "transcr": "das ˈfɛnstɐ", "ntranscr": "дас фе́нстер" },
-  { "id": 30208, "transl": "стіл", "transcr": "deːɐ̯ tɪʃ", "ntranscr": "дер тіш" },
-  { "id": 30209, "transl": "стілець", "transcr": "deːɐ̯ ˈʃtuːl", "ntranscr": "дер штуль" },
-  { "id": 30210, "transl": "ліжко", "transcr": "das bɛt", "ntranscr": "дас бет" },
-  { "id": 30211, "transl": "шафа", "transcr": "deːɐ̯ ʃʁaŋk", "ntranscr": "дер шранк" },
-  { "id": 30212, "transl": "ключ", "transcr": "deːɐ̯ ˈʃlʏsl̩", "ntranscr": "дер шлю́ссель" },
-  
-  { "id": 30301, "transl": "одяг", "transcr": "diː ˈklaɪ̯dʊŋ", "ntranscr": "ді кла́йдунґ" },
-  { "id": 30302, "transl": "футболка", "transcr": "das ˈtiːˌʃœːɐ̯t", "ntranscr": "дас ті-шерт" },
-  { "id": 30303, "transl": "сорочка", "transcr": "das hɛmt", "ntranscr": "дас хемт" },
-  { "id": 30304, "transl": "штани", "transcr": "diː ˈhoːzə", "ntranscr": "ді хо́зе" },
-  { "id": 30305, "transl": "сукня", "transcr": "das klaɪ̯t", "ntranscr": "дас клайд" },
-  { "id": 30306, "transl": "куртка", "transcr": "diː ˈjakə", "ntranscr": "ді я́кке" },
-  { "id": 30307, "transl": "пальто", "transcr": "deːɐ̯ ˈmantl̩", "ntranscr": "дер ма́нтель" },
-  { "id": 30308, "transl": "черевики / взуття", "transcr": "diː ˈʃuːə", "ntranscr": "ді шу́е" },
-  { "id": 30309, "transl": "шапка", "transcr": "diː ˈmʏtsə", "ntranscr": "ді мю́тце" },
-  { "id": 30310, "transl": "сумка", "transcr": "diː ˈtaʃə", "ntranscr": "ді та́ше" },
-  { "id": 30311, "transl": "окуляри", "transcr": "diː ˈbʁɪlə", "ntranscr": "ді брі́лле" },
-  { "id": 30312, "transl": "парасолька", "transcr": "deːɐ̯ ˈʁeːɡn̩ˌʃɪʁm", "ntranscr": "дер ре́ґенширм" },
-  
-  { "id": 30401, "transl": "тіло", "transcr": "deːɐ̯ ˈkœʁpɐ", "ntranscr": "дер кё́рпер" },
-  { "id": 30402, "transl": "голова", "transcr": "deːɐ̯ kɔpf", "ntranscr": "дер копф" },
-  { "id": 30403, "transl": "обличчя", "transcr": "das ɡəˈzɪçt", "ntranscr": "дас ґезі́хт" },
-  { "id": 30404, "transl": "око", "transcr": "das ˈaʊ̯ɡə", "ntranscr": "дас а́уґе" },
-  { "id": 30405, "transl": "ніс", "transcr": "diː ˈnaːzə", "ntranscr": "ді на́зе" },
-  { "id": 30406, "transl": "рот", "transcr": "deːɐ̯ mʊnt", "ntranscr": "дер мунт" },
-  { "id": 30407, "transl": "вухо", "transcr": "das oːɐ̯", "ntranscr": "дас ор" },
-  { "id": 30408, "transl": "рука (кисть)", "transcr": "diː hant", "ntranscr": "ді хант" },
-  { "id": 30409, "transl": "нога (стопа)", "transcr": "deːɐ̯ fuːs", "ntranscr": "дер фус" },
-  { "id": 30410, "transl": "біль", "transcr": "deːɐ̯ ˈʃmɛʁts", "ntranscr": "дер шмерц" },
-  { "id": 30411, "transl": "лікар", "transcr": "deːɐ̯ aʁtst", "ntranscr": "дер арцт" },
-  { "id": 30412, "transl": "аптека", "transcr": "diː apoˈteːkə", "ntranscr": "ді апоте́ке" },
-  { "id": 30413, "transl": "ліки", "transcr": "das mɛdikaˈmɛnt", "ntranscr": "дас медікаме́нт" },
-  { "id": 30414, "transl": "лікарня", "transcr": "das Krankenhaus", "ntranscr": "кранкенхаус" },
-  { "id": 30415, "transl": "хворий", "transcr": "krank", "ntranscr": "кранк" },
-  { "id": 30416, "transl": "здоровий", "transcr": "gesund", "ntranscr": "ґезунд" },
-  { "id": 30417, "transl": "кашель", "transcr": "der Husten", "ntranscr": "хустен" },
-  { "id": 30418, "transl": "нежить", "transcr": "der Schnupfen", "ntranscr": "шнупфен" },
-  { "id": 30419, "transl": "температура", "transcr": "das Fieber", "ntranscr": "фібер" },
-  { "id": 30420, "transl": "рецепт", "transcr": "das Rezept", "ntranscr": "рецепт" },
-  
-  { "id": 30501, "transl": "колір", "transcr": "diː ˈfaʁbə", "ntranscr": "ді фа́рбе" },
-  { "id": 30502, "transl": "білий", "transcr": "vaɪ̯s", "ntranscr": "вайс" },
-  { "id": 30503, "transl": "чорний", "transcr": "ʃvaʁts", "ntranscr": "шварц" },
-  { "id": 30504, "transl": "червоний", "transcr": "ʁoːt", "ntranscr": "рот" },
-  { "id": 30505, "transl": "синій", "transcr": "blaʊ̯", "ntranscr": "блау" },
-  { "id": 30506, "transl": "зелений", "transcr": "ɡʁyːn", "ntranscr": "ґрюн" },
-  { "id": 30507, "transl": "жовтий", "transcr": "ɡɛlp", "ntranscr": "ґельп" },
-  { "id": 30508, "transl": "сірий", "transcr": "ɡʁaʊ̯", "ntranscr": "ґрау" },
-  { "id": 30509, "transl": "коричневий", "transcr": "ˈbʁaʊ̯n", "ntranscr": "браун" },
-  { "id": 30510, "transl": "помаранчевий", "transcr": "orange", "ntranscr": "оранж" },
-  
-  { "id": 40101, "transl": "їжа / продукти", "transcr": "ˈleːbn̩sˌmɪtl̩", "ntranscr": "ле́бенсміттель" },
-  { "id": 40102, "transl": "хліб", "transcr": "das bʁoːt", "ntranscr": "дас брот" },
-  { "id": 40103, "transl": "булочка", "transcr": "das ˈbʁøːtçən", "ntranscr": "дас брьотхен" },
-  { "id": 40104, "transl": "молоко", "transcr": "diː mɪlç", "ntranscr": "ді мільх" },
-  { "id": 40105, "transl": "сир", "transcr": "deːɐ̯ ˈkɛːzə", "ntranscr": "дер ке́зе" },
-  { "id": 40106, "transl": "яйце", "transcr": "das aɪ̯", "ntranscr": "дас ай" },
-  { "id": 40107, "transl": "м'ясо", "transcr": "das flaɪ̯ʃ", "ntranscr": "дас фляйш" },
-  { "id": 40108, "transl": "риба", "transcr": "deːɐ̯ fɪʃ", "ntranscr": "дер фіш" },
-  { "id": 40109, "transl": "овочі", "transcr": "das ɡəˈmyːzə", "ntranscr": "дас ґемю́зе" },
-  { "id": 40110, "transl": "фрукти", "transcr": "das oːpst", "ntranscr": "дас опст" },
-  { "id": 40111, "transl": "цукор", "transcr": "deːɐ̯ ˈtsʊkɐ", "ntranscr": "дер цу́ккер" },
-  { "id": 40112, "transl": "сіль", "transcr": "das zalts", "ntranscr": "дас зальц" },
-  { "id": 40113, "transl": "масло", "transcr": "die Butter", "ntranscr": "буттер" },
-  
-  { "id": 40101, "transl": "їжа / продукти", "transcr": "ˈleːbn̩sˌmɪtl̩", "ntranscr": "ле́бенсміттель" },
-  { "id": 40102, "transl": "хліб", "transcr": "das bʁoːt", "ntranscr": "дас брот" },
-  { "id": 40103, "transl": "булочка", "transcr": "das ˈbʁøːtçən", "ntranscr": "дас брьотхен" },
-  { "id": 40104, "transl": "молоко", "transcr": "diː mɪlç", "ntranscr": "ді мільх" },
-  { "id": 40105, "transl": "сир", "transcr": "deːɐ̯ ˈkɛːzə", "ntranscr": "дер ке́зе" },
-  { "id": 40106, "transl": "яйце", "transcr": "das aɪ̯", "ntranscr": "дас ай" },
-  { "id": 40107, "transl": "м'ясо", "transcr": "das flaɪ̯ʃ", "ntranscr": "дас фляйш" },
-  { "id": 40108, "transl": "риба", "transcr": "deːɐ̯ fɪʃ", "ntranscr": "дер фіш" },
-  { "id": 40109, "transl": "овочі", "transcr": "das ɡəˈmyːzə", "ntranscr": "дас ґемю́зе" },
-  { "id": 40110, "transl": "фрукти", "transcr": "das oːpst", "ntranscr": "дас опст" },
-  { "id": 40111, "transl": "цукор", "transcr": "deːɐ̯ ˈtsʊkɐ", "ntranscr": "дер цу́ккер" },
-  { "id": 40112, "transl": "сіль", "transcr": "das zalts", "ntranscr": "дас зальц" },
-  
-  { "id": 40201, "transl": "суп", "transcr": "die Suppe", "ntranscr": "зуппе" },
-  { "id": 40202, "transl": "салат", "transcr": "der Salat", "ntranscr": "залат" },
-  { "id": 40203, "transl": "піца", "transcr": "die Pizza", "ntranscr": "піцца" },
-  { "id": 40204, "transl": "макарони", "transcr": "die Nudeln", "ntranscr": "нудельн" },
-  { "id": 40205, "transl": "рис", "transcr": "der Reis", "ntranscr": "райс" },
-  { "id": 40206, "transl": "картопля", "transcr": "die Kartoffel", "ntranscr": "картоффель" },
-  { "id": 40207, "transl": "десерт", "transcr": "der Nachtisch", "ntranscr": "нахтіш" },
-  
-  { "id": 40301, "transl": "вода", "transcr": "das ˈvasɐ", "ntranscr": "дас ва́ссер" },
-  { "id": 40302, "transl": "сік", "transcr": "deːɐ̯ zaft", "ntranscr": "дер зафт" },
-  { "id": 40303, "transl": "кава", "transcr": "deːɐ̯ ˈkafe", "ntranscr": "дер ка́фе" },
-  { "id": 40304, "transl": "чай", "transcr": "deːɐ̯ teː", "ntranscr": "дер те" },
-  { "id": 40305, "transl": "пиво", "transcr": "das biːɐ̯", "ntranscr": "дас бір" },
-  { "id": 40306, "transl": "вино", "transcr": "deːɐ̯ vaɪ̯n", "ntranscr": "дер вайн" },
-  
-  { "id": 40401, "transl": "супермаркет", "transcr": "deːɐ̯ ˈzuːpɐˌmaʁkt", "ntranscr": "дер зу́пермаркт" },
-  { "id": 40402, "transl": "ринок", "transcr": "deːɐ̯ maʁkt", "ntranscr": "дер маркт" },
-  { "id": 40403, "transl": "ціна", "transcr": "deːɐ̯ pʁaɪ̯s", "ntranscr": "дер прайс" },
-  { "id": 40404, "transl": "гроші", "transcr": "das ɡɛlt", "ntranscr": "дас гельт" },
-  { "id": 40405, "transl": "каса", "transcr": "diː ˈkasə", "ntranscr": "ді ка́ссе" },
-  { "id": 40406, "transl": "чек / рахунок", "transcr": "diː ˈʁɛçnʊŋ", "ntranscr": "ді ре́хнунґ" },
-  { "id": 40407, "transl": "пакет", "transcr": "diː ˈtyːtə", "ntranscr": "ді тю́те" },
-  { "id": 40408, "transl": "платити", "transcr": "beˈtsaːlən", "ntranscr": "беца́лен" },
-  { "id": 40409, "transl": "відчинено", "transcr": "offen", "ntranscr": "оффен" },
-  { "id": 40410, "transl": "зачинено", "transcr": "geschlossen", "ntranscr": "ґешлоссен" },
-  { "id": 40411, "transl": "знижка", "transcr": "der Rabatt", "ntranscr": "рабатт" },
-  
-  { "id": 40501, "transl": "смачно", "transcr": "ˈlɛkɐ", "ntranscr": "ле́ккер" },
-  { "id": 40502, "transl": "солодкий", "transcr": "zyːs", "ntranscr": "зюс" },
-  { "id": 40503, "transl": "солоний", "transcr": "ˈzaltsɪç", "ntranscr": "за́льціх" },
-  { "id": 40504, "transl": "гострий", "transcr": "ʃaʁf", "ntranscr": "шарф" },
-  { "id": 40505, "transl": "кислий", "transcr": "ˈzaʊ̯ɐ", "ntranscr": "за́уер" },
-  { "id": 40506, "transl": "гіркий", "transcr": "ˈbɪtɐ", "ntranscr": "бі́ттер" },
-  { "id": 40507, "transl": "голодний", "transcr": "ˈhʊŋʁɪç", "ntranscr": "ху́нґріх" },
-  { "id": 40508, "transl": "хотіти пити (спрага)", "transcr": "ˈdʊʁstɪç", "ntranscr": "ду́рстіх" },
-  { "id": 40509, "transl": "ситий", "transcr": "zat", "ntranscr": "зат" },
-  
-  { "id": 50101, "transl": "місто", "transcr": "diː ʃtat", "ntranscr": "ді штат" },
-  { "id": 50102, "transl": "центр міста", "transcr": "das ˈtsɛntʁʊm", "ntranscr": "дас центрум" },
-  { "id": 50103, "transl": "вулиця", "transcr": "diː ˈʃtʁaːsə", "ntranscr": "ді штрассе" },
-  { "id": 50104, "transl": "площа", "transcr": "deːɐ̯ plats", "ntranscr": "дер плац" },
-  { "id": 50105, "transl": "парк", "transcr": "deːɐ̯ paʁk", "ntranscr": "дер парк" },
-  { "id": 50106, "transl": "готель", "transcr": "das hoˈtɛl", "ntranscr": "дас хотель" },
-  { "id": 50107, "transl": "банк", "transcr": "diː baŋk", "ntranscr": "ді банк" },
-  { "id": 50108, "transl": "пошта", "transcr": "diː pɔst", "ntranscr": "ді пост" },
-    
-  { "id": 50101, "transl": "місто", "transcr": "diː ʃtat", "ntranscr": "ді штат" },
-  { "id": 50102, "transl": "центр міста", "transcr": "das ˈtsɛntʁʊm", "ntranscr": "дас це́нтрум" },
-  { "id": 50103, "transl": "вулиця", "transcr": "diː ˈʃtʁaːsə", "ntranscr": "ді штра́ссе" },
-  { "id": 50104, "transl": "площа", "transcr": "deːɐ̯ plats", "ntranscr": "дер плац" },
-  { "id": 50105, "transl": "парк", "transcr": "deːɐ̯ paʁk", "ntranscr": "дер парк" },
-  { "id": 50106, "transl": "готель", "transcr": "das hoˈtɛl", "ntranscr": "дас хоте́ль" },
-  { "id": 50107, "transl": "банк", "transcr": "diː baŋk", "ntranscr": "ді банк" },
-  { "id": 50108, "transl": "пошта", "transcr": "diː pɔst", "ntranscr": "ді пост" },
-    
-  { "id": 50201, "transl": "авто", "transcr": "das Auto", "ntranscr": "ауто" },
-  { "id": 50202, "transl": "автобус", "transcr": "der Bus", "ntranscr": "бус" },
-  { "id": 50203, "transl": "поїзд", "transcr": "der Zug", "ntranscr": "цук" },
-  { "id": 50204, "transl": "метро", "transcr": "die U-Bahn", "ntranscr": "у-бан" },
-  { "id": 50205, "transl": "трамвай", "transcr": "die Straßenbahn", "ntranscr": "штрассенбан" },
-  { "id": 50206, "transl": "велосипед", "transcr": "das Fahrrad", "ntranscr": "фаррат" },
-  { "id": 50207, "transl": "літак", "transcr": "das Flugzeug", "ntranscr": "флюкцойґ" },
-  { "id": 50208, "transl": "квиток", "transcr": "die Fahrkarte", "ntranscr": "фаркарте" },
-  { "id": 50209, "transl": "зупинка", "transcr": "die Haltestelle", "ntranscr": "хальтештелле" },
-  { "id": 50210, "transl": "вокзал", "transcr": "der Bahnhof", "ntranscr": "банхоф" },
-  { "id": 50211, "transl": "аеропорт", "transcr": "der Flughafen", "ntranscr": "флюкхафен" },
-  
-  { "id": 50301, "transl": "відпустка", "transcr": "deːɐ̯ ˈuːɐ̯laʊ̯p", "ntranscr": "дер у́рлауп" },
-  { "id": 50302, "transl": "подорож", "transcr": "diː ˈʁaɪ̯zə", "ntranscr": "ді ра́йзе" },
-  { "id": 50303, "transl": "багаж", "transcr": "das ɡəˈpɛk", "ntranscr": "дас ґепе́к" },
-  { "id": 50304, "transl": "валіза", "transcr": "deːɐ̯ ˈkɔfɐ", "ntranscr": "дер ко́ффер" },
-  { "id": 50305, "transl": "паспорт", "transcr": "deːɐ̯ paːs", "ntranscr": "дер пас" },
-  { "id": 50306, "transl": "бронювати", "transcr": "ˈbuːxn̩", "ntranscr": "бу́хен" },
-  { "id": 50307, "transl": "відвідувати", "transcr": "beˈzuːxn̩", "ntranscr": "безу́хен" },
-  { "id": 50308, "transl": "готель", "transcr": "das Hotel", "ntranscr": "хотель" },
-  { "id": 50309, "transl": "одномісний номер", "transcr": "das Einzelzimmer", "ntranscr": "айнцельціммер" },
-  { "id": 50310, "transl": "двомісний номер", "transcr": "das Doppelzimmer", "ntranscr": "доппельціммер" },
-  
-  { "id": 50401, "transl": "сонце", "transcr": "diː ˈzɔnə", "ntranscr": "ді зо́нне" },
-  { "id": 50402, "transl": "дощ", "transcr": "deːɐ̯ ˈʁeːɡn̩", "ntranscr": "дер ре́ґен" },
-  { "id": 50403, "transl": "сніг", "transcr": "deːɐ̯ ʃneː", "ntranscr": "дер шне" },
-  { "id": 50404, "transl": "вітер", "transcr": "deːɐ̯ vɪnt", "ntranscr": "дер вінт" },
-  { "id": 50405, "transl": "холодно", "transcr": "kalt", "ntranscr": "кальт" },
-  { "id": 50406, "transl": "тепло / гаряче", "transcr": "vaʁm / haɪ̯s", "ntranscr": "варм / хайс" },
-  { "id": 50407, "transl": "небо", "transcr": "deːɐ̯ ˈhɪml̩", "ntranscr": "дер хі́ммель" },
-  { "id": 50408, "transl": "ліс", "transcr": "deːɐ̯ valt", "ntranscr": "дер вальт" },
-  { "id": 50409, "transl": "море", "transcr": "das meːɐ̯", "ntranscr": "дас мер" },
-  { "id": 50410, "transl": "гора", "transcr": "deːɐ̯ bɛʁk", "ntranscr": "дер берґ" },
-  { "id": 50411, "transl": "місяць", "transcr": "der Mond", "ntranscr": "монд" },
-  { "id": 50412, "transl": "зірка", "transcr": "der Stern", "ntranscr": "штерн" },
-  { "id": 50413, "transl": "земля", "transcr": "die Erde", "ntranscr": "ерде" },
-  
-  { "id": 50501, "transl": "ліворуч", "transcr": "lɪŋks", "ntranscr": "лінкс" },
-  { "id": 50502, "transl": "праворуч", "transcr": "ʁɛçts", "ntranscr": "рехтс" },
-  { "id": 50503, "transl": "прямо", "transcr": "ɡəˈʁaːdəˈaʊ̯s", "ntranscr": "ґера́деаус" },
-  { "id": 50504, "transl": "поруч", "transcr": "ˈneːbn̩", "ntranscr": "не́бен" },
-  { "id": 50505, "transl": "тут", "transcr": "hiːɐ̯", "ntranscr": "хір" },
-  { "id": 50506, "transl": "там", "transcr": "dɔʁt", "ntranscr": "дорт" },
-  { "id": 50507, "transl": "далеко", "transcr": "vaɪ̯t", "ntranscr": "вайт" },
-  { "id": 50508, "transl": "близько", "transcr": "naːə", "ntranscr": "на́е" },
-  { "id": 50509, "transl": "на розі", "transcr": "an der Ecke", "ntranscr": "ан дер екке" },
-  { "id": 50510, "transl": "через", "transcr": "über", "ntranscr": "юбер" },
-  { "id": 50511, "transl": "поруч", "transcr": "neben", "ntranscr": "небен" },
-  { "id": 50512, "transl": "навпроти", "transcr": "gegenüber", "ntranscr": "ґеґенюбер" },
-  { "id": 50513, "transl": "північ", "transcr": "der Norden", "ntranscr": "норден" },
-  { "id": 50514, "transl": "південь", "transcr": "der Süden", "ntranscr": "зюден" },
-  { "id": 50515, "transl": "схід", "transcr": "der Osten", "ntranscr": "остен" },
-  { "id": 50516, "transl": "захід", "transcr": "der Westen", "ntranscr": "вестен" },
-  { "id": 50517, "transl": "місце", "transcr": "der Ort", "ntranscr": "орт" },
-  { "id": 50518, "transl": "адреса", "transcr": "die Adresse", "ntranscr": "адрессе" },
-  
-  { "id": 60101, "transl": "робота", "transcr": "diː ˈaʁbaɪ̯t", "ntranscr": "ді а́рбайт" },
-  { "id": 60102, "transl": "професія", "transcr": "deːɐ̯ beˈʁuːf", "ntranscr": "дер беру́ф" },
-  { "id": 60103, "transl": "вчитель / вчителька", "transcr": "ˈleːʁɐ / ˈleːʁəʁɪn", "ntranscr": "ле́рер / ле́рерін" },
-  { "id": 60104, "transl": "лікар", "transcr": "deːɐ̯ aʁtst", "ntranscr": "дер арцт" },
-  { "id": 60105, "transl": "інженер", "transcr": "deːɐ̯ ɪnʒeˈni̯øːɐ̯", "ntranscr": "дер інженьо́р" },
-  { "id": 60106, "transl": "продавець", "transcr": "deːɐ̯ fɛɐ̯ˈkɔʏ̯fɐ", "ntranscr": "дер ферко́йфер" },
-  { "id": 60107, "transl": "кухар", "transcr": "deːɐ̯ kɔx", "ntranscr": "дер кох" },
-  { "id": 60108, "transl": "студент", "transcr": "deːɐ̯ ʃtuˈdɛnt", "ntranscr": "дер штуде́нт" },
-  { "id": 60109, "transl": "безробітний", "transcr": "arbeitslos", "ntranscr": "арбайтслос" },
-  
-  { "id": 60201, "transl": "комп'ютер", "transcr": "deːɐ̯ kɔmˈpjuːtɐ", "ntranscr": "дер комп'ю́тер" },
-  { "id": 60202, "transl": "телефон", "transcr": "das teləˈfoːn", "ntranscr": "дас телефо́н" },
-  { "id": 60203, "transl": "електронна пошта", "transcr": "diː ˈiːˌmeɪ̯l", "ntranscr": "ді і-мейл" },
-  { "id": 60204, "transl": "зустріч", "transcr": "deːɐ̯ tɛʁˈmiːn", "ntranscr": "дер термі́н" },
-  { "id": 60205, "transl": "колега", "transcr": "deːɐ̯ kɔˈleːɡə", "ntranscr": "дер коле́ґе" },
-  { "id": 60206, "transl": "дзвонити", "transcr": "ˈanˌʁuːfn̩", "ntranscr": "а́нруфен" },
-  { "id": 60207, "transl": "надсилати", "transcr": "ˈʃɪkn̩", "ntranscr": "ші́ккен" },
-  { "id": 60208, "transl": "друк / друкувати", "transcr": "ˈdʁʊkn̩", "ntranscr": "дру́ккен" },
-  { "id": 60209, "transl": "шеф / начальник", "transcr": "der Chef", "ntranscr": "шеф" },
-  { "id": 60210, "transl": "зарплата", "transcr": "das Gehalt", "ntranscr": "ґехальт" },
-  { "id": 60211, "transl": "відпустка", "transcr": "der Urlaub", "ntranscr": "урлауп" },
-  { "id": 60212, "transl": "документ", "transcr": "das Dokument", "ntranscr": "документ" },
-  { "id": 60213, "transl": "пауза / перерва", "transcr": "die Pause", "ntranscr": "паузе" },
-  
-  { "id": 60301, "transl": "школа", "transcr": "diː ˈʃuːlə", "ntranscr": "ді шу́ле" },
-  { "id": 60302, "transl": "університет", "transcr": "diː univɛʁziˈtɛːt", "ntranscr": "ді універзіте́т" },
-  { "id": 60303, "transl": "книга", "transcr": "das buːx", "ntranscr": "дас бух" },
-  { "id": 60304, "transl": "зошит / блокнот", "transcr": "das hɛft", "ntranscr": "дас хефт" },
-  { "id": 60305, "transl": "олівець", "transcr": "deːɐ̯ ˈblaɪ̯ˌʃtɪft", "ntranscr": "дер бля́йштіфт" },
-  { "id": 60306, "transl": "ручка", "transcr": "deːɐ̯ ˈkʊɡl̩ˌʃʁaɪ̯bɐ", "ntranscr": "дер ку́ґельшрайбер" },
-  { "id": 60307, "transl": "вчитися / вивчати", "transcr": "ˈlɛʁnən", "ntranscr": "ле́рнен" },
-  { "id": 60308, "transl": "екзамен", "transcr": "diː ˈpʁyːfʊŋ", "ntranscr": "ді прю́фунґ" },
-  
-  { "id": 60401, "transl": "мова", "transcr": "diː ˈʃpʁaːxə", "ntranscr": "ді шпра́хе" },
-  { "id": 60402, "transl": "німецька", "transcr": "dɔʏ̯tʃ", "ntranscr": "дойч" },
-  { "id": 60403, "transl": "українська", "transcr": "ukʁaˈiːnɪʃ", "ntranscr": "украї́ніш" },
-  { "id": 60404, "transl": "англійська", "transcr": "ˈɛŋlɪʃ", "ntranscr": "е́нґліш" },
-  { "id": 60405, "transl": "країна", "transcr": "das lant", "ntranscr": "дас лянт" },
-  { "id": 60406, "transl": "Німеччина", "transcr": "ˈdɔʏ̯tʃlant", "ntranscr": "до́йчлянт" },
-  { "id": 60407, "transl": "Україна", "transcr": "ukʁaˈiːnə", "ntranscr": "украї́не" },
-  { "id": 60408, "transl": "Європа", "transcr": "ɔʏ̯ˈʁoːpa", "ntranscr": "ойро́па" },
-  { "id": 60409, "transl": "країна", "transcr": "das Land", "ntranscr": "лянт" },
-  { "id": 60410, "transl": "за кордоном", "transcr": "im Ausland", "ntranscr": "ім ауслянд" },
-  
-  { "id": 60401, "transl": "мова", "transcr": "diː ˈʃpʁaːxə", "ntranscr": "ді шпра́хе" },
-  { "id": 60402, "transl": "німецька", "transcr": "dɔʏ̯tʃ", "ntranscr": "дойч" },
-  { "id": 60403, "transl": "українська", "transcr": "ukʁaˈiːnɪʃ", "ntranscr": "украї́ніш" },
-  { "id": 60404, "transl": "англійська", "transcr": "ˈɛŋlɪʃ", "ntranscr": "е́нґліш" },
-  { "id": 60405, "transl": "країна", "transcr": "das lant", "ntranscr": "дас лянт" },
-  { "id": 60406, "transl": "Німеччина", "transcr": "ˈdɔʏ̯tʃlant", "ntranscr": "до́йчлянт" },
-  { "id": 60407, "transl": "Україна", "transcr": "ukʁaˈiːnə", "ntranscr": "украї́не" },
-  { "id": 60408, "transl": "Європа", "transcr": "ɔʏ̯ˈʁoːpa", "ntranscr": "ойро́па" },
-  
-  { "id": 70101, "transl": "кіно", "transcr": "das ˈkiːno", "ntranscr": "дас кі́но" },
-  { "id": 70102, "transl": "театр", "transcr": "das teˈaːtɐ", "ntranscr": "дас теа́тер" },
-  { "id": 70103, "transl": "музей", "transcr": "das muˈzeːʊm", "ntranscr": "дас музе́ум" },
-  { "id": 70104, "transl": "виставка", "transcr": "diː ˈaʊ̯sˌʃtɛlʊŋ", "ntranscr": "ді а́усштеллунґ" },
-  { "id": 70105, "transl": "концерт", "transcr": "das kɔnˈtsɛʁt", "ntranscr": "дас концер́т" },
-  { "id": 70106, "transl": "вихідні", "transcr": "das ˈvɔxn̩ˌɛndə", "ntranscr": "дас во́хененде" },
-  { "id": 70107, "transl": "відпустка", "transcr": "deːɐ̯ ˈuːɐ̯laʊ̯p", "ntranscr": "дер у́рлауп" },
-  
-  { "id": 70201, "transl": "хобі", "transcr": "das ˈhɔbi", "ntranscr": "дас хо́ббі" },
-  { "id": 70202, "transl": "музика", "transcr": "diː muˈziːk", "ntranscr": "ді музі́к" },
-  { "id": 70203, "transl": "співати", "transcr": "ˈzɪŋən", "ntranscr": "зі́нґен" },
-  { "id": 70204, "transl": "малювати", "transcr": "ˈmaːlən", "ntranscr": "ма́лен" },
-  { "id": 70205, "transl": "фотографувати", "transcr": "fɔtoɡʁafiːʁən", "ntranscr": "фотоґрафі́рен" },
-  { "id": 70206, "transl": "слухати", "transcr": "ˈhøːʁən", "ntranscr": "хёрен" },
-  { "id": 70207, "transl": "грати", "transcr": "ˈʃpiːlən", "ntranscr": "шпі́лен" },
-  { "id": 70208, "transl": "дивитися фільми", "transcr": "filme schauen", "ntranscr": "фільме ша́уен" },
-  { "id": 70209, "transl": "читати", "transcr": "lesen", "ntranscr": "лезен" },
-  { "id": 70210, "transl": "подорожувати", "transcr": "reisen", "ntranscr": "райзен" },
-  { "id": 70211, "transl": "гуляти", "transcr": "spazieren gehen", "ntranscr": "шпацірен ґеен" },
-  
-  { "id": 70301, "transl": "спорт", "transcr": "deːɐ̯ ʃpɔʁt", "ntranscr": "дер шпорт" },
-  { "id": 70302, "transl": "футбол", "transcr": "deːɐ̯ ˈfuːsˌbal", "ntranscr": "дер фу́сбаль" },
-  { "id": 70303, "transl": "плавання", "transcr": "das ˈʃvɪmən", "ntranscr": "дас шві́ммен" },
-  { "id": 70304, "transl": "біг", "transcr": "das ˈlaʊ̯fn̩", "ntranscr": "дас ля́уфен" },
-  { "id": 70305, "transl": "велоспорт", "transcr": "ˈʁatˌfaːʁən", "ntranscr": "ра́тфарен" },
-  { "id": 70306, "transl": "тренування", "transcr": "das ˈtʁɛːnɪŋ", "ntranscr": "дас тре́нінґ" },
-  { "id": 70307, "transl": "команда", "transcr": "die Mannschaft", "ntranscr": "манншафт" },
-  { "id": 70308, "transl": "перемога", "transcr": "der Sieg", "ntranscr": "зіґ" },
-  { "id": 70309, "transl": "програш", "transcr": "die Niederlage", "ntranscr": "нідерлаґе" },
-  
-  { "id": 70401, "transl": "щасливий", "transcr": "ˈɡlʏklɪç", "ntranscr": "ґлюкліх" },
-  { "id": 70402, "transl": "сумний", "transcr": "ˈtʁaʊ̯ʁɪç", "ntranscr": "трауріх" },
-  { "id": 70403, "transl": "втомлений", "transcr": "ˈmyːdə", "ntranscr": "мюде" },
-  { "id": 70404, "transl": "хворий", "transcr": "kʁaŋk", "ntranscr": "кранк" },
-  { "id": 70405, "transl": "здоровий", "transcr": "ɡəˈzʊnt", "ntranscr": "ґезунт" },
-  { "id": 70406, "transl": "злий", "transcr": "ˈbøːzə", "ntranscr": "бьозе" },
-  { "id": 70407, "transl": "нервовий", "transcr": "nɛʁˈvøːs", "ntranscr": "нервьоз" },
-  { "id": 70408, "transl": "спокійний", "transcr": "ˈʁuːɪç", "ntranscr": "руіх" },
-  { "id": 70409, "transl": "задоволений", "transcr": "tsuˈfʁiːdn̩", "ntranscr": "цуфріден" },
-  { "id": 70410, "transl": "голодний", "transcr": "ˈhʊŋʁɪç", "ntranscr": "хунґріх" },
-  { "id": 70411, "transl": "спраглий", "transcr": "ˈdʊʁstɪç", "ntranscr": "дурстіх" },
-  { "id": 70412, "transl": "зацікавлений", "transcr": "ɪntəʁɛˈsiːɐ̯t", "ntranscr": "інтересірт" },
-
-  { "id": 70501, "transl": "собака", "transcr": "deːɐ̯ hʊnt", "ntranscr": "дер хунт" },
-  { "id": 70502, "transl": "кіт", "transcr": "diː ˈkatsə", "ntranscr": "ді катце" },
-  { "id": 70503, "transl": "птах", "transcr": "deːɐ̯ ˈfoːɡl̩", "ntranscr": "дер фоґель" },
-  { "id": 70504, "transl": "риба", "transcr": "deːɐ̯ fɪʃ", "ntranscr": "дер фіш" },
-  { "id": 70505, "transl": "кінь", "transcr": "das pfeːɐ̯t", "ntranscr": "дас пферд" },
-  { "id": 70506, "transl": "корова", "transcr": "diː kuː", "ntranscr": "ді ку" },
-  { "id": 70507, "transl": "свиня", "transcr": "das ˈʃvaɪ̯n", "ntranscr": "дас швайн" },
-  { "id": 70508, "transl": "вівця", "transcr": "das ʃaːf", "ntranscr": "дас шаф" },
-  { "id": 70509, "transl": "ведмідь", "transcr": "deːɐ̯ bɛːɐ̯", "ntranscr": "дер бер" },
-  { "id": 70510, "transl": "лев", "transcr": "deːɐ̯ ˈløːvə", "ntranscr": "дер льове" },
-  { "id": 70511, "transl": "тигр", "transcr": "deːɐ̯ ˈtiːɡɐ", "ntranscr": "дер тіґер" },
-  { "id": 70512, "transl": "заєць / кролик", "transcr": "deːɐ̯ ˈhaːzə", "ntranscr": "дер хазе" },
-  { "id": 70513, "transl": "мавпа", "transcr": "deːɐ̯ ˈafə", "ntranscr": "дер аффе" },
-  { "id": 70514, "transl": "миша", "transcr": "diː maʊ̯s", "ntranscr": "ді маус" }
+  {
+    "id": 10101,
+    "transl": "я",
+    "ntranscr": "іх"
+  },
+  {
+    "id": 10102,
+    "transl": "ти",
+    "ntranscr": "ду"
+  },
+  {
+    "id": 10103,
+    "transl": "він",
+    "ntranscr": "ер"
+  },
+  {
+    "id": 10104,
+    "transl": "вона",
+    "ntranscr": "зі"
+  },
+  {
+    "id": 10105,
+    "transl": "воно",
+    "ntranscr": "ес"
+  },
+  {
+    "id": 10106,
+    "transl": "ми",
+    "ntranscr": "вір"
+  },
+  {
+    "id": 10107,
+    "transl": "ви (мн.ч.)",
+    "ntranscr": "ір"
+  },
+  {
+    "id": 10108,
+    "transl": "вони",
+    "ntranscr": "зі"
+  },
+  {
+    "id": 10109,
+    "transl": "Ви (ввічливо)",
+    "ntranscr": "зі"
+  },
+  {
+    "id": 10110,
+    "transl": "мій / моя",
+    "ntranscr": "майн"
+  },
+  {
+    "id": 10111,
+    "transl": "твій / твоя",
+    "ntranscr": "дайн"
+  },
+  {
+    "id": 10112,
+    "transl": "чоловік",
+    "ntranscr": "дер ман"
+  },
+  {
+    "id": 10113,
+    "transl": "жінка",
+    "ntranscr": "ді фрау"
+  },
+  {
+    "id": 10114,
+    "transl": "дитина",
+    "ntranscr": "дас кінд"
+  },
+  {
+    "id": 10115,
+    "transl": "люди",
+    "ntranscr": "ді лойте"
+  },
+  {
+    "id": 10116,
+    "transl": "друг",
+    "ntranscr": "дер фройнд"
+  },
+  {
+    "id": 10117,
+    "transl": "подруга",
+    "ntranscr": "ді фройндін"
+  },
+  {
+    "id": 10118,
+    "transl": "ім'я",
+    "ntranscr": "дер наме"
+  },
+  {
+    "id": 10201,
+    "transl": "Привіт",
+    "ntranscr": "хало"
+  },
+  {
+    "id": 10202,
+    "transl": "Добрий ранок",
+    "ntranscr": "ґутн морґн"
+  },
+  {
+    "id": 10203,
+    "transl": "Добрий день",
+    "ntranscr": "ґутн так"
+  },
+  {
+    "id": 10204,
+    "transl": "Добрий вечір",
+    "ntranscr": "ґутн абнт"
+  },
+  {
+    "id": 10205,
+    "transl": "На добраніч",
+    "ntranscr": "ґуте нахт"
+  },
+  {
+    "id": 10206,
+    "transl": "Бувай / До побачення",
+    "ntranscr": "чюс"
+  },
+  {
+    "id": 10207,
+    "transl": "До побачення (офіц.)",
+    "ntranscr": "ауф відерзеен"
+  },
+  {
+    "id": 10208,
+    "transl": "Як справи?",
+    "ntranscr": "ві ґейтс"
+  },
+  {
+    "id": 10209,
+    "transl": "Добре",
+    "ntranscr": "ґут"
+  },
+  {
+    "id": 10210,
+    "transl": "Дуже добре",
+    "ntranscr": "зер ґут"
+  },
+  {
+    "id": 10301,
+    "transl": "називатися / зватися",
+    "ntranscr": "хайзен"
+  },
+  {
+    "id": 10302,
+    "transl": "жити",
+    "ntranscr": "лебен"
+  },
+  {
+    "id": 10303,
+    "transl": "приходити / прибувати",
+    "ntranscr": "комен"
+  },
+  {
+    "id": 10304,
+    "transl": "із (звідкись)",
+    "ntranscr": "аус"
+  },
+  {
+    "id": 10305,
+    "transl": "жити (проживати)",
+    "ntranscr": "вонен"
+  },
+  {
+    "id": 10306,
+    "transl": "тут",
+    "ntranscr": "хір"
+  },
+  {
+    "id": 10307,
+    "transl": "там",
+    "ntranscr": "дорт"
+  },
+  {
+    "id": 10308,
+    "transl": "розмовляти",
+    "ntranscr": "шпрехен"
+  },
+  {
+    "id": 10309,
+    "transl": "німецька",
+    "ntranscr": "дойч"
+  },
+  {
+    "id": 10310,
+    "transl": "англійська",
+    "ntranscr": "енгліш"
+  },
+  {
+    "id": 10311,
+    "transl": "країна",
+    "ntranscr": "лянт"
+  },
+  {
+    "id": 10312,
+    "transl": "місто",
+    "ntranscr": "штат"
+  },
+  {
+    "id": 10313,
+    "transl": "професія",
+    "ntranscr": "беруф"
+  },
+  {
+    "id": 10314,
+    "transl": "студент",
+    "ntranscr": "дер студент"
+  },
+  {
+    "id": 10401,
+    "transl": "запитання",
+    "ntranscr": "ді фраґе"
+  },
+  {
+    "id": 10402,
+    "transl": "хто",
+    "ntranscr": "вер"
+  },
+  {
+    "id": 10403,
+    "transl": "що",
+    "ntranscr": "вас"
+  },
+  {
+    "id": 10404,
+    "transl": "як",
+    "ntranscr": "ві"
+  },
+  {
+    "id": 10405,
+    "transl": "де",
+    "ntranscr": "во"
+  },
+  {
+    "id": 10406,
+    "transl": "звідки",
+    "ntranscr": "вохер"
+  },
+  {
+    "id": 10407,
+    "transl": "куди",
+    "ntranscr": "вохін"
+  },
+  {
+    "id": 10408,
+    "transl": "коли",
+    "ntranscr": "ван"
+  },
+  {
+    "id": 10409,
+    "transl": "чому",
+    "ntranscr": "варум"
+  },
+  {
+    "id": 10410,
+    "transl": "так",
+    "ntranscr": "я"
+  },
+  {
+    "id": 10411,
+    "transl": "ні",
+    "ntranscr": "найн"
+  },
+  {
+    "id": 10412,
+    "transl": "не / ні",
+    "ntranscr": "ніхт"
+  },
+  {
+    "id": 10413,
+    "transl": "дякую",
+    "ntranscr": "данке"
+  },
+  {
+    "id": 10414,
+    "transl": "будь ласка",
+    "ntranscr": "бітте"
+  },
+  {
+    "id": 10501,
+    "transl": "відповідати",
+    "ntranscr": "антвортен"
+  },
+  {
+    "id": 10502,
+    "transl": "розуміти",
+    "ntranscr": "ферштеен"
+  },
+  {
+    "id": 10503,
+    "transl": "знати",
+    "ntranscr": "віссен"
+  },
+  {
+    "id": 10504,
+    "transl": "думати",
+    "ntranscr": "денкен"
+  },
+  {
+    "id": 10505,
+    "transl": "може бути / можливо",
+    "ntranscr": "віляйхт"
+  },
+  {
+    "id": 10506,
+    "transl": "зараз",
+    "ntranscr": "єтцт"
+  },
+  {
+    "id": 10507,
+    "transl": "пізніше",
+    "ntranscr": "шпетер"
+  },
+  {
+    "id": 10508,
+    "transl": "звичайно / звісно",
+    "ntranscr": "нацюрліх"
+  },
+  {
+    "id": 10509,
+    "transl": "правильно",
+    "ntranscr": "ріхтіх"
+  },
+  {
+    "id": 10510,
+    "transl": "з радістю",
+    "ntranscr": "ґерне"
+  },
+  {
+    "id": 10511,
+    "transl": "мені шкода",
+    "ntranscr": "ес тут мір лайд"
+  },
+  {
+    "id": 10512,
+    "transl": "нема за що",
+    "ntranscr": "кайне урзахе"
+  },
+  {
+    "id": 10513,
+    "transl": "чудово / клас",
+    "ntranscr": "толь"
+  },
+  {
+    "id": 20101,
+    "transl": "мати",
+    "ntranscr": "хабен"
+  },
+  {
+    "id": 20102,
+    "transl": "бути",
+    "ntranscr": "зайн"
+  },
+  {
+    "id": 20103,
+    "transl": "робити",
+    "ntranscr": "махен"
+  },
+  {
+    "id": 20104,
+    "transl": "йти / ходити",
+    "ntranscr": "ґеен"
+  },
+  {
+    "id": 20105,
+    "transl": "бачити",
+    "ntranscr": "зеен"
+  },
+  {
+    "id": 20106,
+    "transl": "чути",
+    "ntranscr": "хьорен"
+  },
+  {
+    "id": 20107,
+    "transl": "брати",
+    "ntranscr": "немен"
+  },
+  {
+    "id": 20108,
+    "transl": "давати",
+    "ntranscr": "ґебен"
+  },
+  {
+    "id": 20109,
+    "transl": "хотіти",
+    "ntranscr": "воллен"
+  },
+  {
+    "id": 20110,
+    "transl": "могти",
+    "ntranscr": "кьоннен"
+  },
+  {
+    "id": 20111,
+    "transl": "потрібно / мусити",
+    "ntranscr": "мюссен"
+  },
+  {
+    "id": 20112,
+    "transl": "подобатися",
+    "ntranscr": "мьоґен"
+  },
+  {
+    "id": 20113,
+    "transl": "шукати",
+    "ntranscr": "зухен"
+  },
+  {
+    "id": 20114,
+    "transl": "знаходити",
+    "ntranscr": "фінден"
+  },
+  {
+    "id": 20115,
+    "transl": "давати",
+    "ntranscr": "ґебен"
+  },
+  {
+    "id": 20201,
+    "transl": "зараз",
+    "ntranscr": "єтст"
+  },
+  {
+    "id": 20202,
+    "transl": "сьогодні",
+    "ntranscr": "хо́йте"
+  },
+  {
+    "id": 20203,
+    "transl": "вчора",
+    "ntranscr": "ґе́стерн"
+  },
+  {
+    "id": 20204,
+    "transl": "завтра",
+    "ntranscr": "мо́рґен"
+  },
+  {
+    "id": 20205,
+    "transl": "раніше",
+    "ntranscr": "фрю́ер"
+  },
+  {
+    "id": 20206,
+    "transl": "пізніше",
+    "ntranscr": "шпе́тер"
+  },
+  {
+    "id": 20207,
+    "transl": "день",
+    "ntranscr": "дер та́к"
+  },
+  {
+    "id": 20208,
+    "transl": "тиждень",
+    "ntranscr": "ді во́хе"
+  },
+  {
+    "id": 20301,
+    "transl": "завжди",
+    "ntranscr": "і́ммер"
+  },
+  {
+    "id": 20302,
+    "transl": "часто",
+    "ntranscr": "хо́йфих"
+  },
+  {
+    "id": 20303,
+    "transl": "іноді",
+    "ntranscr": "ма́нхмаль"
+  },
+  {
+    "id": 20304,
+    "transl": "рідко",
+    "ntranscr": "зе́льтен"
+  },
+  {
+    "id": 20305,
+    "transl": "ніколи",
+    "ntranscr": "ні"
+  },
+  {
+    "id": 20306,
+    "transl": "зазвичай",
+    "ntranscr": "майстенс"
+  },
+  {
+    "id": 20307,
+    "transl": "майже ніколи",
+    "ntranscr": "фаст ні"
+  },
+  {
+    "id": 20308,
+    "transl": "щодня",
+    "ntranscr": "єден так"
+  },
+  {
+    "id": 20309,
+    "transl": "час від часу",
+    "ntranscr": "ап унд цу"
+  },
+  {
+    "id": 20401,
+    "transl": "вставати",
+    "ntranscr": "ауфштеен"
+  },
+  {
+    "id": 20402,
+    "transl": "снідати",
+    "ntranscr": "фрюштюккен"
+  },
+  {
+    "id": 20403,
+    "transl": "працювати",
+    "ntranscr": "арбайтен"
+  },
+  {
+    "id": 20404,
+    "transl": "вчитися",
+    "ntranscr": "лернен"
+  },
+  {
+    "id": 20405,
+    "transl": "обідати",
+    "ntranscr": "цу міттаґ ессен"
+  },
+  {
+    "id": 20406,
+    "transl": "вечеряти",
+    "ntranscr": "цу абент ессен"
+  },
+  {
+    "id": 20407,
+    "transl": "йти додому",
+    "ntranscr": "нах хаузе ґеен"
+  },
+  {
+    "id": 20408,
+    "transl": "дивитися телевізор",
+    "ntranscr": "фернзеен"
+  },
+  {
+    "id": 20409,
+    "transl": "читати",
+    "ntranscr": "лезен"
+  },
+  {
+    "id": 20410,
+    "transl": "спати",
+    "ntranscr": "шлафен"
+  },
+  {
+    "id": 20411,
+    "transl": "йти за покупками",
+    "ntranscr": "айнкауфен"
+  },
+  {
+    "id": 20412,
+    "transl": "прибирати",
+    "ntranscr": "ауфроймен"
+  },
+  {
+    "id": 20501,
+    "transl": "могти (вміти)",
+    "ntranscr": "кённен"
+  },
+  {
+    "id": 20502,
+    "transl": "мусити",
+    "ntranscr": "мюссен"
+  },
+  {
+    "id": 20503,
+    "transl": "хотіти",
+    "ntranscr": "воллен"
+  },
+  {
+    "id": 20504,
+    "transl": "могти (мати дозвіл)",
+    "ntranscr": "дюрфен"
+  },
+  {
+    "id": 20505,
+    "transl": "повинно бути",
+    "ntranscr": "золлен"
+  },
+  {
+    "id": 20506,
+    "transl": "любити (подобатися)",
+    "ntranscr": "мёґен"
+  },
+  {
+    "id": 20507,
+    "transl": "хотілося б",
+    "ntranscr": "мёхтен"
+  },
+  {
+    "id": 20601,
+    "transl": "нуль",
+    "ntranscr": "нуль"
+  },
+  {
+    "id": 20602,
+    "transl": "один",
+    "ntranscr": "айнс"
+  },
+  {
+    "id": 20603,
+    "transl": "два",
+    "ntranscr": "цвай"
+  },
+  {
+    "id": 20604,
+    "transl": "три",
+    "ntranscr": "драй"
+  },
+  {
+    "id": 20605,
+    "transl": "чотири",
+    "ntranscr": "фір"
+  },
+  {
+    "id": 20606,
+    "transl": "п'ять",
+    "ntranscr": "фюнф"
+  },
+  {
+    "id": 20607,
+    "transl": "шість",
+    "ntranscr": "зекс"
+  },
+  {
+    "id": 20608,
+    "transl": "сім",
+    "ntranscr": "зібен"
+  },
+  {
+    "id": 20609,
+    "transl": "вісім",
+    "ntranscr": "ахт"
+  },
+  {
+    "id": 20610,
+    "transl": "дев'ять",
+    "ntranscr": "нойн"
+  },
+  {
+    "id": 20701,
+    "transl": "з / із",
+    "ntranscr": "міт"
+  },
+  {
+    "id": 20702,
+    "transl": "без",
+    "ntranscr": "оне"
+  },
+  {
+    "id": 20703,
+    "transl": "для",
+    "ntranscr": "фюр"
+  },
+  {
+    "id": 20704,
+    "transl": "в / у",
+    "ntranscr": "ін"
+  },
+  {
+    "id": 20705,
+    "transl": "на",
+    "ntranscr": "ауф"
+  },
+  {
+    "id": 20706,
+    "transl": "під",
+    "ntranscr": "унтер"
+  },
+  {
+    "id": 20707,
+    "transl": "над",
+    "ntranscr": "юбер"
+  },
+  {
+    "id": 20708,
+    "transl": "перед",
+    "ntranscr": "фор"
+  },
+  {
+    "id": 20709,
+    "transl": "після / в",
+    "ntranscr": "нах"
+  },
+  {
+    "id": 20710,
+    "transl": "і / та",
+    "ntranscr": "унд"
+  },
+  {
+    "id": 20711,
+    "transl": "але",
+    "ntranscr": "абер"
+  },
+  {
+    "id": 20712,
+    "transl": "або",
+    "ntranscr": "одер"
+  },
+  {
+    "id": 20713,
+    "transl": "тому що",
+    "ntranscr": "вайль"
+  },
+  {
+    "id": 20714,
+    "transl": "тільки",
+    "ntranscr": "нур"
+  },
+  {
+    "id": 20715,
+    "transl": "вже",
+    "ntranscr": "шон"
+  },
+  {
+    "id": 20716,
+    "transl": "ще",
+    "ntranscr": "нох"
+  },
+  {
+    "id": 20717,
+    "transl": "дуже",
+    "ntranscr": "зер"
+  },
+  {
+    "id": 20801,
+    "transl": "великий",
+    "ntranscr": "ґрос"
+  },
+  {
+    "id": 20802,
+    "transl": "маленький",
+    "ntranscr": "клайн"
+  },
+  {
+    "id": 20803,
+    "transl": "новий",
+    "ntranscr": "ной"
+  },
+  {
+    "id": 20804,
+    "transl": "старий",
+    "ntranscr": "альт"
+  },
+  {
+    "id": 20805,
+    "transl": "гарний",
+    "ntranscr": "шён"
+  },
+  {
+    "id": 20806,
+    "transl": "швидкий",
+    "ntranscr": "шнель"
+  },
+  {
+    "id": 20807,
+    "transl": "повільний",
+    "ntranscr": "лангзам"
+  },
+  {
+    "id": 20808,
+    "transl": "важкий",
+    "ntranscr": "швер"
+  },
+  {
+    "id": 20809,
+    "transl": "легкий",
+    "ntranscr": "лайхт"
+  },
+  {
+    "id": 20810,
+    "transl": "дорогий",
+    "ntranscr": "тойер"
+  },
+  {
+    "id": 30101,
+    "transl": "сім'я",
+    "ntranscr": "фаміліє"
+  },
+  {
+    "id": 30102,
+    "transl": "батьки",
+    "ntranscr": "ельтерн"
+  },
+  {
+    "id": 30103,
+    "transl": "мати",
+    "ntranscr": "муттер"
+  },
+  {
+    "id": 30104,
+    "transl": "батько",
+    "ntranscr": "фатер"
+  },
+  {
+    "id": 30105,
+    "transl": "син",
+    "ntranscr": "зон"
+  },
+  {
+    "id": 30106,
+    "transl": "донька",
+    "ntranscr": "тохтер"
+  },
+  {
+    "id": 30107,
+    "transl": "брат",
+    "ntranscr": "брудер"
+  },
+  {
+    "id": 30108,
+    "transl": "сестра",
+    "ntranscr": "швестер"
+  },
+  {
+    "id": 30109,
+    "transl": "бабуся",
+    "ntranscr": "ома"
+  },
+  {
+    "id": 30110,
+    "transl": "дідусь",
+    "ntranscr": "опа"
+  },
+  {
+    "id": 30111,
+    "transl": "дитина",
+    "ntranscr": "дас кінд"
+  },
+  {
+    "id": 30201,
+    "transl": "будинок",
+    "ntranscr": "дас хаус"
+  },
+  {
+    "id": 30202,
+    "transl": "квартира",
+    "ntranscr": "ді во́нунґ"
+  },
+  {
+    "id": 30203,
+    "transl": "кімната",
+    "ntranscr": "дас ці́ммер"
+  },
+  {
+    "id": 30204,
+    "transl": "кухня",
+    "ntranscr": "ді кю́хе"
+  },
+  {
+    "id": 30205,
+    "transl": "ванна кімната",
+    "ntranscr": "дас бат"
+  },
+  {
+    "id": 30206,
+    "transl": "двері",
+    "ntranscr": "ді тюр"
+  },
+  {
+    "id": 30207,
+    "transl": "вікно",
+    "ntranscr": "дас фе́нстер"
+  },
+  {
+    "id": 30208,
+    "transl": "стіл",
+    "ntranscr": "дер тіш"
+  },
+  {
+    "id": 30209,
+    "transl": "стілець",
+    "ntranscr": "дер штуль"
+  },
+  {
+    "id": 30210,
+    "transl": "ліжко",
+    "ntranscr": "дас бет"
+  },
+  {
+    "id": 30211,
+    "transl": "шафа",
+    "ntranscr": "дер шранк"
+  },
+  {
+    "id": 30212,
+    "transl": "ключ",
+    "ntranscr": "дер шлю́ссель"
+  },
+  {
+    "id": 30301,
+    "transl": "одяг",
+    "ntranscr": "ді кла́йдунґ"
+  },
+  {
+    "id": 30302,
+    "transl": "футболка",
+    "ntranscr": "дас ті-шерт"
+  },
+  {
+    "id": 30303,
+    "transl": "сорочка",
+    "ntranscr": "дас хемт"
+  },
+  {
+    "id": 30304,
+    "transl": "штани",
+    "ntranscr": "ді хо́зе"
+  },
+  {
+    "id": 30305,
+    "transl": "сукня",
+    "ntranscr": "дас клайд"
+  },
+  {
+    "id": 30306,
+    "transl": "куртка",
+    "ntranscr": "ді я́кке"
+  },
+  {
+    "id": 30307,
+    "transl": "пальто",
+    "ntranscr": "дер ма́нтель"
+  },
+  {
+    "id": 30308,
+    "transl": "черевики / взуття",
+    "ntranscr": "ді шу́е"
+  },
+  {
+    "id": 30309,
+    "transl": "шапка",
+    "ntranscr": "ді мю́тце"
+  },
+  {
+    "id": 30310,
+    "transl": "сумка",
+    "ntranscr": "ді та́ше"
+  },
+  {
+    "id": 30311,
+    "transl": "окуляри",
+    "ntranscr": "ді брі́лле"
+  },
+  {
+    "id": 30312,
+    "transl": "парасолька",
+    "ntranscr": "дер ре́ґенширм"
+  },
+  {
+    "id": 30401,
+    "transl": "тіло",
+    "ntranscr": "дер кё́рпер"
+  },
+  {
+    "id": 30402,
+    "transl": "голова",
+    "ntranscr": "дер копф"
+  },
+  {
+    "id": 30403,
+    "transl": "обличчя",
+    "ntranscr": "дас ґезі́хт"
+  },
+  {
+    "id": 30404,
+    "transl": "око",
+    "ntranscr": "дас а́уґе"
+  },
+  {
+    "id": 30405,
+    "transl": "ніс",
+    "ntranscr": "ді на́зе"
+  },
+  {
+    "id": 30406,
+    "transl": "рот",
+    "ntranscr": "дер мунт"
+  },
+  {
+    "id": 30407,
+    "transl": "вухо",
+    "ntranscr": "дас ор"
+  },
+  {
+    "id": 30408,
+    "transl": "рука (кисть)",
+    "ntranscr": "ді хант"
+  },
+  {
+    "id": 30409,
+    "transl": "нога (стопа)",
+    "ntranscr": "дер фус"
+  },
+  {
+    "id": 30410,
+    "transl": "біль",
+    "ntranscr": "дер шмерц"
+  },
+  {
+    "id": 30411,
+    "transl": "лікар",
+    "ntranscr": "дер арцт"
+  },
+  {
+    "id": 30412,
+    "transl": "аптека",
+    "ntranscr": "ді апоте́ке"
+  },
+  {
+    "id": 30413,
+    "transl": "ліки",
+    "ntranscr": "дас медікаме́нт"
+  },
+  {
+    "id": 30414,
+    "transl": "лікарня",
+    "ntranscr": "кранкенхаус"
+  },
+  {
+    "id": 30415,
+    "transl": "хворий",
+    "ntranscr": "кранк"
+  },
+  {
+    "id": 30416,
+    "transl": "здоровий",
+    "ntranscr": "ґезунд"
+  },
+  {
+    "id": 30417,
+    "transl": "кашель",
+    "ntranscr": "хустен"
+  },
+  {
+    "id": 30418,
+    "transl": "нежить",
+    "ntranscr": "шнупфен"
+  },
+  {
+    "id": 30419,
+    "transl": "температура",
+    "ntranscr": "фібер"
+  },
+  {
+    "id": 30420,
+    "transl": "рецепт",
+    "ntranscr": "рецепт"
+  },
+  {
+    "id": 30501,
+    "transl": "колір",
+    "ntranscr": "ді фа́рбе"
+  },
+  {
+    "id": 30502,
+    "transl": "білий",
+    "ntranscr": "вайс"
+  },
+  {
+    "id": 30503,
+    "transl": "чорний",
+    "ntranscr": "шварц"
+  },
+  {
+    "id": 30504,
+    "transl": "червоний",
+    "ntranscr": "рот"
+  },
+  {
+    "id": 30505,
+    "transl": "синій",
+    "ntranscr": "блау"
+  },
+  {
+    "id": 30506,
+    "transl": "зелений",
+    "ntranscr": "ґрюн"
+  },
+  {
+    "id": 30507,
+    "transl": "жовтий",
+    "ntranscr": "ґельп"
+  },
+  {
+    "id": 30508,
+    "transl": "сірий",
+    "ntranscr": "ґрау"
+  },
+  {
+    "id": 30509,
+    "transl": "коричневий",
+    "ntranscr": "браун"
+  },
+  {
+    "id": 30510,
+    "transl": "помаранчевий",
+    "ntranscr": "оранж"
+  },
+  {
+    "id": 40101,
+    "transl": "їжа / продукти",
+    "ntranscr": "ле́бенсміттель"
+  },
+  {
+    "id": 40102,
+    "transl": "хліб",
+    "ntranscr": "дас брот"
+  },
+  {
+    "id": 40103,
+    "transl": "булочка",
+    "ntranscr": "дас брьотхен"
+  },
+  {
+    "id": 40104,
+    "transl": "молоко",
+    "ntranscr": "ді мільх"
+  },
+  {
+    "id": 40105,
+    "transl": "сир",
+    "ntranscr": "дер ке́зе"
+  },
+  {
+    "id": 40106,
+    "transl": "яйце",
+    "ntranscr": "дас ай"
+  },
+  {
+    "id": 40107,
+    "transl": "м'ясо",
+    "ntranscr": "дас фляйш"
+  },
+  {
+    "id": 40108,
+    "transl": "риба",
+    "ntranscr": "дер фіш"
+  },
+  {
+    "id": 40109,
+    "transl": "овочі",
+    "ntranscr": "дас ґемю́зе"
+  },
+  {
+    "id": 40110,
+    "transl": "фрукти",
+    "ntranscr": "дас опст"
+  },
+  {
+    "id": 40111,
+    "transl": "цукор",
+    "ntranscr": "дер цу́ккер"
+  },
+  {
+    "id": 40112,
+    "transl": "сіль",
+    "ntranscr": "дас зальц"
+  },
+  {
+    "id": 40113,
+    "transl": "масло",
+    "ntranscr": "буттер"
+  },
+  {
+    "id": 40101,
+    "transl": "їжа / продукти",
+    "ntranscr": "ле́бенсміттель"
+  },
+  {
+    "id": 40102,
+    "transl": "хліб",
+    "ntranscr": "дас брот"
+  },
+  {
+    "id": 40103,
+    "transl": "булочка",
+    "ntranscr": "дас брьотхен"
+  },
+  {
+    "id": 40104,
+    "transl": "молоко",
+    "ntranscr": "ді мільх"
+  },
+  {
+    "id": 40105,
+    "transl": "сир",
+    "ntranscr": "дер ке́зе"
+  },
+  {
+    "id": 40106,
+    "transl": "яйце",
+    "ntranscr": "дас ай"
+  },
+  {
+    "id": 40107,
+    "transl": "м'ясо",
+    "ntranscr": "дас фляйш"
+  },
+  {
+    "id": 40108,
+    "transl": "риба",
+    "ntranscr": "дер фіш"
+  },
+  {
+    "id": 40109,
+    "transl": "овочі",
+    "ntranscr": "дас ґемю́зе"
+  },
+  {
+    "id": 40110,
+    "transl": "фрукти",
+    "ntranscr": "дас опст"
+  },
+  {
+    "id": 40111,
+    "transl": "цукор",
+    "ntranscr": "дер цу́ккер"
+  },
+  {
+    "id": 40112,
+    "transl": "сіль",
+    "ntranscr": "дас зальц"
+  },
+  {
+    "id": 40201,
+    "transl": "суп",
+    "ntranscr": "зуппе"
+  },
+  {
+    "id": 40202,
+    "transl": "салат",
+    "ntranscr": "залат"
+  },
+  {
+    "id": 40203,
+    "transl": "піца",
+    "ntranscr": "піцца"
+  },
+  {
+    "id": 40204,
+    "transl": "макарони",
+    "ntranscr": "нудельн"
+  },
+  {
+    "id": 40205,
+    "transl": "рис",
+    "ntranscr": "райс"
+  },
+  {
+    "id": 40206,
+    "transl": "картопля",
+    "ntranscr": "картоффель"
+  },
+  {
+    "id": 40207,
+    "transl": "десерт",
+    "ntranscr": "нахтіш"
+  },
+  {
+    "id": 40301,
+    "transl": "вода",
+    "ntranscr": "дас ва́ссер"
+  },
+  {
+    "id": 40302,
+    "transl": "сік",
+    "ntranscr": "дер зафт"
+  },
+  {
+    "id": 40303,
+    "transl": "кава",
+    "ntranscr": "дер ка́фе"
+  },
+  {
+    "id": 40304,
+    "transl": "чай",
+    "ntranscr": "дер те"
+  },
+  {
+    "id": 40305,
+    "transl": "пиво",
+    "ntranscr": "дас бір"
+  },
+  {
+    "id": 40306,
+    "transl": "вино",
+    "ntranscr": "дер вайн"
+  },
+  {
+    "id": 40401,
+    "transl": "супермаркет",
+    "ntranscr": "дер зу́пермаркт"
+  },
+  {
+    "id": 40402,
+    "transl": "ринок",
+    "ntranscr": "дер маркт"
+  },
+  {
+    "id": 40403,
+    "transl": "ціна",
+    "ntranscr": "дер прайс"
+  },
+  {
+    "id": 40404,
+    "transl": "гроші",
+    "ntranscr": "дас гельт"
+  },
+  {
+    "id": 40405,
+    "transl": "каса",
+    "ntranscr": "ді ка́ссе"
+  },
+  {
+    "id": 40406,
+    "transl": "чек / рахунок",
+    "ntranscr": "ді ре́хнунґ"
+  },
+  {
+    "id": 40407,
+    "transl": "пакет",
+    "ntranscr": "ді тю́те"
+  },
+  {
+    "id": 40408,
+    "transl": "платити",
+    "ntranscr": "беца́лен"
+  },
+  {
+    "id": 40409,
+    "transl": "відчинено",
+    "ntranscr": "оффен"
+  },
+  {
+    "id": 40410,
+    "transl": "зачинено",
+    "ntranscr": "ґешлоссен"
+  },
+  {
+    "id": 40411,
+    "transl": "знижка",
+    "ntranscr": "рабатт"
+  },
+  {
+    "id": 40501,
+    "transl": "смачно",
+    "ntranscr": "ле́ккер"
+  },
+  {
+    "id": 40502,
+    "transl": "солодкий",
+    "ntranscr": "зюс"
+  },
+  {
+    "id": 40503,
+    "transl": "солоний",
+    "ntranscr": "за́льціх"
+  },
+  {
+    "id": 40504,
+    "transl": "гострий",
+    "ntranscr": "шарф"
+  },
+  {
+    "id": 40505,
+    "transl": "кислий",
+    "ntranscr": "за́уер"
+  },
+  {
+    "id": 40506,
+    "transl": "гіркий",
+    "ntranscr": "бі́ттер"
+  },
+  {
+    "id": 40507,
+    "transl": "голодний",
+    "ntranscr": "ху́нґріх"
+  },
+  {
+    "id": 40508,
+    "transl": "хотіти пити (спрага)",
+    "ntranscr": "ду́рстіх"
+  },
+  {
+    "id": 40509,
+    "transl": "ситий",
+    "ntranscr": "зат"
+  },
+  {
+    "id": 50101,
+    "transl": "місто",
+    "ntranscr": "ді штат"
+  },
+  {
+    "id": 50102,
+    "transl": "центр міста",
+    "ntranscr": "дас центрум"
+  },
+  {
+    "id": 50103,
+    "transl": "вулиця",
+    "ntranscr": "ді штрассе"
+  },
+  {
+    "id": 50104,
+    "transl": "площа",
+    "ntranscr": "дер плац"
+  },
+  {
+    "id": 50105,
+    "transl": "парк",
+    "ntranscr": "дер парк"
+  },
+  {
+    "id": 50106,
+    "transl": "готель",
+    "ntranscr": "дас хотель"
+  },
+  {
+    "id": 50107,
+    "transl": "банк",
+    "ntranscr": "ді банк"
+  },
+  {
+    "id": 50108,
+    "transl": "пошта",
+    "ntranscr": "ді пост"
+  },
+  {
+    "id": 50101,
+    "transl": "місто",
+    "ntranscr": "ді штат"
+  },
+  {
+    "id": 50102,
+    "transl": "центр міста",
+    "ntranscr": "дас це́нтрум"
+  },
+  {
+    "id": 50103,
+    "transl": "вулиця",
+    "ntranscr": "ді штра́ссе"
+  },
+  {
+    "id": 50104,
+    "transl": "площа",
+    "ntranscr": "дер плац"
+  },
+  {
+    "id": 50105,
+    "transl": "парк",
+    "ntranscr": "дер парк"
+  },
+  {
+    "id": 50106,
+    "transl": "готель",
+    "ntranscr": "дас хоте́ль"
+  },
+  {
+    "id": 50107,
+    "transl": "банк",
+    "ntranscr": "ді банк"
+  },
+  {
+    "id": 50108,
+    "transl": "пошта",
+    "ntranscr": "ді пост"
+  },
+  {
+    "id": 50201,
+    "transl": "авто",
+    "ntranscr": "ауто"
+  },
+  {
+    "id": 50202,
+    "transl": "автобус",
+    "ntranscr": "бус"
+  },
+  {
+    "id": 50203,
+    "transl": "поїзд",
+    "ntranscr": "цук"
+  },
+  {
+    "id": 50204,
+    "transl": "метро",
+    "ntranscr": "у-бан"
+  },
+  {
+    "id": 50205,
+    "transl": "трамвай",
+    "ntranscr": "штрассенбан"
+  },
+  {
+    "id": 50206,
+    "transl": "велосипед",
+    "ntranscr": "фаррат"
+  },
+  {
+    "id": 50207,
+    "transl": "літак",
+    "ntranscr": "флюкцойґ"
+  },
+  {
+    "id": 50208,
+    "transl": "квиток",
+    "ntranscr": "фаркарте"
+  },
+  {
+    "id": 50209,
+    "transl": "зупинка",
+    "ntranscr": "хальтештелле"
+  },
+  {
+    "id": 50210,
+    "transl": "вокзал",
+    "ntranscr": "банхоф"
+  },
+  {
+    "id": 50211,
+    "transl": "аеропорт",
+    "ntranscr": "флюкхафен"
+  },
+  {
+    "id": 50301,
+    "transl": "відпустка",
+    "ntranscr": "дер у́рлауп"
+  },
+  {
+    "id": 50302,
+    "transl": "подорож",
+    "ntranscr": "ді ра́йзе"
+  },
+  {
+    "id": 50303,
+    "transl": "багаж",
+    "ntranscr": "дас ґепе́к"
+  },
+  {
+    "id": 50304,
+    "transl": "валіза",
+    "ntranscr": "дер ко́ффер"
+  },
+  {
+    "id": 50305,
+    "transl": "паспорт",
+    "ntranscr": "дер пас"
+  },
+  {
+    "id": 50306,
+    "transl": "бронювати",
+    "ntranscr": "бу́хен"
+  },
+  {
+    "id": 50307,
+    "transl": "відвідувати",
+    "ntranscr": "безу́хен"
+  },
+  {
+    "id": 50308,
+    "transl": "готель",
+    "ntranscr": "хотель"
+  },
+  {
+    "id": 50309,
+    "transl": "одномісний номер",
+    "ntranscr": "айнцельціммер"
+  },
+  {
+    "id": 50310,
+    "transl": "двомісний номер",
+    "ntranscr": "доппельціммер"
+  },
+  {
+    "id": 50401,
+    "transl": "сонце",
+    "ntranscr": "ді зо́нне"
+  },
+  {
+    "id": 50402,
+    "transl": "дощ",
+    "ntranscr": "дер ре́ґен"
+  },
+  {
+    "id": 50403,
+    "transl": "сніг",
+    "ntranscr": "дер шне"
+  },
+  {
+    "id": 50404,
+    "transl": "вітер",
+    "ntranscr": "дер вінт"
+  },
+  {
+    "id": 50405,
+    "transl": "холодно",
+    "ntranscr": "кальт"
+  },
+  {
+    "id": 50406,
+    "transl": "тепло / гаряче",
+    "ntranscr": "варм / хайс"
+  },
+  {
+    "id": 50407,
+    "transl": "небо",
+    "ntranscr": "дер хі́ммель"
+  },
+  {
+    "id": 50408,
+    "transl": "ліс",
+    "ntranscr": "дер вальт"
+  },
+  {
+    "id": 50409,
+    "transl": "море",
+    "ntranscr": "дас мер"
+  },
+  {
+    "id": 50410,
+    "transl": "гора",
+    "ntranscr": "дер берґ"
+  },
+  {
+    "id": 50411,
+    "transl": "місяць",
+    "ntranscr": "монд"
+  },
+  {
+    "id": 50412,
+    "transl": "зірка",
+    "ntranscr": "штерн"
+  },
+  {
+    "id": 50413,
+    "transl": "земля",
+    "ntranscr": "ерде"
+  },
+  {
+    "id": 50501,
+    "transl": "ліворуч",
+    "ntranscr": "лінкс"
+  },
+  {
+    "id": 50502,
+    "transl": "праворуч",
+    "ntranscr": "рехтс"
+  },
+  {
+    "id": 50503,
+    "transl": "прямо",
+    "ntranscr": "ґера́деаус"
+  },
+  {
+    "id": 50504,
+    "transl": "поруч",
+    "ntranscr": "не́бен"
+  },
+  {
+    "id": 50505,
+    "transl": "тут",
+    "ntranscr": "хір"
+  },
+  {
+    "id": 50506,
+    "transl": "там",
+    "ntranscr": "дорт"
+  },
+  {
+    "id": 50507,
+    "transl": "далеко",
+    "ntranscr": "вайт"
+  },
+  {
+    "id": 50508,
+    "transl": "близько",
+    "ntranscr": "на́е"
+  },
+  {
+    "id": 50509,
+    "transl": "на розі",
+    "ntranscr": "ан дер екке"
+  },
+  {
+    "id": 50510,
+    "transl": "через",
+    "ntranscr": "юбер"
+  },
+  {
+    "id": 50511,
+    "transl": "поруч",
+    "ntranscr": "небен"
+  },
+  {
+    "id": 50512,
+    "transl": "навпроти",
+    "ntranscr": "ґеґенюбер"
+  },
+  {
+    "id": 50513,
+    "transl": "північ",
+    "ntranscr": "норден"
+  },
+  {
+    "id": 50514,
+    "transl": "південь",
+    "ntranscr": "зюден"
+  },
+  {
+    "id": 50515,
+    "transl": "схід",
+    "ntranscr": "остен"
+  },
+  {
+    "id": 50516,
+    "transl": "захід",
+    "ntranscr": "вестен"
+  },
+  {
+    "id": 50517,
+    "transl": "місце",
+    "ntranscr": "орт"
+  },
+  {
+    "id": 50518,
+    "transl": "адреса",
+    "ntranscr": "адрессе"
+  },
+  {
+    "id": 60101,
+    "transl": "робота",
+    "ntranscr": "ді а́рбайт"
+  },
+  {
+    "id": 60102,
+    "transl": "професія",
+    "ntranscr": "дер беру́ф"
+  },
+  {
+    "id": 60103,
+    "transl": "вчитель / вчителька",
+    "ntranscr": "ле́рер / ле́рерін"
+  },
+  {
+    "id": 60104,
+    "transl": "лікар",
+    "ntranscr": "дер арцт"
+  },
+  {
+    "id": 60105,
+    "transl": "інженер",
+    "ntranscr": "дер інженьо́р"
+  },
+  {
+    "id": 60106,
+    "transl": "продавець",
+    "ntranscr": "дер ферко́йфер"
+  },
+  {
+    "id": 60107,
+    "transl": "кухар",
+    "ntranscr": "дер кох"
+  },
+  {
+    "id": 60108,
+    "transl": "студент",
+    "ntranscr": "дер штуде́нт"
+  },
+  {
+    "id": 60109,
+    "transl": "безробітний",
+    "ntranscr": "арбайтслос"
+  },
+  {
+    "id": 60201,
+    "transl": "комп'ютер",
+    "ntranscr": "дер комп'ю́тер"
+  },
+  {
+    "id": 60202,
+    "transl": "телефон",
+    "ntranscr": "дас телефо́н"
+  },
+  {
+    "id": 60203,
+    "transl": "електронна пошта",
+    "ntranscr": "ді і-мейл"
+  },
+  {
+    "id": 60204,
+    "transl": "зустріч",
+    "ntranscr": "дер термі́н"
+  },
+  {
+    "id": 60205,
+    "transl": "колега",
+    "ntranscr": "дер коле́ґе"
+  },
+  {
+    "id": 60206,
+    "transl": "дзвонити",
+    "ntranscr": "а́нруфен"
+  },
+  {
+    "id": 60207,
+    "transl": "надсилати",
+    "ntranscr": "ші́ккен"
+  },
+  {
+    "id": 60208,
+    "transl": "друк / друкувати",
+    "ntranscr": "дру́ккен"
+  },
+  {
+    "id": 60209,
+    "transl": "шеф / начальник",
+    "ntranscr": "шеф"
+  },
+  {
+    "id": 60210,
+    "transl": "зарплата",
+    "ntranscr": "ґехальт"
+  },
+  {
+    "id": 60211,
+    "transl": "відпустка",
+    "ntranscr": "урлауп"
+  },
+  {
+    "id": 60212,
+    "transl": "документ",
+    "ntranscr": "документ"
+  },
+  {
+    "id": 60213,
+    "transl": "пауза / перерва",
+    "ntranscr": "паузе"
+  },
+  {
+    "id": 60301,
+    "transl": "школа",
+    "ntranscr": "ді шу́ле"
+  },
+  {
+    "id": 60302,
+    "transl": "університет",
+    "ntranscr": "ді універзіте́т"
+  },
+  {
+    "id": 60303,
+    "transl": "книга",
+    "ntranscr": "дас бух"
+  },
+  {
+    "id": 60304,
+    "transl": "зошит / блокнот",
+    "ntranscr": "дас хефт"
+  },
+  {
+    "id": 60305,
+    "transl": "олівець",
+    "ntranscr": "дер бля́йштіфт"
+  },
+  {
+    "id": 60306,
+    "transl": "ручка",
+    "ntranscr": "дер ку́ґельшрайбер"
+  },
+  {
+    "id": 60307,
+    "transl": "вчитися / вивчати",
+    "ntranscr": "ле́рнен"
+  },
+  {
+    "id": 60308,
+    "transl": "екзамен",
+    "ntranscr": "ді прю́фунґ"
+  },
+  {
+    "id": 60401,
+    "transl": "мова",
+    "ntranscr": "ді шпра́хе"
+  },
+  {
+    "id": 60402,
+    "transl": "німецька",
+    "ntranscr": "дойч"
+  },
+  {
+    "id": 60403,
+    "transl": "українська",
+    "ntranscr": "украї́ніш"
+  },
+  {
+    "id": 60404,
+    "transl": "англійська",
+    "ntranscr": "е́нґліш"
+  },
+  {
+    "id": 60405,
+    "transl": "країна",
+    "ntranscr": "дас лянт"
+  },
+  {
+    "id": 60406,
+    "transl": "Німеччина",
+    "ntranscr": "до́йчлянт"
+  },
+  {
+    "id": 60407,
+    "transl": "Україна",
+    "ntranscr": "украї́не"
+  },
+  {
+    "id": 60408,
+    "transl": "Європа",
+    "ntranscr": "ойро́па"
+  },
+  {
+    "id": 60409,
+    "transl": "країна",
+    "ntranscr": "лянт"
+  },
+  {
+    "id": 60410,
+    "transl": "за кордоном",
+    "ntranscr": "ім ауслянд"
+  },
+  {
+    "id": 60401,
+    "transl": "мова",
+    "ntranscr": "ді шпра́хе"
+  },
+  {
+    "id": 60402,
+    "transl": "німецька",
+    "ntranscr": "дойч"
+  },
+  {
+    "id": 60403,
+    "transl": "українська",
+    "ntranscr": "украї́ніш"
+  },
+  {
+    "id": 60404,
+    "transl": "англійська",
+    "ntranscr": "е́нґліш"
+  },
+  {
+    "id": 60405,
+    "transl": "країна",
+    "ntranscr": "дас лянт"
+  },
+  {
+    "id": 60406,
+    "transl": "Німеччина",
+    "ntranscr": "до́йчлянт"
+  },
+  {
+    "id": 60407,
+    "transl": "Україна",
+    "ntranscr": "украї́не"
+  },
+  {
+    "id": 60408,
+    "transl": "Європа",
+    "ntranscr": "ойро́па"
+  },
+  {
+    "id": 70101,
+    "transl": "кіно",
+    "ntranscr": "дас кі́но"
+  },
+  {
+    "id": 70102,
+    "transl": "театр",
+    "ntranscr": "дас теа́тер"
+  },
+  {
+    "id": 70103,
+    "transl": "музей",
+    "ntranscr": "дас музе́ум"
+  },
+  {
+    "id": 70104,
+    "transl": "виставка",
+    "ntranscr": "ді а́усштеллунґ"
+  },
+  {
+    "id": 70105,
+    "transl": "концерт",
+    "ntranscr": "дас концер́т"
+  },
+  {
+    "id": 70106,
+    "transl": "вихідні",
+    "ntranscr": "дас во́хененде"
+  },
+  {
+    "id": 70107,
+    "transl": "відпустка",
+    "ntranscr": "дер у́рлауп"
+  },
+  {
+    "id": 70201,
+    "transl": "хобі",
+    "ntranscr": "дас хо́ббі"
+  },
+  {
+    "id": 70202,
+    "transl": "музика",
+    "ntranscr": "ді музі́к"
+  },
+  {
+    "id": 70203,
+    "transl": "співати",
+    "ntranscr": "зі́нґен"
+  },
+  {
+    "id": 70204,
+    "transl": "малювати",
+    "ntranscr": "ма́лен"
+  },
+  {
+    "id": 70205,
+    "transl": "фотографувати",
+    "ntranscr": "фотоґрафі́рен"
+  },
+  {
+    "id": 70206,
+    "transl": "слухати",
+    "ntranscr": "хёрен"
+  },
+  {
+    "id": 70207,
+    "transl": "грати",
+    "ntranscr": "шпі́лен"
+  },
+  {
+    "id": 70208,
+    "transl": "дивитися фільми",
+    "ntranscr": "фільме ша́уен"
+  },
+  {
+    "id": 70209,
+    "transl": "читати",
+    "ntranscr": "лезен"
+  },
+  {
+    "id": 70210,
+    "transl": "подорожувати",
+    "ntranscr": "райзен"
+  },
+  {
+    "id": 70211,
+    "transl": "гуляти",
+    "ntranscr": "шпацірен ґеен"
+  },
+  {
+    "id": 70301,
+    "transl": "спорт",
+    "ntranscr": "дер шпорт"
+  },
+  {
+    "id": 70302,
+    "transl": "футбол",
+    "ntranscr": "дер фу́сбаль"
+  },
+  {
+    "id": 70303,
+    "transl": "плавання",
+    "ntranscr": "дас шві́ммен"
+  },
+  {
+    "id": 70304,
+    "transl": "біг",
+    "ntranscr": "дас ля́уфен"
+  },
+  {
+    "id": 70305,
+    "transl": "велоспорт",
+    "ntranscr": "ра́тфарен"
+  },
+  {
+    "id": 70306,
+    "transl": "тренування",
+    "ntranscr": "дас тре́нінґ"
+  },
+  {
+    "id": 70307,
+    "transl": "команда",
+    "ntranscr": "манншафт"
+  },
+  {
+    "id": 70308,
+    "transl": "перемога",
+    "ntranscr": "зіґ"
+  },
+  {
+    "id": 70309,
+    "transl": "програш",
+    "ntranscr": "нідерлаґе"
+  },
+  {
+    "id": 70401,
+    "transl": "щасливий",
+    "ntranscr": "ґлюкліх"
+  },
+  {
+    "id": 70402,
+    "transl": "сумний",
+    "ntranscr": "трауріх"
+  },
+  {
+    "id": 70403,
+    "transl": "втомлений",
+    "ntranscr": "мюде"
+  },
+  {
+    "id": 70404,
+    "transl": "хворий",
+    "ntranscr": "кранк"
+  },
+  {
+    "id": 70405,
+    "transl": "здоровий",
+    "ntranscr": "ґезунт"
+  },
+  {
+    "id": 70406,
+    "transl": "злий",
+    "ntranscr": "бьозе"
+  },
+  {
+    "id": 70407,
+    "transl": "нервовий",
+    "ntranscr": "нервьоз"
+  },
+  {
+    "id": 70408,
+    "transl": "спокійний",
+    "ntranscr": "руіх"
+  },
+  {
+    "id": 70409,
+    "transl": "задоволений",
+    "ntranscr": "цуфріден"
+  },
+  {
+    "id": 70410,
+    "transl": "голодний",
+    "ntranscr": "хунґріх"
+  },
+  {
+    "id": 70411,
+    "transl": "спраглий",
+    "ntranscr": "дурстіх"
+  },
+  {
+    "id": 70412,
+    "transl": "зацікавлений",
+    "ntranscr": "інтересірт"
+  },
+  {
+    "id": 70501,
+    "transl": "собака",
+    "ntranscr": "дер хунт"
+  },
+  {
+    "id": 70502,
+    "transl": "кіт",
+    "ntranscr": "ді катце"
+  },
+  {
+    "id": 70503,
+    "transl": "птах",
+    "ntranscr": "дер фоґель"
+  },
+  {
+    "id": 70504,
+    "transl": "риба",
+    "ntranscr": "дер фіш"
+  },
+  {
+    "id": 70505,
+    "transl": "кінь",
+    "ntranscr": "дас пферд"
+  },
+  {
+    "id": 70506,
+    "transl": "корова",
+    "ntranscr": "ді ку"
+  },
+  {
+    "id": 70507,
+    "transl": "свиня",
+    "ntranscr": "дас швайн"
+  },
+  {
+    "id": 70508,
+    "transl": "вівця",
+    "ntranscr": "дас шаф"
+  },
+  {
+    "id": 70509,
+    "transl": "ведмідь",
+    "ntranscr": "дер бер"
+  },
+  {
+    "id": 70510,
+    "transl": "лев",
+    "ntranscr": "дер льове"
+  },
+  {
+    "id": 70511,
+    "transl": "тигр",
+    "ntranscr": "дер тіґер"
+  },
+  {
+    "id": 70512,
+    "transl": "заєць / кролик",
+    "ntranscr": "дер хазе"
+  },
+  {
+    "id": 70513,
+    "transl": "мавпа",
+    "ntranscr": "дер аффе"
+  },
+  {
+    "id": 70514,
+    "transl": "миша",
+    "ntranscr": "ді маус"
+  }
 ]
-  
-  
-  
-  

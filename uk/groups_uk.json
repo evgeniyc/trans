@@ -2,43 +2,36 @@
   {
     "id": 1,
     "transl": "Спілкування",
-    "transcr": null,
     "ntranscr": null
   },
   {
     "id": 2,
     "transl": "Дії та час",
-    "transcr": null,
     "ntranscr": null
   },
   {
     "id": 3,
     "transl": "Повсякденне життя",
-    "transcr": null,
     "ntranscr": null
   },
   {
     "id": 4,
     "transl": "Їжа та покупки",
-    "transcr": null,
     "ntranscr": null
   },
   {
     "id": 5,
     "transl": "Місце та рух",
-    "transcr": null,
     "ntranscr": null
   },
   {
     "id": 6,
     "transl": "Робота та навчання",
-    "transcr": null,
     "ntranscr": null
   },
   {
     "id": 7,
     "transl": "Дозвілля та почуття",
-    "transcr": null,
     "ntranscr": null
   }
 ]
