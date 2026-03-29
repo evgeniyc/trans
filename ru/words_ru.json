@@ -1,2528 +1,423 @@
 [
-  {
-    "id": 10101,
-    "transl": "я",
-    "ntranscr": "ихь",
-    "hasEx": false
-  },
-  {
-    "id": 10102,
-    "transl": "ты",
-    "ntranscr": "ду",
-    "hasEx": false
-  },
-  {
-    "id": 10103,
-    "transl": "он",
-    "ntranscr": "эа",
-    "hasEx": false
-  },
-  {
-    "id": 10104,
-    "transl": "она",
-    "ntranscr": "зи",
-    "hasEx": false
-  },
-  {
-    "id": 10105,
-    "transl": "оно",
-    "ntranscr": "эс",
-    "hasEx": false
-  },
-  {
-    "id": 10106,
-    "transl": "мы",
-    "ntranscr": "виа",
-    "hasEx": false
-  },
-  {
-    "id": 10107,
-    "transl": "вы (мн.ч.)",
-    "ntranscr": "иа",
-    "hasEx": false
-  },
-  {
-    "id": 10108,
-    "transl": "они",
-    "ntranscr": "зи",
-    "hasEx": false
-  },
-  {
-    "id": 10109,
-    "transl": "Вы (вежливая форма)",
-    "ntranscr": "зи",
-    "hasEx": false
-  },
-  {
-    "id": 10110,
-    "transl": "мой/моя(мои)",
-    "ntranscr": "майн/майнэ",
-    "hasEx": false
-  },
-  {
-    "id": 10111,
-    "transl": "твой/твоя(твои)",
-    "ntranscr": "дайн/дайнэ",
-    "hasEx": false
-  },
-  {
-    "id": 10112,
-    "transl": "мужчина",
-    "ntranscr": "дэа ман",
-    "hasEx": false
-  },
-  {
-    "id": 10113,
-    "transl": "женщина",
-    "ntranscr": "ди фрау",
-    "hasEx": false
-  },
-  {
-    "id": 10114,
-    "transl": "ребёнок",
-    "ntranscr": "дас кинт",
-    "hasEx": false
-  },
-  {
-    "id": 10115,
-    "transl": "люди",
-    "ntranscr": "ди лойтэ",
-    "hasEx": false
-  },
-  {
-    "id": 10116,
-    "transl": "друг",
-    "ntranscr": "дэа фройнт",
-    "hasEx": false
-  },
-  {
-    "id": 10117,
-    "transl": "подруга",
-    "ntranscr": "ди фройндин",
-    "hasEx": false
-  },
-  {
-    "id": 10118,
-    "transl": "имя",
-    "ntranscr": "дэа намэ",
-    "hasEx": false
-  },
-  {
-    "id": 10201,
-    "transl": "привет",
-    "ntranscr": "хало",
-    "hasEx": false
-  },
-  {
-    "id": 10202,
-    "transl": "доброе утро",
-    "ntranscr": "гуутн моргэн",
-    "hasEx": false
-  },
-  {
-    "id": 10203,
-    "transl": "добрый день",
-    "ntranscr": "гуутн таак",
-    "hasEx": false
-  },
-  {
-    "id": 10204,
-    "transl": "добрый вечер",
-    "ntranscr": "гуутн аабэнт",
-    "hasEx": false
-  },
-  {
-    "id": 10205,
-    "transl": "пока",
-    "ntranscr": "чюс",
-    "hasEx": false
-  },
-  {
-    "id": 10206,
-    "transl": "до свидания",
-    "ntranscr": "ауф видэрзеэн",
-    "hasEx": false
-  },
-  {
-    "id": 10207,
-    "transl": "пожалуйста",
-    "ntranscr": "биттэ",
-    "hasEx": false
-  },
-  {
-    "id": 10208,
-    "transl": "спасибо",
-    "ntranscr": "данкэ",
-    "hasEx": false
-  },
-  {
-    "id": 10209,
-    "transl": "большое спасибо",
-    "ntranscr": "данкэ шён",
-    "hasEx": false
-  },
-  {
-    "id": 10210,
-    "transl": "извините",
-    "ntranscr": "энтшульдигунг",
-    "hasEx": false
-  },
-  {
-    "id": 10301,
-    "transl": "называться / (как) зваться",
-    "ntranscr": "хайзн",
-    "hasEx": false
-  },
-  {
-    "id": 10302,
-    "transl": "жить",
-    "ntranscr": "леэбн",
-    "hasEx": false
-  },
-  {
-    "id": 10303,
-    "transl": "приходить / прибывать",
-    "ntranscr": "комэн",
-    "hasEx": false
-  },
-  {
-    "id": 10304,
-    "transl": "из (откуда-то)",
-    "ntranscr": "аус",
-    "hasEx": false
-  },
-  {
-    "id": 10305,
-    "transl": "жить (проживать)",
-    "ntranscr": "воонэн",
-    "hasEx": false
-  },
-  {
-    "id": 10306,
-    "transl": "здесь",
-    "ntranscr": "хиа",
-    "hasEx": false
-  },
-  {
-    "id": 10307,
-    "transl": "там",
-    "ntranscr": "дорт",
-    "hasEx": false
-  },
-  {
-    "id": 10308,
-    "transl": "говорить (на языке)",
-    "ntranscr": "шпрэхэн",
-    "hasEx": false
-  },
-  {
-    "id": 10309,
-    "transl": "немецкий (язык)",
-    "ntranscr": "дойч",
-    "hasEx": false
-  },
-  {
-    "id": 10310,
-    "transl": "английский (язык)",
-    "ntranscr": "энлиш",
-    "hasEx": false
-  },
-  {
-    "id": 10311,
-    "transl": "страна",
-    "ntranscr": "лант",
-    "hasEx": false
-  },
-  {
-    "id": 10312,
-    "transl": "город",
-    "ntranscr": "штат",
-    "hasEx": false
-  },
-  {
-    "id": 10313,
-    "transl": "профессия",
-    "ntranscr": "бэруф",
-    "hasEx": false
-  },
-  {
-    "id": 10314,
-    "transl": "студент",
-    "ntranscr": "дэа штудэнт",
-    "hasEx": false
-  },
-  {
-    "id": 10401,
-    "transl": "вопрос",
-    "ntranscr": "ди фраагэ",
-    "hasEx": false
-  },
-  {
-    "id": 10402,
-    "transl": "спрашивать",
-    "ntranscr": "фраагн",
-    "hasEx": false
-  },
-  {
-    "id": 10403,
-    "transl": "кто",
-    "ntranscr": "вэа",
-    "hasEx": false
-  },
-  {
-    "id": 10404,
-    "transl": "что",
-    "ntranscr": "вас",
-    "hasEx": false
-  },
-  {
-    "id": 10405,
-    "transl": "когда",
-    "ntranscr": "ван",
-    "hasEx": false
-  },
-  {
-    "id": 10406,
-    "transl": "где",
-    "ntranscr": "во",
-    "hasEx": false
-  },
-  {
-    "id": 10407,
-    "transl": "откуда",
-    "ntranscr": "вохэа",
-    "hasEx": false
-  },
-  {
-    "id": 10408,
-    "transl": "куда",
-    "ntranscr": "вохин",
-    "hasEx": false
-  },
-  {
-    "id": 10409,
-    "transl": "как",
-    "ntranscr": "ви",
-    "hasEx": false
-  },
-  {
-    "id": 10410,
-    "transl": "сколько (неисчисляемое)",
-    "ntranscr": "ви филь",
-    "hasEx": false
-  },
-  {
-    "id": 10411,
-    "transl": "сколько (исчисляемое)",
-    "ntranscr": "ви филэ",
-    "hasEx": false
-  },
-  {
-    "id": 10412,
-    "transl": "почему",
-    "ntranscr": "варум",
-    "hasEx": false
-  },
-  {
-    "id": 10413,
-    "transl": "или",
-    "ntranscr": "оода",
-    "hasEx": false
-  },
-  {
-    "id": 10414,
-    "transl": "пожалуйста (в вопросе)",
-    "ntranscr": "биттэ",
-    "hasEx": false
-  },
-  {
-    "id": 10501,
-    "transl": "отвечать",
-    "ntranscr": "антвортэн",
-    "hasEx": false
-  },
-  {
-    "id": 10502,
-    "transl": "ответ",
-    "ntranscr": "ди антворт",
-    "hasEx": false
-  },
-  {
-    "id": 10503,
-    "transl": "да",
-    "ntranscr": "яа",
-    "hasEx": false
-  },
-  {
-    "id": 10504,
-    "transl": "нет",
-    "ntranscr": "найн",
-    "hasEx": false
-  },
-  {
-    "id": 10505,
-    "transl": "возможно",
-    "ntranscr": "филайхт",
-    "hasEx": false
-  },
-  {
-    "id": 10506,
-    "transl": "конечно",
-    "ntranscr": "натюрлих",
-    "hasEx": false
-  },
-  {
-    "id": 10507,
-    "transl": "с удовольствием / охотно",
-    "ntranscr": "гэрн",
-    "hasEx": false
-  },
-  {
-    "id": 10508,
-    "transl": "к сожалению",
-    "ntranscr": "лайда",
-    "hasEx": false
-  },
-  {
-    "id": 10509,
-    "transl": "окей",
-    "ntranscr": "окэ",
-    "hasEx": false
-  },
-  {
-    "id": 10510,
-    "transl": "супер",
-    "ntranscr": "зупа",
-    "hasEx": false
-  },
-  {
-    "id": 10511,
-    "transl": "классно / здорово",
-    "ntranscr": "толь",
-    "hasEx": false
-  },
-  {
-    "id": 10512,
-    "transl": "верно / правильно",
-    "ntranscr": "штимт",
-    "hasEx": false
-  },
-  {
-    "id": 10513,
-    "transl": "точно / именно",
-    "ntranscr": "гэнау",
-    "hasEx": false
-  },
-  {
-    "id": 20101,
-    "transl": "быть",
-    "ntranscr": "зайн",
-    "hasEx": false
-  },
-  {
-    "id": 20102,
-    "transl": "иметь",
-    "ntranscr": "хаабн",
-    "hasEx": false
-  },
-  {
-    "id": 20103,
-    "transl": "становиться",
-    "ntranscr": "вэардн",
-    "hasEx": false
-  },
-  {
-    "id": 20104,
-    "transl": "делать",
-    "ntranscr": "махн",
-    "hasEx": false
-  },
-  {
-    "id": 20105,
-    "transl": "идти",
-    "ntranscr": "гээн",
-    "hasEx": false
-  },
-  {
-    "id": 20106,
-    "transl": "приходить",
-    "ntranscr": "комэн",
-    "hasEx": false
-  },
-  {
-    "id": 20107,
-    "transl": "видеть",
-    "ntranscr": "зээн",
-    "hasEx": false
-  },
-  {
-    "id": 20108,
-    "transl": "находить",
-    "ntranscr": "финдэн",
-    "hasEx": false
-  },
-  {
-    "id": 20109,
-    "transl": "давать",
-    "ntranscr": "гэбн",
-    "hasEx": false
-  },
-  {
-    "id": 20110,
-    "transl": "брать",
-    "ntranscr": "нээмэн",
-    "hasEx": false
-  },
-  {
-    "id": 20111,
-    "transl": "оставаться",
-    "ntranscr": "блайбн",
-    "hasEx": false
-  },
-  {
-    "id": 20112,
-    "transl": "работать",
-    "ntranscr": "арбайтн",
-    "hasEx": false
-  },
-  {
-    "id": 20113,
-    "transl": "учить / изучать",
-    "ntranscr": "лэрнэн",
-    "hasEx": false
-  },
-  {
-    "id": 20114,
-    "transl": "играть",
-    "ntranscr": "шпилэн",
-    "hasEx": false
-  },
-  {
-    "id": 20115,
-    "transl": "жить (проживать)",
-    "ntranscr": "воонэн",
-    "hasEx": false
-  },
-  {
-    "id": 20201,
-    "transl": "сегодня",
-    "ntranscr": "хойтэ",
-    "hasEx": false
-  },
-  {
-    "id": 20202,
-    "transl": "завтра / утро",
-    "ntranscr": "моргэн",
-    "hasEx": false
-  },
-  {
-    "id": 20203,
-    "transl": "вчера",
-    "ntranscr": "гэстэрн",
-    "hasEx": false
-  },
-  {
-    "id": 20204,
-    "transl": "сейчас",
-    "ntranscr": "йетст",
-    "hasEx": false
-  },
-  {
-    "id": 20205,
-    "transl": "рано",
-    "ntranscr": "фрю",
-    "hasEx": false
-  },
-  {
-    "id": 20206,
-    "transl": "поздно",
-    "ntranscr": "шпээт",
-    "hasEx": false
-  },
-  {
-    "id": 20207,
-    "transl": "раньше",
-    "ntranscr": "фрюа",
-    "hasEx": false
-  },
-  {
-    "id": 20208,
-    "transl": "позже",
-    "ntranscr": "шпээта",
-    "hasEx": false
-  },
-  {
-    "id": 20301,
-    "transl": "всегда",
-    "ntranscr": "имма",
-    "hasEx": false
-  },
-  {
-    "id": 20302,
-    "transl": "чаще всего",
-    "ntranscr": "майстэнс",
-    "hasEx": false
-  },
-  {
-    "id": 20303,
-    "transl": "часто",
-    "ntranscr": "офт",
-    "hasEx": false
-  },
-  {
-    "id": 20304,
-    "transl": "часто (книжн./нейтр.)",
-    "ntranscr": "хойфих",
-    "hasEx": false
-  },
-  {
-    "id": 20305,
-    "transl": "иногда",
-    "ntranscr": "манхмааль",
-    "hasEx": false
-  },
-  {
-    "id": 20306,
-    "transl": "время от времени",
-    "ntranscr": "ап унт цу",
-    "hasEx": false
-  },
-  {
-    "id": 20307,
-    "transl": "редко",
-    "ntranscr": "зэльтн",
-    "hasEx": false
-  },
-  {
-    "id": 20308,
-    "transl": "почти никогда",
-    "ntranscr": "фаст нии",
-    "hasEx": false
-  },
-  {
-    "id": 20309,
-    "transl": "никогда",
-    "ntranscr": "нии",
-    "hasEx": false
-  },
-  {
-    "id": 20401,
-    "transl": "вставать",
-    "ntranscr": "ауфштээн",
-    "hasEx": false
-  },
-  {
-    "id": 20402,
-    "transl": "завтракать",
-    "ntranscr": "фрюштыкн",
-    "hasEx": false
-  },
-  {
-    "id": 20403,
-    "transl": "работать",
-    "ntranscr": "арбайтн",
-    "hasEx": false
-  },
-  {
-    "id": 20404,
-    "transl": "учиться / изучать",
-    "ntranscr": "лэрнэн",
-    "hasEx": false
-  },
-  {
-    "id": 20405,
-    "transl": "учиться (в вузе)",
-    "ntranscr": "штудирэн",
-    "hasEx": false
-  },
-  {
-    "id": 20406,
-    "transl": "есть (кушать)",
-    "ntranscr": "эсн",
-    "hasEx": false
-  },
-  {
-    "id": 20407,
-    "transl": "обедать",
-    "ntranscr": "цу миттаг эсн",
-    "hasEx": false
-  },
-  {
-    "id": 20408,
-    "transl": "ужинать",
-    "ntranscr": "цу абэнт эсн",
-    "hasEx": false
-  },
-  {
-    "id": 20409,
-    "transl": "идти домой",
-    "ntranscr": "нах хаузэ гээн",
-    "hasEx": false
-  },
-  {
-    "id": 20410,
-    "transl": "отдыхать",
-    "ntranscr": "зих аусруэн",
-    "hasEx": false
-  },
-  {
-    "id": 20411,
-    "transl": "смотреть телевизор",
-    "ntranscr": "фэрнзээн",
-    "hasEx": false
-  },
-  {
-    "id": 20412,
-    "transl": "спать",
-    "ntranscr": "шлаафн",
-    "hasEx": false
-  },
-  {
-    "id": 20501,
-    "transl": "мочь / уметь",
-    "ntranscr": "кёнэн",
-    "hasEx": false
-  },
-  {
-    "id": 20502,
-    "transl": "долженствовать / быть вынужденным",
-    "ntranscr": "мюссэн",
-    "hasEx": false
-  },
-  {
-    "id": 20503,
-    "transl": "хотеть",
-    "ntranscr": "волэн",
-    "hasEx": false
-  },
-  {
-    "id": 20504,
-    "transl": "следовать (следует, должен по совету)",
-    "ntranscr": "золэн",
-    "hasEx": false
-  },
-  {
-    "id": 20505,
-    "transl": "мочь (разрешение)",
-    "ntranscr": "дюрфэн",
-    "hasEx": false
-  },
-  {
-    "id": 20506,
-    "transl": "любить / нравиться",
-    "ntranscr": "мёоген",
-    "hasEx": false
-  },
-  {
-    "id": 20507,
-    "transl": "хотел бы (вежливо)",
-    "ntranscr": "мёхтэ",
-    "hasEx": false
-  },
-  {
-    "id": 20601,
-    "transl": "ноль, один, два",
-    "ntranscr": "нуль, айнс, цвай",
-    "hasEx": false
-  },
-  {
-    "id": 20602,
-    "transl": "три, четыре, пять",
-    "ntranscr": "драй, фиа, фюнф",
-    "hasEx": false
-  },
-  {
-    "id": 20603,
-    "transl": "шесть, семь, восемь",
-    "ntranscr": "зэкс, зибн, ахт",
-    "hasEx": false
-  },
-  {
-    "id": 20604,
-    "transl": "девять, десять, одиннадцать",
-    "ntranscr": "нойн, цеен, эльф",
-    "hasEx": false
-  },
-  {
-    "id": 20605,
-    "transl": "двенадцать, тринадцать, четырнадцать",
-    "ntranscr": "цвёльф, драйцеен, фиацеен",
-    "hasEx": false
-  },
-  {
-    "id": 20606,
-    "transl": "пятнадцать, шестнадцать, семнадцать",
-    "ntranscr": "фюнфцеен, зэхцеен, зипцеен",
-    "hasEx": false
-  },
-  {
-    "id": 20607,
-    "transl": "восемнадцать, девятнадцать, двадцать",
-    "ntranscr": "ахцеен, нойнцеен, цванцих",
-    "hasEx": false
-  },
-  {
-    "id": 20608,
-    "transl": "тридцать, сорок, пятьдесят",
-    "ntranscr": "драйсих, фиацих, фюнфцих",
-    "hasEx": false
-  },
-  {
-    "id": 20609,
-    "transl": "шестьдесят, семьдесят, восемьдесят",
-    "ntranscr": "зэхцих, зипцих, ахцих",
-    "hasEx": false
-  },
-  {
-    "id": 20610,
-    "transl": "девяносто, сто",
-    "ntranscr": "нойнцих, хундэрт",
-    "hasEx": false
-  },
-  {
-    "id": 20701,
-    "transl": "и, или",
-    "ntranscr": "унт, о́да",
-    "hasEx": false
-  },
-  {
-    "id": 20702,
-    "transl": "но, потому что (разг.), итак / значит",
-    "ntranscr": "а́ба, дэн, а́льзо",
-    "hasEx": false
-  },
-  {
-    "id": 20703,
-    "transl": "тоже / также, только",
-    "ntranscr": "аух, нуа",
-    "hasEx": false
-  },
-  {
-    "id": 20704,
-    "transl": "очень, совсем / вполне",
-    "ntranscr": "зеа, ганц",
-    "hasEx": false
-  },
-  {
-    "id": 20705,
-    "transl": "так",
-    "ntranscr": "зоо",
-    "hasEx": false
-  },
-  {
-    "id": 20706,
-    "transl": "ещё, уже",
-    "ntranscr": "нох, шоон",
-    "hasEx": false
-  },
-  {
-    "id": 20707,
-    "transl": "всегда, никогда",
-    "ntranscr": "и́мма, нии",
-    "hasEx": false
-  },
-  {
-    "id": 20708,
-    "transl": "снова",
-    "ntranscr": "ви́да",
-    "hasEx": false
-  },
-  {
-    "id": 20709,
-    "transl": "нет (для сущ.), не",
-    "ntranscr": "кайн, нихт",
-    "hasEx": false
-  },
-  {
-    "id": 20710,
-    "transl": "никакая / никакие, ничего",
-    "ntranscr": "ка́йнэ, нихтс",
-    "hasEx": false
-  },
-  {
-    "id": 20711,
-    "transl": "в, на, на/у",
-    "ntranscr": "ин, ауф, ан",
-    "hasEx": false
-  },
-  {
-    "id": 20712,
-    "transl": "перед, за",
-    "ntranscr": "фоа, хи́нта",
-    "hasEx": false
-  },
-  {
-    "id": 20713,
-    "transl": "рядом с, между",
-    "ntranscr": "нэ́бн, цви́шн",
-    "hasEx": false
-  },
-  {
-    "id": 20714,
-    "transl": "напротив",
-    "ntranscr": "ге́эгн-ю́ба",
-    "hasEx": false
-  },
-  {
-    "id": 20715,
-    "transl": "у / при, с",
-    "ntranscr": "бай, мит",
-    "hasEx": false
-  },
-  {
-    "id": 20716,
-    "transl": "от / из, к / в, в (направление)",
-    "ntranscr": "фон, цуу, нах",
-    "hasEx": false
-  },
-  {
-    "id": 20717,
-    "transl": "для, без",
-    "ntranscr": "фюа, о́нэ",
-    "hasEx": false
-  },
-  {
-    "id": 20801,
-    "transl": "большой, маленький",
-    "ntranscr": "грос, клайн",
-    "hasEx": false
-  },
-  {
-    "id": 20802,
-    "transl": "старый, новый, молодой",
-    "ntranscr": "альт, ной, юнг",
-    "hasEx": false
-  },
-  {
-    "id": 20803,
-    "transl": "красивый, некрасивый",
-    "ntranscr": "шён, хэслих",
-    "hasEx": false
-  },
-  {
-    "id": 20804,
-    "transl": "хороший, плохой",
-    "ntranscr": "гуут, шлехт",
-    "hasEx": false
-  },
-  {
-    "id": 20805,
-    "transl": "правильный, неправильный",
-    "ntranscr": "рихтих, фальш",
-    "hasEx": false
-  },
-  {
-    "id": 20806,
-    "transl": "быстрый, медленный",
-    "ntranscr": "шнель, лангзам",
-    "hasEx": false
-  },
-  {
-    "id": 20807,
-    "transl": "лёгкий, тяжёлый",
-    "ntranscr": "ляйхт, швеа",
-    "hasEx": false
-  },
-  {
-    "id": 20808,
-    "transl": "дорогой, дешёвый",
-    "ntranscr": "тойа, биллих",
-    "hasEx": false
-  },
-  {
-    "id": 20809,
-    "transl": "светлый, тёмный",
-    "ntranscr": "хэль, ду́нгкль",
-    "hasEx": false
-  },
-  {
-    "id": 20810,
-    "transl": "важный",
-    "ntranscr": "вихтих",
-    "hasEx": false
-  },
-  {
-    "id": 30101,
-    "transl": "семья",
-    "ntranscr": "ди фамилие",
-    "hasEx": false
-  },
-  {
-    "id": 30102,
-    "transl": "отец",
-    "ntranscr": "дэа фа́та",
-    "hasEx": false
-  },
-  {
-    "id": 30103,
-    "transl": "мать",
-    "ntranscr": "ди му́тта",
-    "hasEx": false
-  },
-  {
-    "id": 30104,
-    "transl": "брат",
-    "ntranscr": "дэа бру́да",
-    "hasEx": false
-  },
-  {
-    "id": 30105,
-    "transl": "сестра",
-    "ntranscr": "ди шве́ста",
-    "hasEx": false
-  },
-  {
-    "id": 30106,
-    "transl": "родители",
-    "ntranscr": "ди э́льтан",
-    "hasEx": false
-  },
-  {
-    "id": 30107,
-    "transl": "дети",
-    "ntranscr": "ди ки́нда",
-    "hasEx": false
-  },
-  {
-    "id": 30108,
-    "transl": "сын",
-    "ntranscr": "дэа зо́он",
-    "hasEx": false
-  },
-  {
-    "id": 30109,
-    "transl": "дочь",
-    "ntranscr": "ди то́хта",
-    "hasEx": false
-  },
-  {
-    "id": 30110,
-    "transl": "мужчина / муж",
-    "ntranscr": "дэа ман",
-    "hasEx": false
-  },
-  {
-    "id": 30111,
-    "transl": "женщина / жена",
-    "ntranscr": "ди фрау",
-    "hasEx": false
-  },
-  {
-    "id": 30201,
-    "transl": "дом",
-    "ntranscr": "дас хаус",
-    "hasEx": false
-  },
-  {
-    "id": 30202,
-    "transl": "квартира",
-    "ntranscr": "ди во́онунг",
-    "hasEx": false
-  },
-  {
-    "id": 30203,
-    "transl": "комната",
-    "ntranscr": "дас ци́мма",
-    "hasEx": false
-  },
-  {
-    "id": 30204,
-    "transl": "кухня",
-    "ntranscr": "ди кю́хэ",
-    "hasEx": false
-  },
-  {
-    "id": 30205,
-    "transl": "ванная / санузел",
-    "ntranscr": "дас баат",
-    "hasEx": false
-  },
-  {
-    "id": 30206,
-    "transl": "кровать",
-    "ntranscr": "дас бэт",
-    "hasEx": false
-  },
-  {
-    "id": 30207,
-    "transl": "стол",
-    "ntranscr": "дэа тиш",
-    "hasEx": false
-  },
-  {
-    "id": 30208,
-    "transl": "стул",
-    "ntranscr": "дэа штуль",
-    "hasEx": false
-  },
-  {
-    "id": 30209,
-    "transl": "телевизор",
-    "ntranscr": "дэа фэрнзээа",
-    "hasEx": false
-  },
-  {
-    "id": 30210,
-    "transl": "холодильник",
-    "ntranscr": "дэа кю́льшранк",
-    "hasEx": false
-  },
-  {
-    "id": 30211,
-    "transl": "окно",
-    "ntranscr": "дас фэ́нста",
-    "hasEx": false
-  },
-  {
-    "id": 30212,
-    "transl": "дверь",
-    "ntranscr": "ди тю́р",
-    "hasEx": false
-  },
-  {
-    "id": 30301,
-    "transl": "одежда",
-    "ntranscr": "ди кла́йдунг",
-    "hasEx": false
-  },
-  {
-    "id": 30302,
-    "transl": "брюки",
-    "ntranscr": "ди хо́зэ",
-    "hasEx": false
-  },
-  {
-    "id": 30303,
-    "transl": "футболка",
-    "ntranscr": "дас ти́шёрт",
-    "hasEx": false
-  },
-  {
-    "id": 30304,
-    "transl": "свитер",
-    "ntranscr": "дэа пу́лова",
-    "hasEx": false
-  },
-  {
-    "id": 30305,
-    "transl": "куртка",
-    "ntranscr": "ди я́кэ",
-    "hasEx": false
-  },
-  {
-    "id": 30306,
-    "transl": "пальто",
-    "ntranscr": "дэа ма́нтль",
-    "hasEx": false
-  },
-  {
-    "id": 30307,
-    "transl": "платье",
-    "ntranscr": "дас клайт",
-    "hasEx": false
-  },
-  {
-    "id": 30308,
-    "transl": "юбка",
-    "ntranscr": "дэа рок",
-    "hasEx": false
-  },
-  {
-    "id": 30309,
-    "transl": "обувь / туфли",
-    "ntranscr": "ди шу́э",
-    "hasEx": false
-  },
-  {
-    "id": 30310,
-    "transl": "носки",
-    "ntranscr": "ди зо́кн",
-    "hasEx": false
-  },
-  {
-    "id": 30311,
-    "transl": "шапка",
-    "ntranscr": "ди мю́цэ",
-    "hasEx": false
-  },
-  {
-    "id": 30312,
-    "transl": "сумка",
-    "ntranscr": "ди та́шэ",
-    "hasEx": false
-  },
-  {
-    "id": 30401,
-    "transl": "тело",
-    "ntranscr": "дэа кёрпа",
-    "hasEx": false
-  },
-  {
-    "id": 30402,
-    "transl": "голова",
-    "ntranscr": "дэа копф",
-    "hasEx": false
-  },
-  {
-    "id": 30403,
-    "transl": "глаз",
-    "ntranscr": "дас аугэ",
-    "hasEx": false
-  },
-  {
-    "id": 30404,
-    "transl": "ухо",
-    "ntranscr": "дас оа",
-    "hasEx": false
-  },
-  {
-    "id": 30405,
-    "transl": "рука",
-    "ntranscr": "ди хант",
-    "hasEx": false
-  },
-  {
-    "id": 30406,
-    "transl": "нога / ступня",
-    "ntranscr": "дэа фус",
-    "hasEx": false
-  },
-  {
-    "id": 30407,
-    "transl": "живот",
-    "ntranscr": "дэа баух",
-    "hasEx": false
-  },
-  {
-    "id": 30408,
-    "transl": "сердце",
-    "ntranscr": "дас хэрц",
-    "hasEx": false
-  },
-  {
-    "id": 30409,
-    "transl": "врач",
-    "ntranscr": "дэа артст",
-    "hasEx": false
-  },
-  {
-    "id": 30410,
-    "transl": "женщина-врач",
-    "ntranscr": "ди эрцтин",
-    "hasEx": false
-  },
-  {
-    "id": 30411,
-    "transl": "лекарство / медицина",
-    "ntranscr": "ди медици́иин",
-    "hasEx": false
-  },
-  {
-    "id": 30412,
-    "transl": "боль",
-    "ntranscr": "дэа шмерц",
-    "hasEx": false
-  },
-  {
-    "id": 30413,
-    "transl": "температура (жар)",
-    "ntranscr": "дас фи́ба",
-    "hasEx": false
-  },
-  {
-    "id": 30414,
-    "transl": "простуда",
-    "ntranscr": "ди эркэ́льтунг",
-    "hasEx": false
-  },
-  {
-    "id": 30415,
-    "transl": "болезнь",
-    "ntranscr": "ди кра́нкхайт",
-    "hasEx": false
-  },
-  {
-    "id": 30416,
-    "transl": "больной",
-    "ntranscr": "кранк",
-    "hasEx": false
-  },
-  {
-    "id": 30417,
-    "transl": "здоровый",
-    "ntranscr": "гезу́нт",
-    "hasEx": false
-  },
-  {
-    "id": 30418,
-    "transl": "кашлять",
-    "ntranscr": "ху́стн",
-    "hasEx": false
-  },
-  {
-    "id": 30419,
-    "transl": "отдыхать",
-    "ntranscr": "зих аусруэн",
-    "hasEx": false
-  },
-  {
-    "id": 30420,
-    "transl": "чувствовать себя",
-    "ntranscr": "зих фю́лэн",
-    "hasEx": false
-  },
-  {
-    "id": 30501,
-    "transl": "красный",
-    "ntranscr": "роот",
-    "hasEx": false
-  },
-  {
-    "id": 30502,
-    "transl": "синий",
-    "ntranscr": "блау",
-    "hasEx": false
-  },
-  {
-    "id": 30503,
-    "transl": "зелёный",
-    "ntranscr": "грюн",
-    "hasEx": false
-  },
-  {
-    "id": 30504,
-    "transl": "жёлтый",
-    "ntranscr": "гельп",
-    "hasEx": false
-  },
-  {
-    "id": 30505,
-    "transl": "чёрный",
-    "ntranscr": "шварц",
-    "hasEx": false
-  },
-  {
-    "id": 30506,
-    "transl": "белый",
-    "ntranscr": "вайс",
-    "hasEx": false
-  },
-  {
-    "id": 30507,
-    "transl": "коричневый",
-    "ntranscr": "браун",
-    "hasEx": false
-  },
-  {
-    "id": 30508,
-    "transl": "серый",
-    "ntranscr": "грау",
-    "hasEx": false
-  },
-  {
-    "id": 30509,
-    "transl": "розовый",
-    "ntranscr": "ро́за",
-    "hasEx": false
-  },
-  {
-    "id": 30510,
-    "transl": "фиолетовый",
-    "ntranscr": "ли́ла",
-    "hasEx": false
-  },
-  {
-    "id": 40101,
-    "transl": "хлеб",
-    "ntranscr": "дас броот",
-    "hasEx": false
-  },
-  {
-    "id": 40102,
-    "transl": "рис",
-    "ntranscr": "дэа райс",
-    "hasEx": false
-  },
-  {
-    "id": 40103,
-    "transl": "макароны",
-    "ntranscr": "ди ну́дльн",
-    "hasEx": false
-  },
-  {
-    "id": 40104,
-    "transl": "картофель",
-    "ntranscr": "ди картóфль",
-    "hasEx": false
-  },
-  {
-    "id": 40105,
-    "transl": "мясо",
-    "ntranscr": "дас флайш",
-    "hasEx": false
-  },
-  {
-    "id": 40106,
-    "transl": "рыба",
-    "ntranscr": "дэа фиш",
-    "hasEx": false
-  },
-  {
-    "id": 40107,
-    "transl": "яйцо",
-    "ntranscr": "дас ай",
-    "hasEx": false
-  },
-  {
-    "id": 40108,
-    "transl": "сыр",
-    "ntranscr": "дэа кэ́зэ",
-    "hasEx": false
-  },
-  {
-    "id": 40109,
-    "transl": "колбаса",
-    "ntranscr": "ди вурст",
-    "hasEx": false
-  },
-  {
-    "id": 40110,
-    "transl": "фрукты",
-    "ntranscr": "дас опст",
-    "hasEx": false
-  },
-  {
-    "id": 40111,
-    "transl": "овощи",
-    "ntranscr": "дас гемю́зэ",
-    "hasEx": false
-  },
-  {
-    "id": 40112,
-    "transl": "яблоко",
-    "ntranscr": "дэа а́пфль",
-    "hasEx": false
-  },
-  {
-    "id": 40113,
-    "transl": "банан",
-    "ntranscr": "ди ба́наанэ",
-    "hasEx": false
-  },
-  {
-    "id": 40201,
-    "transl": "суп",
-    "ntranscr": "ди зу́пэ",
-    "hasEx": false
-  },
-  {
-    "id": 40202,
-    "transl": "салат",
-    "ntranscr": "дэа зала́ат",
-    "hasEx": false
-  },
-  {
-    "id": 40203,
-    "transl": "завтрак",
-    "ntranscr": "дас фрю́штюк",
-    "hasEx": false
-  },
-  {
-    "id": 40204,
-    "transl": "обед",
-    "ntranscr": "дас ми́ттагэсн",
-    "hasEx": false
-  },
-  {
-    "id": 40205,
-    "transl": "ужин",
-    "ntranscr": "дас а́бэнтэсн",
-    "hasEx": false
-  },
-  {
-    "id": 40206,
-    "transl": "еда",
-    "ntranscr": "дас э́сн",
-    "hasEx": false
-  },
-  {
-    "id": 40207,
-    "transl": "блюдо",
-    "ntranscr": "дас гери́хт",
-    "hasEx": false
-  },
-  {
-    "id": 40301,
-    "transl": "вода",
-    "ntranscr": "дас ва́ссер",
-    "hasEx": false
-  },
-  {
-    "id": 40302,
-    "transl": "кофе",
-    "ntranscr": "дэа кафе́",
-    "hasEx": false
-  },
-  {
-    "id": 40303,
-    "transl": "чай",
-    "ntranscr": "дэа тэ",
-    "hasEx": false
-  },
-  {
-    "id": 40304,
-    "transl": "сок",
-    "ntranscr": "дэа зафт",
-    "hasEx": false
-  },
-  {
-    "id": 40305,
-    "transl": "молоко",
-    "ntranscr": "ди мильх",
-    "hasEx": false
-  },
-  {
-    "id": 40306,
-    "transl": "пиво",
-    "ntranscr": "дас би́а",
-    "hasEx": false
-  },
-  {
-    "id": 40401,
-    "transl": "магазин",
-    "ntranscr": "дас геша́фт",
-    "hasEx": false
-  },
-  {
-    "id": 40402,
-    "transl": "супермаркет",
-    "ntranscr": "дэа зу́пермаркт",
-    "hasEx": false
-  },
-  {
-    "id": 40403,
-    "transl": "покупать",
-    "ntranscr": "ка́уфэн",
-    "hasEx": false
-  },
-  {
-    "id": 40404,
-    "transl": "платить",
-    "ntranscr": "бецáлен",
-    "hasEx": false
-  },
-  {
-    "id": 40405,
-    "transl": "цена",
-    "ntranscr": "дэа прайс",
-    "hasEx": false
-  },
-  {
-    "id": 40406,
-    "transl": "деньги",
-    "ntranscr": "дас гельт",
-    "hasEx": false
-  },
-  {
-    "id": 40407,
-    "transl": "касса",
-    "ntranscr": "ди ка́сэ",
-    "hasEx": false
-  },
-  {
-    "id": 40408,
-    "transl": "дорогой",
-    "ntranscr": "то́йa",
-    "hasEx": false
-  },
-  {
-    "id": 40409,
-    "transl": "дешёвый",
-    "ntranscr": "би́лих",
-    "hasEx": false
-  },
-  {
-    "id": 40410,
-    "transl": "открыто",
-    "ntranscr": "о́фн",
-    "hasEx": false
-  },
-  {
-    "id": 40411,
-    "transl": "закрыто",
-    "ntranscr": "гешло́сн",
-    "hasEx": false
-  },
-  {
-    "id": 40501,
-    "transl": "свежий",
-    "ntranscr": "фриш",
-    "hasEx": false
-  },
-  {
-    "id": 40502,
-    "transl": "острый",
-    "ntranscr": "шарф",
-    "hasEx": false
-  },
-  {
-    "id": 40503,
-    "transl": "вкусный",
-    "ntranscr": "лэ́кa",
-    "hasEx": false
-  },
-  {
-    "id": 40504,
-    "transl": "сладкий",
-    "ntranscr": "зю́с",
-    "hasEx": false
-  },
-  {
-    "id": 40505,
-    "transl": "солёный",
-    "ntranscr": "за́льцих",
-    "hasEx": false
-  },
-  {
-    "id": 40506,
-    "transl": "кислый",
-    "ntranscr": "за́уa",
-    "hasEx": false
-  },
-  {
-    "id": 40507,
-    "transl": "горький",
-    "ntranscr": "би́тта",
-    "hasEx": false
-  },
-  {
-    "id": 40508,
-    "transl": "горячий",
-    "ntranscr": "хайс",
-    "hasEx": false
-  },
-  {
-    "id": 40509,
-    "transl": "холодный",
-    "ntranscr": "кальт",
-    "hasEx": false
-  },
-  {
-    "id": 50101,
-    "transl": "город",
-    "ntranscr": "ди штат",
-    "hasEx": false
-  },
-  {
-    "id": 50102,
-    "transl": "улица",
-    "ntranscr": "ди штра́сэ",
-    "hasEx": false
-  },
-  {
-    "id": 50103,
-    "transl": "парк",
-    "ntranscr": "дэа парк",
-    "hasEx": false
-  },
-  {
-    "id": 50104,
-    "transl": "вокзал",
-    "ntranscr": "дэа ба́нхоф",
-    "hasEx": false
-  },
-  {
-    "id": 50105,
-    "transl": "аэропорт",
-    "ntranscr": "дэа флу́кхафн",
-    "hasEx": false
-  },
-  {
-    "id": 50106,
-    "transl": "ресторан",
-    "ntranscr": "дас рэсторан",
-    "hasEx": false
-  },
-  {
-    "id": 50107,
-    "transl": "офис",
-    "ntranscr": "дас бюро́",
-    "hasEx": false
-  },
-  {
-    "id": 50108,
-    "transl": "школа",
-    "ntranscr": "ди шу́ле",
-    "hasEx": false
-  },
-  {
-    "id": 50201,
-    "transl": "машина",
-    "ntranscr": "дас а́уто",
-    "hasEx": false
-  },
-  {
-    "id": 50202,
-    "transl": "автобус",
-    "ntranscr": "дэа бус",
-    "hasEx": false
-  },
-  {
-    "id": 50203,
-    "transl": "поезд",
-    "ntranscr": "ди баан",
-    "hasEx": false
-  },
-  {
-    "id": 50204,
-    "transl": "метро",
-    "ntranscr": "ди у-баан",
-    "hasEx": false
-  },
-  {
-    "id": 50205,
-    "transl": "такси",
-    "ntranscr": "дас такси",
-    "hasEx": false
-  },
-  {
-    "id": 50206,
-    "transl": "велосипед",
-    "ntranscr": "дас фа́араат",
-    "hasEx": false
-  },
-  {
-    "id": 50207,
-    "transl": "пешком",
-    "ntranscr": "цу фус",
-    "hasEx": false
-  },
-  {
-    "id": 50208,
-    "transl": "ехать",
-    "ntranscr": "фа́арэн",
-    "hasEx": false
-  },
-  {
-    "id": 50209,
-    "transl": "садиться (в транспорт) / заходить",
-    "ntranscr": "айнштайгн",
-    "hasEx": false
-  },
-  {
-    "id": 50210,
-    "transl": "прибывать",
-    "ntranscr": "а́нкомэн",
-    "hasEx": false
-  },
-  {
-    "id": 50211,
-    "transl": "отправляться",
-    "ntranscr": "а́пфаарэн",
-    "hasEx": false
-  },
-  {
-    "id": 50301,
-    "transl": "путешествовать",
-    "ntranscr": "ра́йзн",
-    "hasEx": false
-  },
-  {
-    "id": 50302,
-    "transl": "отпуск",
-    "ntranscr": "дэа у́рлауп",
-    "hasEx": false
-  },
-  {
-    "id": 50303,
-    "transl": "путешествие",
-    "ntranscr": "ди ра́йзэ",
-    "hasEx": false
-  },
-  {
-    "id": 50304,
-    "transl": "турист",
-    "ntranscr": "дэа тури́ст",
-    "hasEx": false
-  },
-  {
-    "id": 50305,
-    "transl": "достопримечательность",
-    "ntranscr": "ди зе́энсвю́рдикхайт",
-    "hasEx": false
-  },
-  {
-    "id": 50306,
-    "transl": "отель",
-    "ntranscr": "дас отэ́ль",
-    "hasEx": false
-  },
-  {
-    "id": 50307,
-    "transl": "жильё",
-    "ntranscr": "ди у́нтэркунфт",
-    "hasEx": false
-  },
-  {
-    "id": 50308,
-    "transl": "билет",
-    "ntranscr": "ди фа́аркарте",
-    "hasEx": false
-  },
-  {
-    "id": 50309,
-    "transl": "паспорт",
-    "ntranscr": "дэа пас",
-    "hasEx": false
-  },
-  {
-    "id": 50310,
-    "transl": "собирать вещи",
-    "ntranscr": "па́кн",
-    "hasEx": false
-  },
-  {
-    "id": 50401,
-    "transl": "погода",
-    "ntranscr": "дас ве́тта",
-    "hasEx": false
-  },
-  {
-    "id": 50402,
-    "transl": "солнце",
-    "ntranscr": "ди зо́ннэ",
-    "hasEx": false
-  },
-  {
-    "id": 50403,
-    "transl": "дождь",
-    "ntranscr": "дэа ре́эгн",
-    "hasEx": false
-  },
-  {
-    "id": 50404,
-    "transl": "снег",
-    "ntranscr": "дэа шнее",
-    "hasEx": false
-  },
-  {
-    "id": 50405,
-    "transl": "ветер",
-    "ntranscr": "дэа винт",
-    "hasEx": false
-  },
-  {
-    "id": 50406,
-    "transl": "облако",
-    "ntranscr": "ди во́лькэ",
-    "hasEx": false
-  },
-  {
-    "id": 50407,
-    "transl": "небо",
-    "ntranscr": "дэа хи́мль",
-    "hasEx": false
-  },
-  {
-    "id": 50408,
-    "transl": "река",
-    "ntranscr": "дэа флюс",
-    "hasEx": false
-  },
-  {
-    "id": 50409,
-    "transl": "озеро",
-    "ntranscr": "дэа зее",
-    "hasEx": false
-  },
-  {
-    "id": 50410,
-    "transl": "гора",
-    "ntranscr": "дэа бэрк",
-    "hasEx": false
-  },
-  {
-    "id": 50411,
-    "transl": "лес",
-    "ntranscr": "дэа вальт",
-    "hasEx": false
-  },
-  {
-    "id": 50412,
-    "transl": "тёплый",
-    "ntranscr": "варм",
-    "hasEx": false
-  },
-  {
-    "id": 50413,
-    "transl": "холодный",
-    "ntranscr": "кальт",
-    "hasEx": false
-  },
-  {
-    "id": 50501,
-    "transl": "прямо",
-    "ntranscr": "гэра́дэаус",
-    "hasEx": false
-  },
-  {
-    "id": 50502,
-    "transl": "налево",
-    "ntranscr": "лингкс",
-    "hasEx": false
-  },
-  {
-    "id": 50503,
-    "transl": "направо",
-    "ntranscr": "рэхтс",
-    "hasEx": false
-  },
-  {
-    "id": 50504,
-    "transl": "на углу",
-    "ntranscr": "ан дэа э́кэ",
-    "hasEx": false
-  },
-  {
-    "id": 50505,
-    "transl": "рядом с",
-    "ntranscr": "нэ́бн",
-    "hasEx": false
-  },
-  {
-    "id": 50506,
-    "transl": "напротив",
-    "ntranscr": "ге́эгн ю́бa",
-    "hasEx": false
-  },
-  {
-    "id": 50507,
-    "transl": "перед",
-    "ntranscr": "фоа",
-    "hasEx": false
-  },
-  {
-    "id": 50508,
-    "transl": "за",
-    "ntranscr": "хи́нта",
-    "hasEx": false
-  },
-  {
-    "id": 50509,
-    "transl": "между",
-    "ntranscr": "цви́шн",
-    "hasEx": false
-  },
-  {
-    "id": 50510,
-    "transl": "за углом",
-    "ntranscr": "ум ди э́кэ",
-    "hasEx": false
-  },
-  {
-    "id": 50511,
-    "transl": "через дорогу",
-    "ntranscr": "ю́ба ди штра́сэ",
-    "hasEx": false
-  },
-  {
-    "id": 50512,
-    "transl": "у светофора",
-    "ntranscr": "ан дэа а́мпэль",
-    "hasEx": false
-  },
-  {
-    "id": 50513,
-    "transl": "следовать",
-    "ntranscr": "фо́льгн",
-    "hasEx": false
-  },
-  {
-    "id": 50514,
-    "transl": "искать",
-    "ntranscr": "зуухэн",
-    "hasEx": false
-  },
-  {
-    "id": 50515,
-    "transl": "показывать",
-    "ntranscr": "ца́йгн",
-    "hasEx": false
-  },
-  {
-    "id": 50516,
-    "transl": "поворачивать",
-    "ntranscr": "а́пби́гн",
-    "hasEx": false
-  },
-  {
-    "id": 50517,
-    "transl": "дальше",
-    "ntranscr": "ва́йта",
-    "hasEx": false
-  },
-  {
-    "id": 50518,
-    "transl": "до (чего-то)",
-    "ntranscr": "бис цуа",
-    "hasEx": false
-  },
-  {
-    "id": 60101,
-    "transl": "врач",
-    "ntranscr": "артст / эрцтин",
-    "hasEx": false
-  },
-  {
-    "id": 60102,
-    "transl": "учитель / учительница",
-    "ntranscr": "ле́эра / ле́эрэрин",
-    "hasEx": false
-  },
-  {
-    "id": 60103,
-    "transl": "ученик / ученица",
-    "ntranscr": "шю́ла / шю́лерин",
-    "hasEx": false
-  },
-  {
-    "id": 60104,
-    "transl": "студент / студентка",
-    "ntranscr": "штудэ́нт / штудэ́нтин",
-    "hasEx": false
-  },
-  {
-    "id": 60105,
-    "transl": "инженер",
-    "ntranscr": "энжине́а / энжине́рин",
-    "hasEx": false
-  },
-  {
-    "id": 60106,
-    "transl": "продавец / продавщица",
-    "ntranscr": "фэрко́йфа / фэрко́йферин",
-    "hasEx": false
-  },
-  {
-    "id": 60107,
-    "transl": "повар",
-    "ntranscr": "кох / кёхин",
-    "hasEx": false
-  },
-  {
-    "id": 60108,
-    "transl": "водитель",
-    "ntranscr": "фа́ара / фа́арэрин",
-    "hasEx": false
-  },
-  {
-    "id": 60109,
-    "transl": "полицейский",
-    "ntranscr": "полици́ст / полици́стин",
-    "hasEx": false
-  },
-  {
-    "id": 60201,
-    "transl": "начальник / начальница",
-    "ntranscr": "шеф / ше́фин",
-    "hasEx": false
-  },
-  {
-    "id": 60202,
-    "transl": "коллега",
-    "ntranscr": "колле́гэ / колле́гин",
-    "hasEx": false
-  },
-  {
-    "id": 60203,
-    "transl": "письменный стол",
-    "ntranscr": "шра́йптиш",
-    "hasEx": false
-  },
-  {
-    "id": 60204,
-    "transl": "компьютер",
-    "ntranscr": "компью́та",
-    "hasEx": false
-  },
-  {
-    "id": 60205,
-    "transl": "ноутбук",
-    "ntranscr": "лэ́птоп",
-    "hasEx": false
-  },
-  {
-    "id": 60206,
-    "transl": "телефон",
-    "ntranscr": "телефо́н",
-    "hasEx": false
-  },
-  {
-    "id": 60207,
-    "transl": "мобильный телефон",
-    "ntranscr": "хэ́нди",
-    "hasEx": false
-  },
-  {
-    "id": 60208,
-    "transl": "электронное письмо",
-    "ntranscr": "и́мэйл",
-    "hasEx": false
-  },
-  {
-    "id": 60209,
-    "transl": "встреча / приём",
-    "ntranscr": "тэрми́н",
-    "hasEx": false
-  },
-  {
-    "id": 60210,
-    "transl": "договор",
-    "ntranscr": "фэртра́ак",
-    "hasEx": false
-  },
-  {
-    "id": 60211,
-    "transl": "писать",
-    "ntranscr": "шра́йбн",
-    "hasEx": false
-  },
-  {
-    "id": 60212,
-    "transl": "читать",
-    "ntranscr": "ле́эзн",
-    "hasEx": false
-  },
-  {
-    "id": 60213,
-    "transl": "звонить по телефону",
-    "ntranscr": "телефони́рен",
-    "hasEx": false
-  },
-  {
-    "id": 60301,
-    "transl": "урок / занятие",
-    "ntranscr": "дэа у́нтэррихт",
-    "hasEx": false
-  },
-  {
-    "id": 60302,
-    "transl": "класс",
-    "ntranscr": "ди кла́сэ",
-    "hasEx": false
-  },
-  {
-    "id": 60303,
-    "transl": "предмет",
-    "ntranscr": "дас фах",
-    "hasEx": false
-  },
-  {
-    "id": 60304,
-    "transl": "экзамен / проверка",
-    "ntranscr": "ди прю́фунг",
-    "hasEx": false
-  },
-  {
-    "id": 60305,
-    "transl": "книга",
-    "ntranscr": "дас буух",
-    "hasEx": false
-  },
-  {
-    "id": 60306,
-    "transl": "ручка / карандаш",
-    "ntranscr": "дэа штифт",
-    "hasEx": false
-  },
-  {
-    "id": 60307,
-    "transl": "тетрадь",
-    "ntranscr": "дас хэфт",
-    "hasEx": false
-  },
-  {
-    "id": 60308,
-    "transl": "задание",
-    "ntranscr": "ди а́уфгаабэ",
-    "hasEx": false
-  },
-  {
-    "id": 60401,
-    "transl": "язык",
-    "ntranscr": "ди шпра́хэ",
-    "hasEx": false
-  },
-  {
-    "id": 60402,
-    "transl": "немецкий (язык)",
-    "ntranscr": "дойч",
-    "hasEx": false
-  },
-  {
-    "id": 60403,
-    "transl": "английский (язык)",
-    "ntranscr": "э́нглиш",
-    "hasEx": false
-  },
-  {
-    "id": 60404,
-    "transl": "французский (язык)",
-    "ntranscr": "францё́зиш",
-    "hasEx": false
-  },
-  {
-    "id": 60405,
-    "transl": "испанский (язык)",
-    "ntranscr": "шпа́ниш",
-    "hasEx": false
-  },
-  {
-    "id": 60406,
-    "transl": "украинский (язык)",
-    "ntranscr": "украи́ниш",
-    "hasEx": false
-  },
-  {
-    "id": 60407,
-    "transl": "Германия",
-    "ntranscr": "до́йчланд",
-    "hasEx": false
-  },
-  {
-    "id": 60408,
-    "transl": "Франция",
-    "ntranscr": "франкра́йх",
-    "hasEx": false
-  },
-  {
-    "id": 60409,
-    "transl": "Испания",
-    "ntranscr": "шпа́ниен",
-    "hasEx": false
-  },
-  {
-    "id": 60410,
-    "transl": "Украина",
-    "ntranscr": "ди украи́нэ",
-    "hasEx": false
-  },
-  {
-    "id": 70101,
-    "transl": "свободное время",
-    "ntranscr": "ди фра́йцайт",
-    "hasEx": false
-  },
-  {
-    "id": 70102,
-    "transl": "выходные",
-    "ntranscr": "дас во́хенэнде",
-    "hasEx": false
-  },
-  {
-    "id": 70103,
-    "transl": "гулять",
-    "ntranscr": "шпаци́рен",
-    "hasEx": false
-  },
-  {
-    "id": 70104,
-    "transl": "расслабляться",
-    "ntranscr": "энтшпа́нэн",
-    "hasEx": false
-  },
-  {
-    "id": 70105,
-    "transl": "смотреть телевизор",
-    "ntranscr": "фэ́рнзээн",
-    "hasEx": false
-  },
-  {
-    "id": 70106,
-    "transl": "слушать музыку",
-    "ntranscr": "музи́к хё́рэн",
-    "hasEx": false
-  },
-  {
-    "id": 70107,
-    "transl": "ходить в поход / гулять",
-    "ntranscr": "ва́ндaрн",
-    "hasEx": false
-  },
-  {
-    "id": 70201,
-    "transl": "хобби",
-    "ntranscr": "дас хо́бби",
-    "hasEx": false
-  },
-  {
-    "id": 70202,
-    "transl": "собирать (коллекционировать)",
-    "ntranscr": "за́мльн",
-    "hasEx": false
-  },
-  {
-    "id": 70203,
-    "transl": "рисовать",
-    "ntranscr": "ма́алэн",
-    "hasEx": false
-  },
-  {
-    "id": 70204,
-    "transl": "заниматься музыкой",
-    "ntranscr": "музи́к ма́хн",
-    "hasEx": false
-  },
-  {
-    "id": 70205,
-    "transl": "танцевать",
-    "ntranscr": "та́нцн",
-    "hasEx": false
-  },
-  {
-    "id": 70206,
-    "transl": "фотографировать",
-    "ntranscr": "фотографи́рен",
-    "hasEx": false
-  },
-  {
-    "id": 70207,
-    "transl": "готовить",
-    "ntranscr": "ко́хн",
-    "hasEx": false
-  },
-  {
-    "id": 70208,
-    "transl": "печь",
-    "ntranscr": "ба́кн",
-    "hasEx": false
-  },
-  {
-    "id": 70209,
-    "transl": "шить",
-    "ntranscr": "нэ́эн",
-    "hasEx": false
-  },
-  {
-    "id": 70210,
-    "transl": "заниматься садом",
-    "ntranscr": "гэ́ртнарн",
-    "hasEx": false
-  },
-  {
-    "id": 70211,
-    "transl": "играть в компьютерные игры",
-    "ntranscr": "компью́та шпи́лен",
-    "hasEx": false
-  },
-  {
-    "id": 70301,
-    "transl": "спорт",
-    "ntranscr": "дэа шпорт",
-    "hasEx": false
-  },
-  {
-    "id": 70302,
-    "transl": "плавать",
-    "ntranscr": "шви́мэн",
-    "hasEx": false
-  },
-  {
-    "id": 70303,
-    "transl": "бегать",
-    "ntranscr": "ла́уфэн",
-    "hasEx": false
-  },
-  {
-    "id": 70304,
-    "transl": "ездить на велосипеде",
-    "ntranscr": "раат фа́арэн",
-    "hasEx": false
-  },
-  {
-    "id": 70305,
-    "transl": "играть в футбол",
-    "ntranscr": "фу́сбаль шпи́лен",
-    "hasEx": false
-  },
-  {
-    "id": 70306,
-    "transl": "играть в теннис",
-    "ntranscr": "тэ́нис шпи́лен",
-    "hasEx": false
-  },
-  {
-    "id": 70307,
-    "transl": "тренироваться",
-    "ntranscr": "трени́рен",
-    "hasEx": false
-  },
-  {
-    "id": 70308,
-    "transl": "выигрывать",
-    "ntranscr": "геви́нэн",
-    "hasEx": false
-  },
-  {
-    "id": 70309,
-    "transl": "проигрывать",
-    "ntranscr": "фэрли́рен",
-    "hasEx": false
-  },
-  {
-    "id": 70401,
-    "transl": "счастливый",
-    "ntranscr": "глю́клих",
-    "hasEx": false
-  },
-  {
-    "id": 70402,
-    "transl": "грустный",
-    "ntranscr": "тра́урих",
-    "hasEx": false
-  },
-  {
-    "id": 70403,
-    "transl": "уставший",
-    "ntranscr": "мю́дэ",
-    "hasEx": false
-  },
-  {
-    "id": 70404,
-    "transl": "бодрствующий",
-    "ntranscr": "вах",
-    "hasEx": false
-  },
-  {
-    "id": 70405,
-    "transl": "испуганный / тревожный",
-    "ntranscr": "э́нгстлих",
-    "hasEx": false
-  },
-  {
-    "id": 70406,
-    "transl": "взволнованный",
-    "ntranscr": "а́уфгерээкт",
-    "hasEx": false
-  },
-  {
-    "id": 70407,
-    "transl": "спокойный",
-    "ntranscr": "ру́их",
-    "hasEx": false
-  },
-  {
-    "id": 70408,
-    "transl": "нервный",
-    "ntranscr": "нэрвёз",
-    "hasEx": false
-  },
-  {
-    "id": 70409,
-    "transl": "довольный",
-    "ntranscr": "цуфри́дн",
-    "hasEx": false
-  },
-  {
-    "id": 70410,
-    "transl": "голодный",
-    "ntranscr": "ху́нгрих",
-    "hasEx": false
-  },
-  {
-    "id": 70411,
-    "transl": "хочется пить",
-    "ntranscr": "ду́рстих",
-    "hasEx": false
-  },
-  {
-    "id": 70412,
-    "transl": "заинтересованный",
-    "ntranscr": "интэреси́рт",
-    "hasEx": false
-  },
-  {
-    "id": 70501,
-    "transl": "собака",
-    "ntranscr": "дэа хунт",
-    "hasEx": false
-  },
-  {
-    "id": 70502,
-    "transl": "кошка",
-    "ntranscr": "ди ка́цэ",
-    "hasEx": false
-  },
-  {
-    "id": 70503,
-    "transl": "птица",
-    "ntranscr": "дэа фо́гль",
-    "hasEx": false
-  },
-  {
-    "id": 70504,
-    "transl": "рыба",
-    "ntranscr": "дэа фиш",
-    "hasEx": false
-  },
-  {
-    "id": 70505,
-    "transl": "лошадь",
-    "ntranscr": "дас пфээрт",
-    "hasEx": false
-  },
-  {
-    "id": 70506,
-    "transl": "корова",
-    "ntranscr": "ди куу",
-    "hasEx": false
-  },
-  {
-    "id": 70507,
-    "transl": "свинья",
-    "ntranscr": "дас швайн",
-    "hasEx": false
-  },
-  {
-    "id": 70508,
-    "transl": "овца",
-    "ntranscr": "дас шааф",
-    "hasEx": false
-  },
-  {
-    "id": 70509,
-    "transl": "кролик",
-    "ntranscr": "дас кани́нхэн",
-    "hasEx": false
-  },
-  {
-    "id": 70510,
-    "transl": "мышь",
-    "ntranscr": "ди маус",
-    "hasEx": false
-  },
-  {
-    "id": 70511,
-    "transl": "медведь",
-    "ntranscr": "дэа бээa",
-    "hasEx": false
-  },
-  {
-    "id": 70512,
-    "transl": "лев",
-    "ntranscr": "дэа лё́вэ",
-    "hasEx": false
-  },
-  {
-    "id": 70513,
-    "transl": "обезьяна",
-    "ntranscr": "дэа а́фэ",
-    "hasEx": false
-  },
-  {
-    "id": 70514,
-    "transl": "утка",
-    "ntranscr": "ди э́нтэ",
-    "hasEx": false
-  }
+  {"id": 10101, "transl": "я", "ntranscr": "ихь" },
+  {"id": 10102, "transl": "ты", "ntranscr": "ду" },
+  {"id": 10103, "transl": "он", "ntranscr": "эа" },
+  {"id": 10104, "transl": "она", "ntranscr": "зи" },
+  {"id": 10105, "transl": "оно", "ntranscr": "эс" },
+  {"id": 10106, "transl": "мы", "ntranscr": "виа" },
+  {"id": 10107, "transl": "вы (мн.ч.)", "ntranscr": "иа" },
+  {"id": 10108, "transl": "они", "ntranscr": "зи" },
+  {"id": 10109, "transl": "Вы (вежливая форма)", "ntranscr": "зи" },
+  {"id": 10110, "transl": "мой/моя(мои)", "ntranscr": "майн/майнэ" },
+  {"id": 10111, "transl": "твой/твоя(твои)", "ntranscr": "дайн/дайнэ" },
+  {"id": 10112, "transl": "мужчина", "ntranscr": "дэа ман" },
+  {"id": 10113, "transl": "женщина", "ntranscr": "ди фрау" },
+  {"id": 10114, "transl": "ребёнок", "ntranscr": "дас кинт" },
+  {"id": 10115, "transl": "люди", "ntranscr": "ди лойтэ" },
+  {"id": 10116, "transl": "друг", "ntranscr": "дэа фройнт" },
+  {"id": 10117, "transl": "подруга", "ntranscr": "ди фройндин" },
+  {"id": 10118, "transl": "имя", "ntranscr": "дэа намэ" },
+  {"id": 10201, "transl": "привет", "ntranscr": "хало" },
+  {"id": 10202, "transl": "доброе утро", "ntranscr": "гуутн моргэн" },
+  {"id": 10203, "transl": "добрый день", "ntranscr": "гуутн таак" },
+  {"id": 10204, "transl": "добрый вечер", "ntranscr": "гуутн аабэнт" },
+  {"id": 10205, "transl": "пока", "ntranscr": "чюс" },
+  {"id": 10206, "transl": "до свидания", "ntranscr": "ауф видэрзеэн" },
+  {"id": 10207, "transl": "пожалуйста", "ntranscr": "биттэ" },
+  {"id": 10208, "transl": "спасибо", "ntranscr": "данкэ" },
+  {"id": 10209, "transl": "большое спасибо", "ntranscr": "данкэ шён" },
+  {"id": 10210, "transl": "извините", "ntranscr": "энтшульдигунг" },
+  {"id": 10301, "transl": "называться / (как) зваться", "ntranscr": "хайзн" },
+  {"id": 10302, "transl": "жить", "ntranscr": "леэбн" },
+  {"id": 10303, "transl": "приходить / прибывать", "ntranscr": "комэн" },
+  {"id": 10304, "transl": "из (откуда-то)", "ntranscr": "аус" },
+  {"id": 10305, "transl": "жить (проживать)", "ntranscr": "воонэн" },
+  {"id": 10306, "transl": "здесь", "ntranscr": "хиа" },
+  {"id": 10307, "transl": "там", "ntranscr": "дорт" },
+  {"id": 10308, "transl": "говорить (на языке)", "ntranscr": "шпрэхэн" },
+  {"id": 10309, "transl": "немецкий (язык)", "ntranscr": "дойч" },
+  {"id": 10310, "transl": "английский (язык)", "ntranscr": "энлиш" },
+  {"id": 10311, "transl": "страна", "ntranscr": "лант" },
+  {"id": 10312, "transl": "город", "ntranscr": "штат" },
+  {"id": 10313, "transl": "профессия", "ntranscr": "бэруф" },
+  {"id": 10314, "transl": "студент", "ntranscr": "дэа штудэнт" },
+  {"id": 10401, "transl": "вопрос", "ntranscr": "ди фраагэ" },
+  {"id": 10402, "transl": "спрашивать", "ntranscr": "фраагн" },
+  {"id": 10403, "transl": "кто", "ntranscr": "вэа" },
+  {"id": 10404, "transl": "что", "ntranscr": "вас" },
+  {"id": 10405, "transl": "когда", "ntranscr": "ван" },
+  {"id": 10406, "transl": "где", "ntranscr": "во" },
+  {"id": 10407, "transl": "откуда", "ntranscr": "вохэа" },
+  {"id": 10408, "transl": "куда", "ntranscr": "вохин" },
+  {"id": 10409, "transl": "как", "ntranscr": "ви" },
+  {"id": 10410, "transl": "сколько (неисчисляемое)", "ntranscr": "ви филь" },
+  {"id": 10411, "transl": "сколько (исчисляемое)", "ntranscr": "ви филэ" },
+  {"id": 10412, "transl": "почему", "ntranscr": "варум" },
+  {"id": 10413, "transl": "или", "ntranscr": "оода" },
+  {"id": 10414, "transl": "пожалуйста (в вопросе)", "ntranscr": "биттэ" },
+  {"id": 10501, "transl": "отвечать", "ntranscr": "антвортэн" },
+  {"id": 10502, "transl": "ответ", "ntranscr": "ди антворт" },
+  {"id": 10503, "transl": "да", "ntranscr": "яа" },
+  {"id": 10504, "transl": "нет", "ntranscr": "найн" },
+  {"id": 10505, "transl": "возможно", "ntranscr": "филайхт" },
+  {"id": 10506, "transl": "конечно", "ntranscr": "натюрлих" },
+  {"id": 10507, "transl": "с удовольствием / охотно", "ntranscr": "гэрн" },
+  {"id": 10508, "transl": "к сожалению", "ntranscr": "лайда" },
+  {"id": 10509, "transl": "окей", "ntranscr": "окэ" },
+  {"id": 10510, "transl": "супер", "ntranscr": "зупа" },
+  {"id": 10511, "transl": "классно / здорово", "ntranscr": "толь" },
+  {"id": 10512, "transl": "верно / правильно", "ntranscr": "штимт" },
+  {"id": 10513, "transl": "точно / именно", "ntranscr": "гэнау" },
+  {"id": 20101, "transl": "быть", "ntranscr": "зайн" },
+  {"id": 20102, "transl": "иметь", "ntranscr": "хаабн" },
+  {"id": 20103, "transl": "становиться", "ntranscr": "вэардн" },
+  {"id": 20104, "transl": "делать", "ntranscr": "махн" },
+  {"id": 20105, "transl": "идти", "ntranscr": "гээн" },
+  {"id": 20106, "transl": "приходить", "ntranscr": "комэн" },
+  {"id": 20107, "transl": "видеть", "ntranscr": "зээн" },
+  {"id": 20108, "transl": "находить", "ntranscr": "финдэн" },
+  {"id": 20109, "transl": "давать", "ntranscr": "гэбн" },
+  {"id": 20110, "transl": "брать", "ntranscr": "нээмэн" },
+  {"id": 20111, "transl": "оставаться", "ntranscr": "блайбн" },
+  {"id": 20112, "transl": "работать", "ntranscr": "арбайтн" },
+  {"id": 20113, "transl": "учить / изучать", "ntranscr": "лэрнэн" },
+  {"id": 20114, "transl": "играть", "ntranscr": "шпилэн" },
+  {"id": 20115, "transl": "жить (проживать)", "ntranscr": "воонэн" },
+  {"id": 20201, "transl": "сегодня", "ntranscr": "хойтэ" },
+  {"id": 20202, "transl": "завтра / утро", "ntranscr": "моргэн" },
+  {"id": 20203, "transl": "вчера", "ntranscr": "гэстэрн" },
+  {"id": 20204, "transl": "сейчас", "ntranscr": "йетст" },
+  {"id": 20205, "transl": "рано", "ntranscr": "фрю" },
+  {"id": 20206, "transl": "поздно", "ntranscr": "шпээт" },
+  {"id": 20207, "transl": "раньше", "ntranscr": "фрюа" },
+  {"id": 20208, "transl": "позже", "ntranscr": "шпээта" },
+  {"id": 20301, "transl": "всегда", "ntranscr": "имма" },
+  {"id": 20302, "transl": "чаще всего", "ntranscr": "майстэнс" },
+  {"id": 20303, "transl": "часто", "ntranscr": "офт" },
+  {"id": 20304, "transl": "часто (книжн./нейтр.)", "ntranscr": "хойфих" },
+  {"id": 20305, "transl": "иногда", "ntranscr": "манхмааль" },
+  {"id": 20306, "transl": "время от времени", "ntranscr": "ап унт цу" },
+  {"id": 20307, "transl": "редко", "ntranscr": "зэльтн" },
+  {"id": 20308, "transl": "почти никогда", "ntranscr": "фаст нии" },
+  {"id": 20309, "transl": "никогда", "ntranscr": "нии" },
+  {"id": 20401, "transl": "вставать", "ntranscr": "ауфштээн" },
+  {"id": 20402, "transl": "завтракать", "ntranscr": "фрюштыкн" },
+  {"id": 20403, "transl": "работать", "ntranscr": "арбайтн" },
+  {"id": 20404, "transl": "учиться / изучать", "ntranscr": "лэрнэн" },
+  {"id": 20405, "transl": "учиться (в вузе)", "ntranscr": "штудирэн" },
+  {"id": 20406, "transl": "есть (кушать)", "ntranscr": "эсн" },
+  {"id": 20407, "transl": "обедать", "ntranscr": "цу миттаг эсн" },
+  {"id": 20408, "transl": "ужинать", "ntranscr": "цу абэнт эсн" },
+  {"id": 20409, "transl": "идти домой", "ntranscr": "нах хаузэ гээн" },
+  {"id": 20410, "transl": "отдыхать", "ntranscr": "зих аусруэн" },
+  {"id": 20411, "transl": "смотреть телевизор", "ntranscr": "фэрнзээн" },
+  {"id": 20412, "transl": "спать", "ntranscr": "шлаафн" },
+  {"id": 20501, "transl": "мочь / уметь", "ntranscr": "кёнэн" },
+  {"id": 20502, "transl": "долженствовать / быть вынужденным", "ntranscr": "мюссэн" },
+  {"id": 20503, "transl": "хотеть", "ntranscr": "волэн" },
+  {"id": 20504, "transl": "следовать (следует, должен по совету)", "ntranscr": "золэн" },
+  {"id": 20505, "transl": "мочь (разрешение)", "ntranscr": "дюрфэн" },
+  {"id": 20506, "transl": "любить / нравиться", "ntranscr": "мёоген" },
+  {"id": 20507, "transl": "хотел бы (вежливо)", "ntranscr": "мёхтэ" },
+  {"id": 20601, "transl": "ноль, один, два", "ntranscr": "нуль, айнс, цвай" },
+  {"id": 20602, "transl": "три, четыре, пять", "ntranscr": "драй, фиа, фюнф" },
+  {"id": 20603, "transl": "шесть, семь, восемь", "ntranscr": "зэкс, зибн, ахт" },
+  {"id": 20604, "transl": "девять, десять, одиннадцать", "ntranscr": "нойн, цеен, эльф" },
+  {"id": 20605, "transl": "двенадцать, тринадцать, четырнадцать", "ntranscr": "цвёльф, драйцеен, фиацеен" },
+  {"id": 20606, "transl": "пятнадцать, шестнадцать, семнадцать", "ntranscr": "фюнфцеен, зэхцеен, зипцеен" },
+  {"id": 20607, "transl": "восемнадцать, девятнадцать, двадцать", "ntranscr": "ахцеен, нойнцеен, цванцих" },
+  {"id": 20608, "transl": "тридцать, сорок, пятьдесят", "ntranscr": "драйсих, фиацих, фюнфцих" },
+  {"id": 20609, "transl": "шестьдесят, семьдесят, восемьдесят", "ntranscr": "зэхцих, зипцих, ахцих" },
+  {"id": 20610, "transl": "девяносто, сто", "ntranscr": "нойнцих, хундэрт" },
+  {"id": 20701, "transl": "и, или", "ntranscr": "унт, о́да" },
+  {"id": 20702, "transl": "но, потому что (разг.), итак / значит", "ntranscr": "а́ба, дэн, а́льзо" },
+  {"id": 20703, "transl": "тоже / также, только", "ntranscr": "аух, нуа" },
+  {"id": 20704, "transl": "очень, совсем / вполне", "ntranscr": "зеа, ганц" },
+  {"id": 20705, "transl": "так", "ntranscr": "зоо" },
+  {"id": 20706, "transl": "ещё, уже", "ntranscr": "нох, шоон" },
+  {"id": 20707, "transl": "всегда, никогда", "ntranscr": "и́мма, нии" },
+  {"id": 20708, "transl": "снова", "ntranscr": "ви́да" },
+  {"id": 20709, "transl": "нет (для сущ.), не", "ntranscr": "кайн, нихт" },
+  {"id": 20710, "transl": "никакая / никакие, ничего", "ntranscr": "ка́йнэ, нихтс" },
+  {"id": 20711, "transl": "в, на, на/у", "ntranscr": "ин, ауф, ан" },
+  {"id": 20712, "transl": "перед, за", "ntranscr": "фоа, хи́нта" },
+  {"id": 20713, "transl": "рядом с, между", "ntranscr": "нэ́бн, цви́шн" },
+  {"id": 20714, "transl": "напротив", "ntranscr": "ге́эгн-ю́ба" },
+  {"id": 20715, "transl": "у / при, с", "ntranscr": "бай, мит" },
+  {"id": 20716, "transl": "от / из, к / в, в (направление)", "ntranscr": "фон, цуу, нах" },
+  {"id": 20717, "transl": "для, без", "ntranscr": "фюа, о́нэ" },
+  {"id": 20801, "transl": "большой, маленький", "ntranscr": "грос, клайн" },
+  {"id": 20802, "transl": "старый, новый, молодой", "ntranscr": "альт, ной, юнг" },
+  {"id": 20803, "transl": "красивый, некрасивый", "ntranscr": "шён, хэслих" },
+  {"id": 20804, "transl": "хороший, плохой", "ntranscr": "гуут, шлехт" },
+  {"id": 20805, "transl": "правильный, неправильный", "ntranscr": "рихтих, фальш" },
+  {"id": 20806, "transl": "быстрый, медленный", "ntranscr": "шнель, лангзам" },
+  {"id": 20807, "transl": "лёгкий, тяжёлый", "ntranscr": "ляйхт, швеа" },
+  {"id": 20808, "transl": "дорогой, дешёвый", "ntranscr": "тойа, биллих" },
+  {"id": 20809, "transl": "светлый, тёмный", "ntranscr": "хэль, ду́нгкль" },
+  {"id": 20810, "transl": "важный", "ntranscr": "вихтих" },
+  {"id": 30101, "transl": "семья", "ntranscr": "ди фамилие" },
+  {"id": 30102, "transl": "отец", "ntranscr": "дэа фа́та" },
+  {"id": 30103, "transl": "мать", "ntranscr": "ди му́тта" },
+  {"id": 30104, "transl": "брат", "ntranscr": "дэа бру́да" },
+  {"id": 30105, "transl": "сестра", "ntranscr": "ди шве́ста" },
+  {"id": 30106, "transl": "родители", "ntranscr": "ди э́льтан" },
+  {"id": 30107, "transl": "дети", "ntranscr": "ди ки́нда" },
+  {"id": 30108, "transl": "сын", "ntranscr": "дэа зо́он" },
+  {"id": 30109, "transl": "дочь", "ntranscr": "ди то́хта" },
+  {"id": 30110, "transl": "мужчина / муж", "ntranscr": "дэа ман" },
+  {"id": 30111, "transl": "женщина / жена", "ntranscr": "ди фрау" },
+  {"id": 30201, "transl": "дом", "ntranscr": "дас хаус" },
+  {"id": 30202, "transl": "квартира", "ntranscr": "ди во́онунг" },
+  {"id": 30203, "transl": "комната", "ntranscr": "дас ци́мма" },
+  {"id": 30204, "transl": "кухня", "ntranscr": "ди кю́хэ" },
+  {"id": 30205, "transl": "ванная / санузел", "ntranscr": "дас баат" },
+  {"id": 30206, "transl": "кровать", "ntranscr": "дас бэт" },
+  {"id": 30207, "transl": "стол", "ntranscr": "дэа тиш" },
+  {"id": 30208, "transl": "стул", "ntranscr": "дэа штуль" },
+  {"id": 30209, "transl": "телевизор", "ntranscr": "дэа фэрнзээа" },
+  {"id": 30210, "transl": "холодильник", "ntranscr": "дэа кю́льшранк" },
+  {"id": 30211, "transl": "окно", "ntranscr": "дас фэ́нста" },
+  {"id": 30212, "transl": "дверь", "ntranscr": "ди тю́р" },
+  {"id": 30301, "transl": "одежда", "ntranscr": "ди кла́йдунг" },
+  {"id": 30302, "transl": "брюки", "ntranscr": "ди хо́зэ" },
+  {"id": 30303, "transl": "футболка", "ntranscr": "дас ти́шёрт" },
+  {"id": 30304, "transl": "свитер", "ntranscr": "дэа пу́лова" },
+  {"id": 30305, "transl": "куртка", "ntranscr": "ди я́кэ" },
+  {"id": 30306, "transl": "пальто", "ntranscr": "дэа ма́нтль" },
+  {"id": 30307, "transl": "платье", "ntranscr": "дас клайт" },
+  {"id": 30308, "transl": "юбка", "ntranscr": "дэа рок" },
+  {"id": 30309, "transl": "обувь / туфли", "ntranscr": "ди шу́э" },
+  {"id": 30310, "transl": "носки", "ntranscr": "ди зо́кн" },
+  {"id": 30311, "transl": "шапка", "ntranscr": "ди мю́цэ" },
+  {"id": 30312, "transl": "сумка", "ntranscr": "ди та́шэ" },
+  {"id": 30401, "transl": "тело", "ntranscr": "дэа кёрпа" },
+  {"id": 30402, "transl": "голова", "ntranscr": "дэа копф" },
+  {"id": 30403, "transl": "глаз", "ntranscr": "дас аугэ" },
+  {"id": 30404, "transl": "ухо", "ntranscr": "дас оа" },
+  {"id": 30405, "transl": "рука", "ntranscr": "ди хант" },
+  {"id": 30406, "transl": "нога / ступня", "ntranscr": "дэа фус" },
+  {"id": 30407, "transl": "живот", "ntranscr": "дэа баух" },
+  {"id": 30408, "transl": "сердце", "ntranscr": "дас хэрц" },
+  {"id": 30409, "transl": "врач", "ntranscr": "дэа артст" },
+  {"id": 30410, "transl": "женщина-врач", "ntranscr": "ди эрцтин" },
+  {"id": 30411, "transl": "лекарство / медицина", "ntranscr": "ди медици́иин" },
+  {"id": 30412, "transl": "боль", "ntranscr": "дэа шмерц" },
+  {"id": 30413, "transl": "температура (жар)", "ntranscr": "дас фи́ба" },
+  {"id": 30414, "transl": "простуда", "ntranscr": "ди эркэ́льтунг" },
+  {"id": 30415, "transl": "болезнь", "ntranscr": "ди кра́нкхайт" },
+  {"id": 30416, "transl": "больной", "ntranscr": "кранк" },
+  {"id": 30417, "transl": "здоровый", "ntranscr": "гезу́нт" },
+  {"id": 30418, "transl": "кашлять", "ntranscr": "ху́стн" },
+  {"id": 30419, "transl": "отдыхать", "ntranscr": "зих аусруэн" },
+  {"id": 30420, "transl": "чувствовать себя", "ntranscr": "зих фю́лэн" },
+  {"id": 30501, "transl": "красный", "ntranscr": "роот" },
+  {"id": 30502, "transl": "синий", "ntranscr": "блау" },
+  {"id": 30503, "transl": "зелёный", "ntranscr": "грюн" },
+  {"id": 30504, "transl": "жёлтый", "ntranscr": "гельп" },
+  {"id": 30505, "transl": "чёрный", "ntranscr": "шварц" },
+  {"id": 30506, "transl": "белый", "ntranscr": "вайс" },
+  {"id": 30507, "transl": "коричневый", "ntranscr": "браун" },
+  {"id": 30508, "transl": "серый", "ntranscr": "грау" },
+  {"id": 30509, "transl": "розовый", "ntranscr": "ро́за" },
+  {"id": 30510, "transl": "фиолетовый", "ntranscr": "ли́ла" },
+  {"id": 40101, "transl": "хлеб", "ntranscr": "дас броот" },
+  {"id": 40102, "transl": "рис", "ntranscr": "дэа райс" },
+  {"id": 40103, "transl": "макароны", "ntranscr": "ди ну́дльн" },
+  {"id": 40104, "transl": "картофель", "ntranscr": "ди картóфль" },
+  {"id": 40105, "transl": "мясо", "ntranscr": "дас флайш" },
+  {"id": 40106, "transl": "рыба", "ntranscr": "дэа фиш" },
+  {"id": 40107, "transl": "яйцо", "ntranscr": "дас ай" },
+  {"id": 40108, "transl": "сыр", "ntranscr": "дэа кэ́зэ" },
+  {"id": 40109, "transl": "колбаса", "ntranscr": "ди вурст" },
+  {"id": 40110, "transl": "фрукты", "ntranscr": "дас опст" },
+  {"id": 40111, "transl": "овощи", "ntranscr": "дас гемю́зэ" },
+  {"id": 40112, "transl": "яблоко", "ntranscr": "дэа а́пфль" },
+  {"id": 40113, "transl": "банан", "ntranscr": "ди ба́наанэ" },
+  {"id": 40201, "transl": "суп", "ntranscr": "ди зу́пэ" },
+  {"id": 40202, "transl": "салат", "ntranscr": "дэа зала́ат" },
+  {"id": 40203, "transl": "завтрак", "ntranscr": "дас фрю́штюк" },
+  {"id": 40204, "transl": "обед", "ntranscr": "дас ми́ттагэсн" },
+  {"id": 40205, "transl": "ужин", "ntranscr": "дас а́бэнтэсн" },
+  {"id": 40206, "transl": "еда", "ntranscr": "дас э́сн" },
+  {"id": 40207, "transl": "блюдо", "ntranscr": "дас гери́хт" },
+  {"id": 40301, "transl": "вода", "ntranscr": "дас ва́ссер" },
+  {"id": 40302, "transl": "кофе", "ntranscr": "дэа кафе́" },
+  {"id": 40303, "transl": "чай", "ntranscr": "дэа тэ" },
+  {"id": 40304, "transl": "сок", "ntranscr": "дэа зафт" },
+  {"id": 40305, "transl": "молоко", "ntranscr": "ди мильх" },
+  {"id": 40306, "transl": "пиво", "ntranscr": "дас би́а" },
+  {"id": 40401, "transl": "магазин", "ntranscr": "дас геша́фт" },
+  {"id": 40402, "transl": "супермаркет", "ntranscr": "дэа зу́пермаркт" },
+  {"id": 40403, "transl": "покупать", "ntranscr": "ка́уфэн" },
+  {"id": 40404, "transl": "платить", "ntranscr": "бецáлен" },
+  {"id": 40405, "transl": "цена", "ntranscr": "дэа прайс" },
+  {"id": 40406, "transl": "деньги", "ntranscr": "дас гельт" },
+  {"id": 40407, "transl": "касса", "ntranscr": "ди ка́сэ" },
+  {"id": 40408, "transl": "дорогой", "ntranscr": "то́йa" },
+  {"id": 40409, "transl": "дешёвый", "ntranscr": "би́лих" },
+  {"id": 40410, "transl": "открыто", "ntranscr": "о́фн" },
+  {"id": 40411, "transl": "закрыто", "ntranscr": "гешло́сн" },
+  {"id": 40501, "transl": "свежий", "ntranscr": "фриш" },
+  {"id": 40502, "transl": "острый", "ntranscr": "шарф" },
+  {"id": 40503, "transl": "вкусный", "ntranscr": "лэ́кa" },
+  {"id": 40504, "transl": "сладкий", "ntranscr": "зю́с" },
+  {"id": 40505, "transl": "солёный", "ntranscr": "за́льцих" },
+  {"id": 40506, "transl": "кислый", "ntranscr": "за́уa" },
+  {"id": 40507, "transl": "горький", "ntranscr": "би́тта" },
+  {"id": 40508, "transl": "горячий", "ntranscr": "хайс" },
+  {"id": 40509, "transl": "холодный", "ntranscr": "кальт" },
+  {"id": 50101, "transl": "город", "ntranscr": "ди штат" },
+  {"id": 50102, "transl": "улица", "ntranscr": "ди штра́сэ" },
+  {"id": 50103, "transl": "парк", "ntranscr": "дэа парк" },
+  {"id": 50104, "transl": "вокзал", "ntranscr": "дэа ба́нхоф" },
+  {"id": 50105, "transl": "аэропорт", "ntranscr": "дэа флу́кхафн" },
+  {"id": 50106, "transl": "ресторан", "ntranscr": "дас рэсторан" },
+  {"id": 50107, "transl": "офис", "ntranscr": "дас бюро́" },
+  {"id": 50108, "transl": "школа", "ntranscr": "ди шу́ле" },
+  {"id": 50201, "transl": "машина", "ntranscr": "дас а́уто" },
+  {"id": 50202, "transl": "автобус", "ntranscr": "дэа бус" },
+  {"id": 50203, "transl": "поезд", "ntranscr": "ди баан" },
+  {"id": 50204, "transl": "метро", "ntranscr": "ди у-баан" },
+  {"id": 50205, "transl": "такси", "ntranscr": "дас такси" },
+  {"id": 50206, "transl": "велосипед", "ntranscr": "дас фа́араат" },
+  {"id": 50207, "transl": "пешком", "ntranscr": "цу фус" },
+  {"id": 50208, "transl": "ехать", "ntranscr": "фа́арэн" },
+  {"id": 50209, "transl": "садиться (в транспорт) / заходить", "ntranscr": "айнштайгн" },
+  {"id": 50210, "transl": "прибывать", "ntranscr": "а́нкомэн" },
+  {"id": 50211, "transl": "отправляться", "ntranscr": "а́пфаарэн" },
+  {"id": 50301, "transl": "путешествовать", "ntranscr": "ра́йзн" },
+  {"id": 50302, "transl": "отпуск", "ntranscr": "дэа у́рлауп" },
+  {"id": 50303, "transl": "путешествие", "ntranscr": "ди ра́йзэ" },
+  {"id": 50304, "transl": "турист", "ntranscr": "дэа тури́ст" },
+  {"id": 50305, "transl": "достопримечательность", "ntranscr": "ди зе́энсвю́рдикхайт" },
+  {"id": 50306, "transl": "отель", "ntranscr": "дас отэ́ль" },
+  {"id": 50307, "transl": "жильё", "ntranscr": "ди у́нтэркунфт" },
+  {"id": 50308, "transl": "билет", "ntranscr": "ди фа́аркарте" },
+  {"id": 50309, "transl": "паспорт", "ntranscr": "дэа пас" },
+  {"id": 50310, "transl": "собирать вещи", "ntranscr": "па́кн" },
+  {"id": 50401, "transl": "погода", "ntranscr": "дас ве́тта" },
+  {"id": 50402, "transl": "солнце", "ntranscr": "ди зо́ннэ" },
+  {"id": 50403, "transl": "дождь", "ntranscr": "дэа ре́эгн" },
+  {"id": 50404, "transl": "снег", "ntranscr": "дэа шнее" },
+  {"id": 50405, "transl": "ветер", "ntranscr": "дэа винт" },
+  {"id": 50406, "transl": "облако", "ntranscr": "ди во́лькэ" },
+  {"id": 50407, "transl": "небо", "ntranscr": "дэа хи́мль" },
+  {"id": 50408, "transl": "река", "ntranscr": "дэа флюс" },
+  {"id": 50409, "transl": "озеро", "ntranscr": "дэа зее" },
+  {"id": 50410, "transl": "гора", "ntranscr": "дэа бэрк" },
+  {"id": 50411, "transl": "лес", "ntranscr": "дэа вальт" },
+  {"id": 50412, "transl": "тёплый", "ntranscr": "варм" },
+  {"id": 50413, "transl": "холодный", "ntranscr": "кальт" },
+  {"id": 50501, "transl": "прямо", "ntranscr": "гэра́дэаус" },
+  {"id": 50502, "transl": "налево", "ntranscr": "лингкс" },
+  {"id": 50503, "transl": "направо", "ntranscr": "рэхтс" },
+  {"id": 50504, "transl": "на углу", "ntranscr": "ан дэа э́кэ" },
+  {"id": 50505, "transl": "рядом с", "ntranscr": "нэ́бн" },
+  {"id": 50506, "transl": "напротив", "ntranscr": "ге́эгн ю́бa" },
+  {"id": 50507, "transl": "перед", "ntranscr": "фоа" },
+  {"id": 50508, "transl": "за", "ntranscr": "хи́нта" },
+  {"id": 50509, "transl": "между", "ntranscr": "цви́шн" },
+  {"id": 50510, "transl": "за углом", "ntranscr": "ум ди э́кэ" },
+  {"id": 50511, "transl": "через дорогу", "ntranscr": "ю́ба ди штра́сэ" },
+  {"id": 50512, "transl": "у светофора", "ntranscr": "ан дэа а́мпэль" },
+  {"id": 50513, "transl": "следовать", "ntranscr": "фо́льгн" },
+  {"id": 50514, "transl": "искать", "ntranscr": "зуухэн" },
+  {"id": 50515, "transl": "показывать", "ntranscr": "ца́йгн" },
+  {"id": 50516, "transl": "поворачивать", "ntranscr": "а́пби́гн" },
+  {"id": 50517, "transl": "дальше", "ntranscr": "ва́йта" },
+  {"id": 50518, "transl": "до (чего-то)", "ntranscr": "бис цуа" },
+  {"id": 60101, "transl": "врач", "ntranscr": "артст / эрцтин" },
+  {"id": 60102, "transl": "учитель / учительница", "ntranscr": "ле́эра / ле́эрэрин" },
+  {"id": 60103, "transl": "ученик / ученица", "ntranscr": "шю́ла / шю́лерин" },
+  {"id": 60104, "transl": "студент / студентка", "ntranscr": "штудэ́нт / штудэ́нтин" },
+  {"id": 60105, "transl": "инженер", "ntranscr": "энжине́а / энжине́рин" },
+  {"id": 60106, "transl": "продавец / продавщица", "ntranscr": "фэрко́йфа / фэрко́йферин" },
+  {"id": 60107, "transl": "повар", "ntranscr": "кох / кёхин" },
+  {"id": 60108, "transl": "водитель", "ntranscr": "фа́ара / фа́арэрин" },
+  {"id": 60109, "transl": "полицейский", "ntranscr": "полици́ст / полици́стин" },
+  {"id": 60201, "transl": "начальник / начальница", "ntranscr": "шеф / ше́фин" },
+  {"id": 60202, "transl": "коллега", "ntranscr": "колле́гэ / колле́гин" },
+  {"id": 60203, "transl": "письменный стол", "ntranscr": "шра́йптиш" },
+  {"id": 60204, "transl": "компьютер", "ntranscr": "компью́та" },
+  {"id": 60205, "transl": "ноутбук", "ntranscr": "лэ́птоп" },
+  {"id": 60206, "transl": "телефон", "ntranscr": "телефо́н" },
+  {"id": 60207, "transl": "мобильный телефон", "ntranscr": "хэ́нди" },
+  {"id": 60208, "transl": "электронное письмо", "ntranscr": "и́мэйл" },
+  {"id": 60209, "transl": "встреча / приём", "ntranscr": "тэрми́н" },
+  {"id": 60210, "transl": "договор", "ntranscr": "фэртра́ак" },
+  {"id": 60211, "transl": "писать", "ntranscr": "шра́йбн" },
+  {"id": 60212, "transl": "читать", "ntranscr": "ле́эзн" },
+  {"id": 60213, "transl": "звонить по телефону", "ntranscr": "телефони́рен" },
+  {"id": 60301, "transl": "урок / занятие", "ntranscr": "дэа у́нтэррихт" },
+  {"id": 60302, "transl": "класс", "ntranscr": "ди кла́сэ" },
+  {"id": 60303, "transl": "предмет", "ntranscr": "дас фах" },
+  {"id": 60304, "transl": "экзамен / проверка", "ntranscr": "ди прю́фунг" },
+  {"id": 60305, "transl": "книга", "ntranscr": "дас буух" },
+  {"id": 60306, "transl": "ручка / карандаш", "ntranscr": "дэа штифт" },
+  {"id": 60307, "transl": "тетрадь", "ntranscr": "дас хэфт" },
+  {"id": 60308, "transl": "задание", "ntranscr": "ди а́уфгаабэ" },
+  {"id": 60401, "transl": "язык", "ntranscr": "ди шпра́хэ" },
+  {"id": 60402, "transl": "немецкий (язык)", "ntranscr": "дойч" },
+  {"id": 60403, "transl": "английский (язык)", "ntranscr": "э́нглиш" },
+  {"id": 60404, "transl": "французский (язык)", "ntranscr": "францё́зиш" },
+  {"id": 60405, "transl": "испанский (язык)", "ntranscr": "шпа́ниш" },
+  {"id": 60406, "transl": "украинский (язык)", "ntranscr": "украи́ниш" },
+  {"id": 60407, "transl": "Германия", "ntranscr": "до́йчланд" },
+  {"id": 60408, "transl": "Франция", "ntranscr": "франкра́йх" },
+  {"id": 60409, "transl": "Испания", "ntranscr": "шпа́ниен" },
+  {"id": 60410, "transl": "Украина", "ntranscr": "ди украи́нэ" },
+  {"id": 70101, "transl": "свободное время", "ntranscr": "ди фра́йцайт" },
+  {"id": 70102, "transl": "выходные", "ntranscr": "дас во́хенэнде" },
+  {"id": 70103, "transl": "гулять", "ntranscr": "шпаци́рен" },
+  {"id": 70104, "transl": "расслабляться", "ntranscr": "энтшпа́нэн" },
+  {"id": 70105, "transl": "смотреть телевизор", "ntranscr": "фэ́рнзээн" },
+  {"id": 70106, "transl": "слушать музыку", "ntranscr": "музи́к хё́рэн" },
+  {"id": 70107, "transl": "ходить в поход / гулять", "ntranscr": "ва́ндaрн" },
+  {"id": 70201, "transl": "хобби", "ntranscr": "дас хо́бби" },
+  {"id": 70202, "transl": "собирать (коллекционировать)", "ntranscr": "за́мльн" },
+  {"id": 70203, "transl": "рисовать", "ntranscr": "ма́алэн" },
+  {"id": 70204, "transl": "заниматься музыкой", "ntranscr": "музи́к ма́хн" },
+  {"id": 70205, "transl": "танцевать", "ntranscr": "та́нцн" },
+  {"id": 70206, "transl": "фотографировать", "ntranscr": "фотографи́рен" },
+  {"id": 70207, "transl": "готовить", "ntranscr": "ко́хн" },
+  {"id": 70208, "transl": "печь", "ntranscr": "ба́кн" },
+  {"id": 70209, "transl": "шить", "ntranscr": "нэ́эн" },
+  {"id": 70210, "transl": "заниматься садом", "ntranscr": "гэ́ртнарн" },
+  {"id": 70211, "transl": "играть в компьютерные игры", "ntranscr": "компью́та шпи́лен" },
+  {"id": 70301, "transl": "спорт", "ntranscr": "дэа шпорт" },
+  {"id": 70302, "transl": "плавать", "ntranscr": "шви́мэн" },
+  {"id": 70303, "transl": "бегать", "ntranscr": "ла́уфэн" },
+  {"id": 70304, "transl": "ездить на велосипеде", "ntranscr": "раат фа́арэн" },
+  {"id": 70305, "transl": "играть в футбол", "ntranscr": "фу́сбаль шпи́лен" },
+  {"id": 70306, "transl": "играть в теннис", "ntranscr": "тэ́нис шпи́лен" },
+  {"id": 70307, "transl": "тренироваться", "ntranscr": "трени́рен" },
+  {"id": 70308, "transl": "выигрывать", "ntranscr": "геви́нэн" },
+  {"id": 70309, "transl": "проигрывать", "ntranscr": "фэрли́рен" },
+  {"id": 70401, "transl": "счастливый", "ntranscr": "глю́клих" },
+  {"id": 70402, "transl": "грустный", "ntranscr": "тра́урих" },
+  {"id": 70403, "transl": "уставший", "ntranscr": "мю́дэ" },
+  {"id": 70404, "transl": "бодрствующий", "ntranscr": "вах" },
+  {"id": 70405, "transl": "испуганный / тревожный", "ntranscr": "э́нгстлих" },
+  {"id": 70406, "transl": "взволнованный", "ntranscr": "а́уфгерээкт" },
+  {"id": 70407, "transl": "спокойный", "ntranscr": "ру́их" },
+  {"id": 70408, "transl": "нервный", "ntranscr": "нэрвёз" },
+  {"id": 70409, "transl": "довольный", "ntranscr": "цуфри́дн" },
+  {"id": 70410, "transl": "голодный", "ntranscr": "ху́нгрих" },
+  {"id": 70411, "transl": "хочется пить", "ntranscr": "ду́рстих" },
+  {"id": 70412, "transl": "заинтересованный", "ntranscr": "интэреси́рт" },
+  {"id": 70501, "transl": "собака", "ntranscr": "дэа хунт" },
+  {"id": 70502, "transl": "кошка", "ntranscr": "ди ка́цэ" },
+  {"id": 70503, "transl": "птица", "ntranscr": "дэа фо́гль" },
+  {"id": 70504, "transl": "рыба", "ntranscr": "дэа фиш" },
+  {"id": 70505, "transl": "лошадь", "ntranscr": "дас пфээрт" },
+  {"id": 70506, "transl": "корова", "ntranscr": "ди куу" },
+  {"id": 70507, "transl": "свинья", "ntranscr": "дас швайн" },
+  {"id": 70508, "transl": "овца", "ntranscr": "дас шааф" },
+  {"id": 70509, "transl": "кролик", "ntranscr": "дас кани́нхэн" },
+  {"id": 70510, "transl": "мышь", "ntranscr": "ди маус" },
+  {"id": 70511, "transl": "медведь", "ntranscr": "дэа бээa" },
+  {"id": 70512, "transl": "лев", "ntranscr": "дэа лё́вэ" },
+  {"id": 70513, "transl": "обезьяна", "ntranscr": "дэа а́фэ" },
+  {"id": 70514, "transl": "утка", "ntranscr": "ди э́нтэ" }
 ]
