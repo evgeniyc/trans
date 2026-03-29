@@ -1,0 +1,187 @@
+[
+  {
+    "id": 101,
+    "transl": "Osoby i zaimki",
+    "ntranscr": "perzoonen und proonomen"
+  },
+  {
+    "id": 102,
+    "transl": "Powitania i reagowanie",
+    "ntranscr": "begryysn und reagiirn"
+  },
+  {
+    "id": 103,
+    "transl": "Przedstawianie się",
+    "ntranscr": "zyś foorsztyln"
+  },
+  {
+    "id": 104,
+    "transl": "Zadawanie pytań",
+    "ntranscr": "fraagn sztyln"
+  },
+  {
+    "id": 105,
+    "transl": "Odpowiedzi i reakcje",
+    "ntranscr": "antwortn und reakcioonen"
+  },
+  {
+    "id": 201,
+    "transl": "Podstawowe czasowniki",
+    "ntranscr": "gruntleegende ferbn"
+  },
+  {
+    "id": 202,
+    "transl": "Określenia czasu",
+    "ntranscr": "cajt-angaabn"
+  },
+  {
+    "id": 203,
+    "transl": "Częstotliwość",
+    "ntranscr": "hojfyś-kajt"
+  },
+  {
+    "id": 204,
+    "transl": "Plan dnia",
+    "ntranscr": "taages-aplauf"
+  },
+  {
+    "id": 205,
+    "transl": "Czasowniki modalne",
+    "ntranscr": "modaal-ferbn"
+  },
+  {
+    "id": 206,
+    "transl": "Liczby i daty",
+    "ntranscr": "caaln und daatum"
+  },
+  {
+    "id": 207,
+    "transl": "Przyimki i krótkie słówka",
+    "ntranscr": "prepozicioonen und klajne weerta"
+  },
+  {
+    "id": 208,
+    "transl": "Podstawowe przymiotniki",
+    "ntranscr": "gruntleegende adjektywe"
+  },
+  {
+    "id": 301,
+    "transl": "Rodzina",
+    "ntranscr": "famiiliie"
+  },
+  {
+    "id": 302,
+    "transl": "W domu",
+    "ntranscr": "cu-hauze"
+  },
+  {
+    "id": 303,
+    "transl": "Ubrania",
+    "ntranscr": "klajdung"
+  },
+  {
+    "id": 304,
+    "transl": "Ciało i zdrowie",
+    "ntranscr": "kerpa und gezunthajt"
+  },
+  {
+    "id": 305,
+    "transl": "Kolory",
+    "ntranscr": "farbn"
+  },
+  {
+    "id": 401,
+    "transl": "Artykuły spożywcze",
+    "ntranscr": "leebns-mytl"
+  },
+  {
+    "id": 402,
+    "transl": "Dania",
+    "ntranscr": "geryśte"
+  },
+  {
+    "id": 403,
+    "transl": "Napoje",
+    "ntranscr": "getrenke"
+  },
+  {
+    "id": 404,
+    "transl": "W sklepie",
+    "ntranscr": "ym geszeft"
+  },
+  {
+    "id": 405,
+    "transl": "Smak i ocena",
+    "ntranscr": "geszmak und befertung"
+  },
+  {
+    "id": 501,
+    "transl": "W mieście",
+    "ntranscr": "yn dea sztat"
+  },
+  {
+    "id": 502,
+    "transl": "Środki transportu",
+    "ntranscr": "ferkeers-mytl"
+  },
+  {
+    "id": 503,
+    "transl": "Podróże",
+    "ntranscr": "rajzn"
+  },
+  {
+    "id": 504,
+    "transl": "Pogoda i natura",
+    "ntranscr": "weta und natuua"
+  },
+  {
+    "id": 505,
+    "transl": "Opis drogi",
+    "ntranscr": "week-beszrajbung"
+  },
+  {
+    "id": 601,
+    "transl": "Zawody",
+    "ntranscr": "beruufe"
+  },
+  {
+    "id": 602,
+    "transl": "W biurze",
+    "ntranscr": "ym biuroo"
+  },
+  {
+    "id": 603,
+    "transl": "W szkole",
+    "ntranscr": "yn dea szuule"
+  },
+  {
+    "id": 604,
+    "transl": "Języki i kraje",
+    "ntranscr": "szpraahn und lenda"
+  },
+  {
+    "id": 701,
+    "transl": "Czas wolny",
+    "ntranscr": "frajcajt"
+  },
+  {
+    "id": 702,
+    "transl": "Hobby",
+    "ntranscr": "hobis"
+  },
+  {
+    "id": 703,
+    "transl": "Sport",
+    "ntranscr": "szport"
+  },
+  {
+    "id": 704,
+    "transl": "Uczucia i stany",
+    "ntranscr": "gefyyle und cuusztende"
+  },
+  {
+    "id": 705,
+    "transl": "Zwierzęta",
+    "ntranscr": "tiire"
+  }
+]
