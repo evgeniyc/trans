@@ -1,12 +1,38 @@
 [
-  {
-    "id": 1010101,
-    "wordId": 10101,
-    "original": "Ich habe einen Apfel."
-  },
-  {
-    "id": 1010102,
-    "wordId": 10101,
-    "original": "Der Apfel ist rot."
-  }
+  { "id": 1010101, "wordId": 10101, "original": "Ich bin Student." },
+  { "id": 1010102, "wordId": 10101, "original": "Ich lerne Deutsch." },
+  { "id": 1010201, "wordId": 10102, "original": "Du bist nett." },
+  { "id": 1010202, "wordId": 10102, "original": "Woher kommst du?" },
+  { "id": 1010301, "wordId": 10103, "original": "Er wohnt in Berlin." },
+  { "id": 1010302, "wordId": 10103, "original": "Er spielt Fußball." },
+  { "id": 1010401, "wordId": 10104, "original": "Sie heißt Maria." },
+  { "id": 1010402, "wordId": 10104, "original": "Sie trinkt Kaffee." },
+  { "id": 1010501, "wordId": 10105, "original": "Das ist ein Kind. Es spielt." },
+  { "id": 1010502, "wordId": 10105, "original": "Es ist kalt heute." },
+  { "id": 1010601, "wordId": 10106, "original": "Wir gehen nach Hause." },
+  { "id": 1010602, "wordId": 10106, "original": "Wir verstehen das." },
+  { "id": 1010701, "wordId": 10107, "original": "Ihr lernt viel." },
+  { "id": 1010702, "wordId": 10107, "original": "Seid ihr fertig?" },
+  { "id": 1010801, "wordId": 10108, "original": "Sie sind meine Freunde." },
+  { "id": 1010802, "wordId": 10108, "original": "Sie kommen aus Spanien." },
+  { "id": 1010901, "wordId": 10109, "original": "Wie heißen Sie?" },
+  { "id": 1010902, "wordId": 10109, "original": "Sprechen Sie Deutsch?" },
+  { "id": 1011001, "wordId": 10110, "original": "Das ist mein Auto." },
+  { "id": 1011002, "wordId": 10110, "original": "Wo ist meine Tasche?" },
+  { "id": 1011101, "wordId": 10111, "original": "Ist das dein Buch?" },
+  { "id": 1011102, "wordId": 10111, "original": "Deine Katze ist süß." },
+  { "id": 1011201, "wordId": 10112, "original": "Der Mann arbeitet hier." },
+  { "id": 1011202, "wordId": 10112, "original": "Ich kenne den Mann." },
+  { "id": 1011301, "wordId": 10113, "original": "Die Frau liest ein Buch." },
+  { "id": 1011302, "wordId": 10113, "original": "Die Frau ist schön." },
+  { "id": 1011401, "wordId": 10114, "original": "Das Kind schläft." },
+  { "id": 1011402, "wordId": 10114, "original": "Das Kind ist klein." },
+  { "id": 1011501, "wordId": 10115, "original": "Dort sind viele Leute." },
+  { "id": 1011502, "wordId": 10115, "original": "Die Leute sind freundlich." },
+  { "id": 1011601, "wordId": 10116, "original": "Er ist mein bester Freund." },
+  { "id": 1011602, "wordId": 10116, "original": "Mein Freund hilft mir." },
+  { "id": 1011701, "wordId": 10117, "original": "Das ist meine Freundin." },
+  { "id": 1011702, "wordId": 10117, "original": "Sie ist eine gute Freundin." },
+  { "id": 1011801, "wordId": 10118, "original": "Mein Name ist Thomas." },
+  { "id": 1011802, "wordId": 10118, "original": "Wie ist Ihr Name?" }
 ]
